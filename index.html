@@ -7,15 +7,22 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
         body { font-family: system-ui, -apple-system, sans-serif; }
+        /* Efecto de fondo con tu logo integrado */
+        .fondo-logo {
+            background-image: linear-gradient(to bottom, rgba(30, 41, 59, 0.93), rgba(30, 41, 59, 0.93)), url('Gemini_Generated_Image_l6w2e2l6w2e2l6w2.png');
+            background-position: center 35%;
+            background-repeat: no-repeat;
+            background-size: 110% auto;
+        }
     </style>
 </head>
 <body class="bg-slate-900 text-slate-100 min-h-screen antialiased flex flex-col justify-between">
 
-    <div class="max-w-md mx-auto bg-slate-800 min-h-screen w-full flex flex-col justify-between shadow-2xl border-x border-slate-700">
+    <div class="max-w-md mx-auto bg-slate-800 min-h-screen w-full flex flex-col justify-between shadow-2xl border-x border-slate-700 fondo-logo">
         
-        <header class="bg-blue-700 p-4 sticky top-0 z-50 flex items-center gap-4 border-b border-blue-600 shadow-lg">
+        <header class="bg-blue-700/95 backdrop-blur-sm p-4 sticky top-0 z-50 flex items-center gap-4 border-b border-blue-600 shadow-lg">
             <div class="w-14 h-14 bg-white rounded-full flex items-center justify-center overflow-hidden border-2 border-blue-950 shadow-md">
-                <span class="text-2xl">🛵</span> 
+                <img src="Gemini_Generated_Image_l6w2e2l6w2e2l6w2.png" alt="Logo" class="w-full h-full object-cover">
             </div>
             <div>
                 <h1 class="text-xl font-bold tracking-wide text-white uppercase">Cienfuegos Express</h1>
@@ -25,7 +32,7 @@
 
         <main class="p-5 flex-1 space-y-6 overflow-y-auto">
 
-            <section class="bg-slate-700/50 p-4 rounded-2xl border border-slate-600 space-y-4 shadow-xl">
+            <section class="bg-slate-800/80 backdrop-blur-md p-4 rounded-2xl border border-slate-600/80 space-y-4 shadow-xl">
                 <div class="flex items-center gap-2">
                     <span class="text-xl">📍</span>
                     <h2 class="font-bold text-base text-white">Consulta la tarifa de tu dirección</h2>
@@ -33,26 +40,26 @@
 
                 <div class="space-y-2">
                     <label class="block text-xs font-semibold text-slate-300 uppercase tracking-wider">Escribe tu calle o dirección:</label>
-                    <input type="text" id="buscarDireccion" placeholder="Ej: Calle 37 o Tulipán..." 
-                           class="w-full p-3 bg-slate-800 border border-slate-600 rounded-xl text-white placeholder-slate-400 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all text-sm shadow-inner">
+                    <input type="text" id="buscarDireccion" placeholder="Ej: Calle 37, Avenida 36..." 
+                           class="w-full p-3 bg-slate-900/90 border border-slate-600 rounded-xl text-white placeholder-slate-400 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all text-sm shadow-inner">
                 </div>
 
-                <div id="listaSugerencias" class="hidden max-h-48 overflow-y-auto bg-slate-800 border border-slate-600 rounded-xl divide-y divide-slate-700 text-sm"></div>
+                <div id="listaSugerencias" class="hidden max-h-56 overflow-y-auto bg-slate-900 border border-slate-600 rounded-xl divide-y divide-slate-700 text-sm shadow-2xl"></div>
 
-                <div id="resultadoTarifa" class="hidden bg-gradient-to-br from-blue-900/40 to-blue-800/20 border border-blue-500/30 p-4 rounded-xl space-y-2">
+                <div id="resultadoTarifa" class="hidden bg-gradient-to-br from-blue-900/60 to-blue-800/40 border border-blue-500/40 p-4 rounded-xl space-y-2">
                     <div class="flex justify-between items-baseline">
                         <span class="text-xs font-medium text-blue-300 uppercase">Costo del Domicilio:</span>
                         <span id="precioTexto" class="font-black text-2xl text-blue-400"></span>
                     </div>
                     <div class="text-xs text-slate-300 space-y-1 pt-1 border-t border-slate-600/50">
-                        <p class="font-semibold text-white">📌 Dirección exacta detectada:</p>
-                        <p id="detallesDireccion" class="italic text-slate-400"></p>
-                        <p class="pt-1">📍 <span class="font-semibold text-slate-200">Zona:</span> <span id="zonaTexto" class="text-blue-300 font-medium"></span></p>
+                        <p class="font-semibold text-white">📌 Dirección oficial:</p>
+                        <p id="detallesDireccion" class="italic text-slate-300 bg-slate-900/40 p-2 rounded mt-1 border border-slate-700/30"></p>
+                        <p class="pt-2">📍 <span class="font-semibold text-slate-200">Zona:</span> <span id="zonaTexto" class="text-blue-300 font-bold"></span></p>
                     </div>
                 </div>
             </section>
 
-            <section class="bg-slate-900/60 p-4 rounded-2xl border border-slate-700/60 space-y-4 shadow-md">
+            <section class="bg-slate-900/80 backdrop-blur-md p-4 rounded-2xl border border-slate-700/80 space-y-4 shadow-md">
                 <div class="flex justify-between items-center">
                     <h3 class="font-bold text-xs text-slate-400 uppercase tracking-widest">Rastreo de Motorina</h3>
                     <span class="text-[10px] bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded-full font-bold uppercase tracking-wider animate-pulse">Señal Activa</span>
@@ -83,7 +90,7 @@
                 </div>
             </section>
 
-            <section class="bg-amber-950/20 border border-amber-500/20 p-3 rounded-xl space-y-2">
+            <section class="bg-amber-950/40 backdrop-blur-sm border border-amber-500/20 p-3 rounded-xl space-y-2">
                 <h4 class="font-bold text-amber-400 text-[10px] uppercase tracking-widest">🔒 Panel de Control del Motorista</h4>
                 <div class="grid grid-cols-2 gap-2">
                     <button onclick="actualizarMotorina(2)" class="bg-amber-600 hover:bg-amber-700 text-white text-xs font-semibold py-2 px-3 rounded-lg shadow active:scale-95 transition-all">🛵 Iniciar Viaje</button>
@@ -93,7 +100,7 @@
 
         </main>
 
-        <footer class="p-3 text-center text-[10px] text-slate-500 border-t border-slate-700/50 bg-slate-900/40">
+        <footer class="p-3 text-center text-[10px] text-slate-500 border-t border-slate-700/50 bg-slate-900/80">
             &copy; 2026 Cienfuegos Express. Optimizada para el ahorro de datos móviles.
         </footer>
 
@@ -103,16 +110,33 @@
     <script>
         let baseDatosDirecciones = [];
 
-        // Leer automáticamente tu archivo de Excel (.csv) desde la carpeta
         Papa.parse("direcciones.csv", {
             download: true,
             header: true,
             skipEmptyLines: true,
             complete: function(resultados) {
                 baseDatosDirecciones = resultados.data;
-                console.log("Base de datos cargada correctamente:", baseDatosDirecciones.length, "direcciones.");
+                console.log("Base de datos cargada:", baseDatosDirecciones.length);
             }
         });
+
+        // Función interna para leer columnas aunque tengan acentos en el Excel
+        function obtenerValorColumna(fila, nombresPosibles) {
+            for (let nombre of nombresPosibles) {
+                if (fila[nombre] !== undefined) return fila[nombre];
+            }
+            // Buscar una clave que se parezca si cambia la codificación
+            for (let clave in fila) {
+                if (nombreSinAcentos(clave).includes(nombreSinAcentos(nombresPosibles[0]))) {
+                    return fila[clave];
+                }
+            }
+            return "";
+        }
+
+        function nombreSinAcentos(texto) {
+            return (texto || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+        }
 
         const inputBuscar = document.getElementById('buscarDireccion');
         const listaSugerencias = document.getElementById('listaSugerencias');
@@ -121,37 +145,40 @@
         const detallesDireccion = document.getElementById('detallesDireccion');
         const zonaTexto = document.getElementById('zonaTexto');
 
-        // Buscador interactivo en tiempo real
         inputBuscar.addEventListener('input', (e) => {
-            const texto = e.target.value.toLowerCase().trim();
+            const textoBusqueda = nombreSinAcentos(e.target.value);
             listaSugerencias.innerHTML = "";
             
-            if (texto.length < 2) {
+            if (textoBusqueda.length < 2) {
                 listaSugerencias.classList.add('hidden');
                 return;
             }
 
-            // Filtrar las filas del Excel que coincidan con lo que escribe el usuario
+            // Filtrado inteligente
             const coincidencias = baseDatosDirecciones.filter(fila => {
-                const completa = (fila.direccion_completa || "").toLowerCase();
-                const zona = (fila.zona || "").toLowerCase();
-                return completa.includes(texto) || zona.includes(texto);
-            }).slice(0, 5); // Mostrar solo las 5 mejores opciones para ahorrar espacio
+                const direccionCompleta = nombreSinAcentos(obtenerValorColumna(fila, ['direccion_completa', 'dirección_completa']));
+                const zona = nombreSinAcentos(obtenerValorColumna(fila, ['zona']));
+                return direccionCompleta.includes(textoBusqueda) || zona.includes(textoBusqueda);
+            }).slice(0, 6);
 
             if (coincidencias.length > 0) {
                 listaSugerencias.classList.remove('hidden');
                 coincidencias.forEach(fila => {
+                    const dirCompletaOriginal = obtenerValorColumna(fila, ['direccion_completa', 'dirección_completa']);
+                    const precioOriginal = obtenerValorColumna(fila, ['precio']);
+                    const zonaOriginal = obtenerValorColumna(fila, ['zona']) || "General";
+
                     const item = document.createElement('div');
-                    item.className = "p-3 hover:bg-slate-700 cursor-pointer transition-colors text-slate-200 border-b border-slate-700/50 last:border-0";
-                    item.innerText = fila.direccion_completa;
+                    item.className = "p-3 hover:bg-slate-800 cursor-pointer transition-colors text-slate-200 border-b border-slate-800 last:border-0";
+                    item.innerText = dirCompletaOriginal;
+                    
                     item.addEventListener('click', () => {
-                        // Al hacer clic, mostrar el precio de ese registro del Excel
-                        precioTexto.innerText = `${fila.precio} CUP`;
-                        detallesDireccion.innerText = fila.direccion_completa;
-                        zonaTexto.innerText = fila.zona || "General";
+                        precioTexto.innerText = `${precioOriginal} CUP`;
+                        detallesDireccion.innerText = dirCompletaOriginal;
+                        zonaTexto.innerText = zonaOriginal;
                         resultadoTarifa.classList.remove('hidden');
                         listaSugerencias.classList.add('hidden');
-                        inputBuscar.value = fila.direccion_completa;
+                        inputBuscar.value = dirCompletaOriginal;
                     });
                     listaSugerencias.appendChild(item);
                 });
@@ -160,11 +187,9 @@
             }
         });
 
-        // Función para cambiar los estados de la moto
         function actualizarMotorina(paso) {
             document.getElementById('est-2').classList.add('opacity-30');
             document.getElementById('est-3').classList.add('opacity-30');
-            
             if (paso >= 2) document.getElementById('est-2').classList.remove('opacity-30');
             if (paso >= 3) document.getElementById('est-3').classList.remove('opacity-30');
         }
