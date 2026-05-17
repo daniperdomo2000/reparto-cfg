@@ -73,7 +73,6 @@
         let direccionSeleccionada = "";
         let precioSeleccionado = "";
 
-        // EL NÚMERO DEL REPARTIDOR DE TU EQUIPO CORRECTO
         const TELEFONO_REPARTIDOR = "5354671767"; 
 
         Papa.parse("direcciones.csv", {
@@ -112,18 +111,26 @@
                 return;
             }
 
+            // 1. Filtrar las direcciones que contengan el texto
             let coincidencias = baseDatosDirecciones.filter(fila => {
                 const dirCompleta = nombreSinAcentos(obtenerValorColumna(fila, ['direccion_completa', 'dirección_completa']));
                 const via = nombreSinAcentos(obtenerValorColumna(fila, ['via', 'vía']));
                 return dirCompleta.includes(textoBusqueda) || via.includes(textoBusqueda);
             });
 
+            // 2. ORDENAR CON PRIORIDAD AL INICIO EXACTO
             coincidencias.sort((a, b) => {
-                const viaA = nombreSinAcentos(obtenerValorColumna(a, ['via', 'vía']));
-                const viaB = nombreSinAcentos(obtenerValorColumna(b, ['via', 'vía']));
-                if (viaA.includes(textoBusqueda) && viaA.startsWith('av') && !viaB.startsWith('av')) return -1;
-                if (!viaA.startsWith('av') && viaB.includes(textoBusqueda) && viaB.startsWith('av')) return 1;
-                return 0;
+                const dirA = nombreSinAcentos(obtenerValorColumna(a, ['direccion_completa', 'dirección_completa']));
+                const dirB = nombreSinAcentos(obtenerValorColumna(b, ['direccion_completa', 'dirección_completa']));
+                
+                const empiezaA = dirA.startsWith(textoBusqueda);
+                const empiezaB = dirB.startsWith(textoBusqueda);
+
+                // Si una empieza exactamente con el texto y la otra no, va primero la que empieza
+                if (empiezaA && !empiezaB) return -1;
+                if (!empiezaA && empiezaB) return 1;
+                
+                return 0; // Si ambas empiezan o ninguna lo hace, mantienen su orden
             });
 
             coincidencias = coincidencias.slice(0, 8);
