@@ -1,0 +1,2057 @@
+via,numero_de_la_via,via,cruce_1,via,cruce_2,direccion_completa,precio,zona
+Calle,7,Avenida,36,Avenida,38,Calle 7 entre Avenida 36 y Avenida 38,300,Reina
+Calle,7,Avenida,38,Avenida,40,Calle 7 entre Avenida 38 y Avenida 40,300,Reina
+Calle,7,Avenida,40,Avenida,42,Calle 7 entre Avenida 40 y Avenida 42,300,Reina
+Calle,7,Avenida,42,Avenida,44,Calle 7 entre Avenida 42 y Avenida 44,300,Reina
+Calle,7,Avenida,44,Avenida,46,Calle 7 entre Avenida 44 y Avenida 46,300,Reina
+Calle,7,Avenida,46,Avenida,48,Calle 7 entre Avenida 46 y Avenida 48,300,Reina
+Calle,7,Avenida,48,Avenida,50,Calle 7 entre Avenida 48 y Avenida 50,300,Reina
+Calle,7,Avenida,50,Avenida,52,Calle 7 entre Avenida 50 y Avenida 52,300,Reina
+Calle,9,Avenida,34,Avenida,36,Calle 9 entre Avenida 34 y Avenida 36,300,Reina
+Calle,9,Avenida,36,Avenida,38,Calle 9 entre Avenida 36 y Avenida 38,300,Reina
+Calle,9,Avenida,38,Avenida,40,Calle 9 entre Avenida 38 y Avenida 40,300,Reina
+Calle,9,Avenida,40,Avenida,42,Calle 9 entre Avenida 40 y Avenida 42,300,Reina
+Calle,9,Avenida,42,Avenida,44,Calle 9 entre Avenida 42 y Avenida 44,300,Reina
+Calle,9,Avenida,44,Avenida,46,Calle 9 entre Avenida 44 y Avenida 46,300,Reina
+Calle,9,Avenida,50,Avenida,52,Calle 9 entre Avenida 50 y Avenida 52,300,Reina
+Calle,9,Avenida,52,Avenida,54,Calle 9 entre Avenida 52 y Avenida 54,300,Reina
+Calle,9,Avenida,54,Avenida,56,Calle 9 entre Avenida 54 y Avenida 56,300,Reina
+Calle,9,Avenida,56,Avenida,58,Calle 9 entre Avenida 56 y Avenida 58,300,Reina
+Calle,9A,Avenida,46,Avenida,48,Calle 9A entre Avenida 46 y Avenida 48,300,Reina
+Calle,9A,Avenida,48,Avenida,50,Calle 9A entre Avenida 48 y Avenida 50,300,Reina
+Calle,9A,Avenida,52,Avenida,54,Calle 9A entre Avenida 52 y Avenida 54,300,Reina
+Calle,9A,Avenida,54,Avenida,56,Calle 9A entre Avenida 54 y Avenida 56,300,Reina
+Calle,9A,Avenida,56,Avenida,58,Calle 9A entre Avenida 56 y Avenida 58,300,Reina
+Calle,11,Avenida,38,Avenida,40,Calle 11 entre Avenida 38 y Avenida 40,300,Reina
+Calle,11,Avenida,40,Avenida,42,Calle 11 entre Avenida 40 y Avenida 42,300,Reina
+Calle,11,Avenida,42,Avenida,44,Calle 11 entre Avenida 42 y Avenida 44,300,Reina
+Calle,11,Avenida,44,Avenida,46,Calle 11 entre Avenida 44 y Avenida 46,300,Reina
+Calle,11,Avenida,46,Avenida,48,Calle 11 entre Avenida 46 y Avenida 48,300,Reina
+Calle,11,Avenida,48,Avenida,50,Calle 11 entre Avenida 48 y Avenida 50,300,Reina
+Calle,11,Avenida,50,Avenida,52,Calle 11 entre Avenida 50 y Avenida 52,300,Reina
+Calle,13,Avenida,42,Avenida,44,Calle 13 entre Avenida 42 y Avenida 44,300,Reina
+Calle,13,Avenida,44,Avenida,46,Calle 13 entre Avenida 44 y Avenida 46,300,Reina
+Calle,13,Avenida,46,Avenida,48,Calle 13 entre Avenida 46 y Avenida 48,300,Reina
+Calle,13,Avenida,48,Avenida,50,Calle 13 entre Avenida 48 y Avenida 50,300,Reina
+Calle,13,Avenida,50,Avenida,52,Calle 13 entre Avenida 50 y Avenida 52,300,Reina
+Calle,15,Avenida,44,Avenida,46,Calle 15 entre Avenida 44 y Avenida 46,300,Reina
+Calle,15,Avenida,46,Avenida,48,Calle 15 entre Avenida 46 y Avenida 48,300,Reina
+Calle,15,Avenida,48,Avenida,50,Calle 15 entre Avenida 48 y Avenida 50,300,Reina
+Calle,15,Avenida,50,Avenida,52,Calle 15 entre Avenida 50 y Avenida 52,300,Reina
+Calle,15,Avenida,52,Avenida,54,Calle 15 entre Avenida 52 y Avenida 54,300,Reina
+Calle,17,Avenida,44,Avenida,46,Calle 17 entre Avenida 44 y Avenida 46,300,Reina
+Calle,17,Avenida,46,Avenida,48,Calle 17 entre Avenida 46 y Avenida 48,300,Reina
+Calle,17,Avenida,48,Avenida,50,Calle 17 entre Avenida 48 y Avenida 50,300,Reina
+Calle,17,Avenida,50,Avenida,52,Calle 17 entre Avenida 50 y Avenida 52,300,Reina
+Calle,17,Avenida,52,Avenida,54,Calle 17 entre Avenida 52 y Avenida 54,300,Reina
+Calle,19,Avenida,44,Avenida,46,Calle 19 entre Avenida 44 y Avenida 46,300,Reina
+Calle,19,Avenida,46,Avenida,48,Calle 19 entre Avenida 46 y Avenida 48,300,Reina
+Calle,19,Avenida,48,Avenida,50,Calle 19 entre Avenida 48 y Avenida 50,300,Reina
+Calle,19,Avenida,50,Avenida,52,Calle 19 entre Avenida 50 y Avenida 52,300,Reina
+Calle,19,Avenida,52,Avenida,54,Calle 19 entre Avenida 52 y Avenida 54,300,Reina
+Calle,19,Avenida,54,Avenida,56,Calle 19 entre Avenida 54 y Avenida 56,300,Reina
+Calle,19,Avenida,56,Avenida,58,Calle 19 entre Avenida 56 y Avenida 58,300,Reina
+Calle,21,Avenida,46,Avenida,48,Calle 21 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,21,Avenida,48,Avenida,50,Calle 21 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,21,Avenida,50,Avenida,52,Calle 21 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,21,Avenida,52,Avenida,54,Calle 21 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,21,Avenida,54,Avenida,56,Calle 21 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,21,Avenida,56,Avenida,58,Calle 21 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,21,Avenida,58,Avenida,60,Calle 21 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,21,Avenida,60,Avenida,62,Calle 21 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,23,Avenida,46,Avenida,48,Calle 23 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,23,Avenida,48,Avenida,50,Calle 23 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,23,Avenida,50,Avenida,52,Calle 23 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,23,Avenida,52,Avenida,54,Calle 23 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,23,Avenida,54,Avenida,56,Calle 23 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,23,Avenida,56,Avenida,58,Calle 23 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,23,Avenida,58,Avenida,60,Calle 23 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,23,Avenida,60,Avenida,62,Calle 23 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,25,Avenida,46,Avenida,48,Calle 25 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,25,Avenida,48,Avenida,50,Calle 25 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,25,Avenida,50,Avenida,52,Calle 25 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,25,Avenida,52,Avenida,54,Calle 25 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,25,Avenida,54,Avenida,56,Calle 25 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,25,Avenida,56,Avenida,58,Calle 25 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,25,Avenida,58,Avenida,60,Calle 25 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,25,Avenida,60,Avenida,62,Calle 25 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,25A,Avenida,82A,Avenida,82B,Calle 25A entre Avenida 82A y Avenida 82B,350,Pastorita
+Calle,27,Avenida,46,Avenida,48,Calle 27 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,27,Avenida,48,Avenida,50,Calle 27 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,27,Avenida,50,Avenida,52,Calle 27 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,27,Avenida,52,Avenida,54,Calle 27 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,27,Avenida,56,Avenida,58,Calle 27 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,27,Avenida,58,Avenida,60,Calle 27 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,27,Avenida,60,Avenida,62,Calle 27 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,27,Avenida,82A,Avenida,82B,Calle 27 entre Avenida 82A y Avenida 82B,350,Pastorita
+Calle,27,Avenida,82B,Avenida,84,Calle 27 entre Avenida 82B y Avenida 84,350,Pastorita
+Calle,29,Avenida,46,Avenida,48,Calle 29 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,29,Avenida,48,Avenida,50,Calle 29 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,29,Avenida,50,Avenida,52,Calle 29 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,29,Avenida,52,Avenida,54,Calle 29 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,29,Avenida,54,Avenida,56,Calle 29 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,29,Avenida,56,Avenida,58,Calle 29 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,29,Avenida,58,Avenida,60,Calle 29 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,29,Avenida,60,Avenida,62,Calle 29 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,29,Avenida,62,Avenida,64,Calle 29 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,29,Avenida,66,Avenida,68,Calle 29 entre Avenida 66 y Avenida 68,300,Punta Gotica
+Calle,29,Calle,31,Avenida,84,Calle 29 entre Calle 31 y Avenida 84,350,Pastorita
+Calle,29,Avenida,84,Avenida,90,Calle 29 entre Avenida 84 y Avenida 90,350,Pastorita
+Calle,29,Avenida,90,Calle,CARRETERA DEL PUERTO,Calle 29 entre Avenida 90 y Calle CARRETERA DEL PUERTO,350,Pastorita
+Calle,31,Avenida,46,Avenida,48,Calle 31 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,31,Avenida,48,Avenida,50,Calle 31 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,31,Avenida,50,Avenida,52,Calle 31 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,31,Avenida,52,Avenida,54,Calle 31 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,31,Avenida,54,Avenida,56,Calle 31 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,31,Avenida,56,Avenida,58,Calle 31 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,31,Avenida,58,Avenida,60,Calle 31 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,31,Avenida,60,Avenida,62,Calle 31 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,31,Avenida,62,Avenida,64,Calle 31 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,31,Avenida,64,Avenida,66,Calle 31 entre Avenida 64 y Avenida 66,250,Punta Gotica
+Calle,31,Avenida,66,Avenida,68,Calle 31 entre Avenida 66 y Avenida 68,250,Punta Gotica
+Calle,31,Avenida,68,Avenida,70,Calle 31 entre Avenida 68 y Avenida 70,250,Punta Gotica
+Calle,31,Avenida,29,Avenida,84,Calle 31 entre Avenida 29 y Avenida 84,350,Pastorita
+Calle,31,Avenida,84,Avenida,86,Calle 31 entre Avenida 84 y Avenida 86,350,Pastorita
+Calle,31,Avenida,86,Avenida,88,Calle 31 entre Avenida 86 y Avenida 88,350,Pastorita
+Calle,31,Avenida,88,Avenida,90,Calle 31 entre Avenida 88 y Avenida 90,350,Pastorita
+Calle,31,Avenida,90,Calle,CARRETERA DEL PUERTO,Calle 31 entre Avenida 90 y Calle CARRETERA DEL PUERTO,350,Pastorita
+Calle,33,Avenida,2,Avenida,4,Calle 33 entre Avenida 2 y Avenida 4,300,Punta Gorda
+Calle,33,Avenida,40,Avenida,42,Calle 33 entre Avenida 40 y Avenida 42,250,Casco Historico
+Calle,33,Avenida,42,Avenida,44,Calle 33 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,33,Avenida,46,Avenida,48,Calle 33 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,33,Avenida,48,Avenida,50,Calle 33 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,33,Avenida,50,Avenida,52,Calle 33 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,33,Avenida,52,Avenida,54,Calle 33 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,33,Avenida,54,Avenida,56,Calle 33 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,33,Avenida,56,Avenida,58,Calle 33 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,33,Avenida,58,Avenida,60,Calle 33 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,33,Avenida,60,Avenida,62,Calle 33 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,33,Avenida,62,Avenida,64,Calle 33 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,33,Avenida,64,Avenida,66,Calle 33 entre Avenida 64 y Avenida 66,300,Punta Gotica
+Calle,33,Avenida,66,Avenida,68,Calle 33 entre Avenida 66 y Avenida 68,300,Punta Gotica
+Calle,33,Avenida,68,Avenida,70,Calle 33 entre Avenida 68 y Avenida 70,300,Punta Gotica
+Calle,33,Avenida,70,Avenida,72,Calle 33 entre Avenida 70 y Avenida 72,300,Punta Gotica
+Calle,33,Avenida,72,Avenida,74,Calle 33 entre Avenida 72 y Avenida 74,300,Punta Gotica
+Calle,33A,Calle,33,Avenida,84,Calle 33A entre Calle 33 y Avenida 84,350,Pastorita
+Calle,33A,Avenida,84,Avenida,86,Calle 33A entre Avenida 84 y Avenida 86,350,Pastorita
+Calle,33A,Avenida,86,Avenida,88,Calle 33A entre Avenida 86 y Avenida 88,350,Pastorita
+Calle,33,Avenida,82,Calle,33A,Calle 33 entre Avenida 82 y Calle 33A,350,Pastorita
+Calle,33,Calle,33A,Avenida,84,Calle 33 entre Calle 33A y Avenida 84,350,Pastorita
+Calle,35,Avenida,0,Avenida,litoral,Calle 35 entre Avenida 0 y Avenida litoral,350,Litoral
+Calle,35,Avenida,0,Avenida,2,Calle 35 entre Avenida 0 y Avenida 2,300,Punta Gorda
+Calle,35,Avenida,2,Avenida,4,Calle 35 entre Avenida 2 y Avenida 4,300,Punta Gorda
+Calle,35,Avenida,4,Avenida,6,Calle 35 entre Avenida 4 y Avenida 6,300,Punta Gorda
+Calle,35,Avenida,6,Avenida,8,Calle 35 entre Avenida 6 y Avenida 8,300,Punta Gorda
+Calle,35,Avenida,12,Avenida,14,Calle 35 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,35,Avenida,14,Avenida,16,Calle 35 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,35,Avenida,16,Avenida,18,Calle 35 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,35,Avenida,18,Avenida,20,Calle 35 entre Avenida 18 y Avenida 20,250,Punta Gorda
+Calle,35,Avenida,20,Avenida,22,Calle 35 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,35,Avenida,38,Avenida,40,Calle 35 entre Avenida 38 y Avenida 40,250,Casco Historico
+Calle,35,Avenida,40,Avenida,42,Calle 35 entre Avenida 40 y Avenida 42,250,Casco Historico
+Calle,35,Avenida,42,Avenida,44,Calle 35 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,35,Avenida,44,Avenida,46,Calle 35 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,35,Avenida,46,Avenida,48,Calle 35 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,35,Avenida,48,Avenida,50,Calle 35 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,35,Avenida,50,Avenida,52,Calle 35 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,35,Avenida,52,Avenida,54,Calle 35 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,35,Avenida,54,Avenida,56,Calle 35 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,35,Avenida,56,Avenida,58,Calle 35 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,35,Avenida,58,Avenida,60,Calle 35 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,35,Avenida,60,Avenida,62,Calle 35 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,35,Avenida,62,Avenida,64,Calle 35 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,35,Avenida,64,Avenida,66,Calle 35 entre Avenida 64 y Avenida 66,300,Punta Gotica
+Calle,35,Avenida,66,Avenida,68,Calle 35 entre Avenida 66 y Avenida 68,300,Punta Gotica
+Calle,35,Avenida,68,Avenida,70,Calle 35 entre Avenida 68 y Avenida 70,300,Punta Gotica
+Calle,35,Avenida,70,Avenida,72,Calle 35 entre Avenida 70 y Avenida 72,300,Punta Gotica
+Calle,35,Avenida,82,Avenida,84,Calle 35 entre Avenida 82 y Avenida 84,350,Pastorita
+Calle,35,Avenida,84,Avenida,86,Calle 35 entre Avenida 84 y Avenida 86,350,Pastorita
+Calle,35,Avenida,86,Avenida,88,Calle 35 entre Avenida 86 y Avenida 88,350,Pastorita
+Calle,35,Avenida,88,Avenida,90,Calle 35 entre Avenida 88 y Avenida 90,350,Pastorita
+Calle,37,Avenida,0,Avenida,2,Calle 37 entre Avenida 0 y Avenida 2,300,Punta Gorda
+Calle,37,Avenida,2,Avenida,4,Calle 37 entre Avenida 2 y Avenida 4,300,Punta Gorda
+Calle,37,Avenida,4,Avenida,6,Calle 37 entre Avenida 4 y Avenida 6,300,Punta Gorda
+Calle,37,Avenida,6,Avenida,8,Calle 37 entre Avenida 6 y Avenida 8,300,Punta Gorda
+Calle,37,Avenida,8,Avenida,10,Calle 37 entre Avenida 8 y Avenida 10,300,Punta Gorda
+Calle,37,Avenida,10,Avenida,12,Calle 37 entre Avenida 10 y Avenida 12,300,Punta Gorda
+Calle,37,Avenida,12,Avenida,14,Calle 37 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,37,Avenida,14,Avenida,16,Calle 37 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,37,Avenida,16,Avenida,18,Calle 37 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,37,Avenida,18,Avenida,20,Calle 37 entre Avenida 18 y Avenida 20,250,Punta Gorda
+Calle,37,Avenida,20,Avenida,22,Calle 37 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,37,Avenida,22,Avenida,24,Calle 37 entre Avenida 22 y Avenida 24,250,Casco Historico
+Calle,37,Avenida,24,Avenida,26,Calle 37 entre Avenida 24 y Avenida 26,250,Casco Historico
+Calle,37,Avenida,26,Avenida,28,Calle 37 entre Avenida 26 y Avenida 28,250,Casco Historico
+Calle,37,Avenida,28,Avenida,30,Calle 37 entre Avenida 28 y Avenida 30,250,Casco Historico
+Calle,37,Avenida,30,Avenida,32,Calle 37 entre Avenida 30 y Avenida 32,250,Casco Historico
+Calle,37,Avenida,32,Avenida,34,Calle 37 entre Avenida 32 y Avenida 34,250,Casco Historico
+Calle,37,Avenida,34,Avenida,36,Calle 37 entre Avenida 34 y Avenida 36,250,Casco Historico
+Calle,37,Avenida,36,Avenida,38,Calle 37 entre Avenida 36 y Avenida 38,250,Casco Historico
+Calle,37,Avenida,38,Avenida,40,Calle 37 entre Avenida 38 y Avenida 40,250,Casco Historico
+Calle,37,Avenida,40,Avenida,42,Calle 37 entre Avenida 40 y Avenida 42,250,Casco Historico
+Calle,37,Avenida,42,Avenida,44,Calle 37 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,37,Avenida,44,Avenida,46,Calle 37 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,37,Avenida,46,Avenida,48,Calle 37 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,37,Avenida,48,Avenida,50,Calle 37 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,37,Avenida,50,Avenida,52,Calle 37 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,37,Avenida,52,Avenida,54,Calle 37 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,37,Avenida,54,Avenida,56,Calle 37 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,37,Avenida,56,Avenida,58,Calle 37 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,37,Avenida,58,Avenida,60,Calle 37 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,37,Avenida,60,Avenida,62,Calle 37 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,37,Avenida,62,Avenida,64,Calle 37 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,37,Avenida,64,Avenida,66,Calle 37 entre Avenida 64 y Avenida 66,300,Punta Gotica
+Calle,37,Avenida,66,Avenida,68,Calle 37 entre Avenida 66 y Avenida 68,300,Punta Gotica
+Calle,37,Avenida,68,Avenida,70,Calle 37 entre Avenida 68 y Avenida 70,300,Punta Gotica
+Calle,37,Avenida,70,Avenida,72,Calle 37 entre Avenida 70 y Avenida 72,300,Punta Gotica
+Calle,37,Avenida,72,Avenida,74,Calle 37 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,39,Avenida,4,Avenida,6,Calle 39 entre Avenida 4 y Avenida 6,300,Punta Gorda
+Calle,39,Avenida,6,Avenida,8,Calle 39 entre Avenida 6 y Avenida 8,300,Punta Gorda
+Calle,39,Avenida,8,Avenida,10,Calle 39 entre Avenida 8 y Avenida 10,300,Punta Gorda
+Calle,39,Avenida,10,Avenida,12,Calle 39 entre Avenida 10 y Avenida 12,300,Punta Gorda
+Calle,39,Avenida,12,Avenida,14,Calle 39 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,39,Avenida,14,Avenida,16,Calle 39 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,39,Avenida,16,Avenida,18,Calle 39 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,39,Avenida,18,Avenida,20,Calle 39 entre Avenida 18 y Avenida 20,250,Punta Gorda
+Calle,39,Avenida,20,Avenida,22,Calle 39 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,39,Avenida,22,Avenida,24,Calle 39 entre Avenida 22 y Avenida 24,250,Casco Historico
+Calle,39,Avenida,24,Avenida,26,Calle 39 entre Avenida 24 y Avenida 26,250,Casco Historico
+Calle,39,Avenida,32,Avenida,34,Calle 39 entre Avenida 32 y Avenida 34,250,Casco Historico
+Calle,39,Avenida,34,Avenida,36,Calle 39 entre Avenida 34 y Avenida 36,250,Casco Historico
+Calle,39,Avenida,36,Avenida,38,Calle 39 entre Avenida 36 y Avenida 38,250,Casco Historico
+Calle,39,Avenida,38,Avenida,40,Calle 39 entre Avenida 38 y Avenida 40,250,Casco Historico
+Calle,39,Avenida,40,Avenida,42,Calle 39 entre Avenida 40 y Avenida 42,250,Casco Historico
+Calle,39,Avenida,42,Avenida,44,Calle 39 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,39,Avenida,44,Avenida,46,Calle 39 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,39,Avenida,46,Avenida,48,Calle 39 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,39,Avenida,48,Avenida,50,Calle 39 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,39,Avenida,50,Avenida,52,Calle 39 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,39,Avenida,52,Avenida,54,Calle 39 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,39,Avenida,54,Avenida,56,Calle 39 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,39,Avenida,56,Avenida,58,Calle 39 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,39,Avenida,58,Avenida,60,Calle 39 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,39,Avenida,60,Avenida,62,Calle 39 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,39,Avenida,62,Avenida,64,Calle 39 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,39,Avenida,64,Avenida,66,Calle 39 entre Avenida 64 y Avenida 66,300,San Lazaro
+Calle,39,Avenida,66,Avenida,68,Calle 39 entre Avenida 66 y Avenida 68,300,San Lazaro
+Calle,39,Avenida,68,Avenida,70,Calle 39 entre Avenida 68 y Avenida 70,300,San Lazaro
+Calle,39,Avenida,70,Avenida,72,Calle 39 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,39,Avenida,72,Avenida,74,Calle 39 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,39,Avenida,74,Avenida,76,Calle 39 entre Avenida 74 y Avenida 76,300,San Lazaro
+Calle,41,Avenida,8,Avenida,10,Calle 41 entre Avenida 8 y Avenida 10,300,Punta Gorda
+Calle,41,Avenida,10,Avenida,12,Calle 41 entre Avenida 10 y Avenida 12,300,Punta Gorda
+Calle,41,Avenida,12,Avenida,14,Calle 41 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,41,Avenida,14,Avenida,16,Calle 41 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,41,Avenida,16,Avenida,18,Calle 41 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,41,Avenida,18,Avenida,20,Calle 41 entre Avenida 18 y Avenida 20,250,Punta Gorda
+Calle,41,Avenida,20,Avenida,22,Calle 41 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,41,Avenida,22,Avenida,24,Calle 41 entre Avenida 22 y Avenida 24,250,Casco Historico
+Calle,41,Avenida,24,Avenida,26,Calle 41 entre Avenida 24 y Avenida 26,250,Casco Historico
+Calle,41,Avenida,32,Avenida,34,Calle 41 entre Avenida 32 y Avenida 34,250,Casco Historico
+Calle,41,Avenida,34,Avenida,36,Calle 41 entre Avenida 34 y Avenida 36,250,Casco Historico
+Calle,41,Avenida,36,Avenida,38,Calle 41 entre Avenida 36 y Avenida 38,250,Casco Historico
+Calle,41,Avenida,38,Avenida,40,Calle 41 entre Avenida 38 y Avenida 40,250,Casco Historico
+Calle,41,Avenida,40,Avenida,42,Calle 41 entre Avenida 40 y Avenida 42,250,Casco Historico
+Calle,41,Avenida,42,Avenida,44,Calle 41 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,41,Avenida,44,Avenida,46,Calle 41 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,41,Avenida,46,Avenida,48,Calle 41 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,41,Avenida,48,Avenida,50,Calle 41 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,41,Avenida,50,Avenida,52,Calle 41 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,41,Avenida,52,Avenida,54,Calle 41 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,41,Avenida,54,Avenida,56,Calle 41 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,41,Avenida,56,Avenida,58,Calle 41 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,41,Avenida,58,Avenida,60,Calle 41 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,41,Avenida,60,Avenida,62,Calle 41 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,41,Avenida,62,Avenida,64,Calle 41 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,41,Avenida,64,Avenida,66,Calle 41 entre Avenida 64 y Avenida 66,300,San Lazaro
+Calle,41,Avenida,66,Avenida,68,Calle 41 entre Avenida 66 y Avenida 68,300,San Lazaro
+Calle,41,Avenida,68,Avenida,70,Calle 41 entre Avenida 68 y Avenida 70,300,San Lazaro
+Calle,43,Avenida,12,Avenida,14,Calle 43 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,43,Avenida,14,Avenida,16,Calle 43 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,43,Avenida,16,Avenida,18,Calle 43 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,43,Avenida,18,Avenida,20,Calle 43 entre Avenida 18 y Avenida 20,250,Punta Gorda
+Calle,43,Avenida,20,Avenida,22,Calle 43 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,43,Avenida,22,Avenida,24,Calle 43 entre Avenida 22 y Avenida 24,250,Casco Historico
+Calle,43,Avenida,24,Avenida,26,Calle 43 entre Avenida 24 y Avenida 26,250,Casco Historico
+Calle,43,Avenida,26,Avenida,28,Calle 43 entre Avenida 26 y Avenida 28,250,Casco Historico
+Calle,43,Avenida,28,Avenida,30,Calle 43 entre Avenida 28 y Avenida 30,250,Casco Historico
+Calle,43,Avenida,30,Avenida,32,Calle 43 entre Avenida 30 y Avenida 32,250,Casco Historico
+Calle,43,Avenida,32,Avenida,34,Calle 43 entre Avenida 32 y Avenida 34,250,Casco Historico
+Calle,43,Avenida,34,Avenida,36,Calle 43 entre Avenida 34 y Avenida 36,250,Casco Historico
+Calle,43,Avenida,36,Avenida,38,Calle 43 entre Avenida 36 y Avenida 38,250,Casco Historico
+Calle,43,Avenida,38,Avenida,40,Calle 43 entre Avenida 38 y Avenida 40,250,Casco Historico
+Calle,43,Avenida,40,Avenida,42,Calle 43 entre Avenida 40 y Avenida 42,250,Casco Historico
+Calle,43,Avenida,42,Avenida,44,Calle 43 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,43,Avenida,44,Avenida,46,Calle 43 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,43,Avenida,46,Avenida,48,Calle 43 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,43,Avenida,48,Avenida,50,Calle 43 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,43,Avenida,50,Avenida,52,Calle 43 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,43,Avenida,52,Avenida,54,Calle 43 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,43,Avenida,54,Avenida,56,Calle 43 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,43,Avenida,56,Avenida,58,Calle 43 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,43,Avenida,58,Avenida,60,Calle 43 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,43,Avenida,60,Avenida,62,Calle 43 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,43,Avenida,62,Avenida,64,Calle 43 entre Avenida 62 y Avenida 64,250,Casco Historico
+Calle,45,Avenida,16,Avenida,18,Calle 45 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,45,Avenida,18,Avenida,20,Calle 45 entre Avenida 18 y Avenida 20,250,Punta Gorda
+Calle,45,Avenida,20,Avenida,22,Calle 45 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,45,Avenida,22,Avenida,24,Calle 45 entre Avenida 22 y Avenida 24,250,Casco Historico
+Calle,45,Avenida,24,Avenida,26,Calle 45 entre Avenida 24 y Avenida 26,250,Casco Historico
+Calle,45,Avenida,26,Avenida,28,Calle 45 entre Avenida 26 y Avenida 28,250,Casco Historico
+Calle,45,Avenida,28,Avenida,30,Calle 45 entre Avenida 28 y Avenida 30,250,Casco Historico
+Calle,45,Avenida,30,Avenida,32,Calle 45 entre Avenida 30 y Avenida 32,250,Casco Historico
+Calle,45,Avenida,32,Avenida,34,Calle 45 entre Avenida 32 y Avenida 34,250,Casco Historico
+Calle,45,Avenida,34,Avenida,36,Calle 45 entre Avenida 34 y Avenida 36,250,Casco Historico
+Calle,45,Avenida,36,Avenida,38,Calle 45 entre Avenida 36 y Avenida 38,250,Casco Historico
+Calle,45,Avenida,38,Avenida,40,Calle 45 entre Avenida 38 y Avenida 40,250,Casco Historico
+Calle,45,Avenida,40,Avenida,42,Calle 45 entre Avenida 40 y Avenida 42,250,Casco Historico
+Calle,45,Avenida,42,Avenida,44,Calle 45 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,45,Avenida,44,Avenida,46,Calle 45 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,45,Avenida,46,Avenida,48,Calle 45 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,45,Avenida,48,Avenida,50,Calle 45 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,45,Avenida,50,Avenida,52,Calle 45 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,45,Avenida,52,Avenida,54,Calle 45 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,45,Avenida,54,Avenida,56,Calle 45 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,45,Avenida,56,Avenida,58,Calle 45 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,45,Avenida,58,Avenida,60,Calle 45 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,45,Avenida,60,Avenida,62,Calle 45 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,45,Calle,2 NE,Avenida,64,Calle 45 entre Calle 2 NE y Avenida 64,250,Casco Historico
+Calle,45,Avenida,64,Avenida,66,Calle 45 entre Avenida 64 y Avenida 66,250,San Lazaro
+Calle,45,Avenida,66,Avenida,68,Calle 45 entre Avenida 66 y Avenida 68,250,San Lazaro
+Calle,45,Avenida,68,Avenida,70,Calle 45 entre Avenida 68 y Avenida 70,250,San Lazaro
+Calle,45,Avenida,70,Avenida,72,Calle 45 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,45,Avenida,72,Avenida,74,Calle 45 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,47,Avenida,24,Avenida,26,Calle 47 entre Avenida 24 y Avenida 26,250,Punta Gorda
+Calle,47,Avenida,26,Avenida,28,Calle 47 entre Avenida 26 y Avenida 28,250,Casco Historico
+Calle,47,Avenida,28,Avenida,30,Calle 47 entre Avenida 28 y Avenida 30,250,Casco Historico
+Calle,47,Avenida,30,Avenida,32,Calle 47 entre Avenida 30 y Avenida 32,250,Casco Historico
+Calle,47,Avenida,42,Avenida,44,Calle 47 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,47,Avenida,44,Avenida,46,Calle 47 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,47,Avenida,46,Avenida,48,Calle 47 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,47,Avenida,48,Avenida,50,Calle 47 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,47,Avenida,50,Avenida,52,Calle 47 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,47,Avenida,52,Avenida,54,Calle 47 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,47,Avenida,54,Avenida,56,Calle 47 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,47,Avenida,56,Avenida,58,Calle 47 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,47,Avenida,58,Avenida,60,Calle 47 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,47,Avenida,60,Avenida,62,Calle 47 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,47,Calle,2 NE,Calle,4 NE,Calle 47 entre Calle 2 NE y Calle 4 NE,250,Casco Historico
+Calle,47,Avenida,64,Calle,2 NE,Calle 47 entre Avenida 64 y Calle 2 NE,250,Casco Historico
+Calle,47,Avenida,66,Avenida,68,Calle 47 entre Avenida 66 y Avenida 68,250,San Lazaro
+Calle,47,Avenida,68,Avenida,70,Calle 47 entre Avenida 68 y Avenida 70,250,San Lazaro
+Calle,49,Avenida,26,Avenida,28,Calle 49 entre Avenida 26 y Avenida 28,250,Casco Historico
+Calle,49,Avenida,28,Avenida,30,Calle 49 entre Avenida 28 y Avenida 30,250,Casco Historico
+Calle,49,Avenida,30,Avenida,32,Calle 49 entre Avenida 30 y Avenida 32,250,Casco Historico
+Calle,49,Avenida,42,Avenida,44,Calle 49 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,49,Avenida,44,Avenida,46,Calle 49 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,49,Avenida,46,Avenida,48,Calle 49 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,49,Avenida,48,Avenida,50,Calle 49 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,49,Avenida,50,Avenida,52,Calle 49 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,49,Avenida,52,Avenida,54,Calle 49 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,49,Avenida,54,Avenida,56,Calle 49 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,49,Avenida,56,Avenida,58,Calle 49 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,49,Avenida,58,Avenida,60,Calle 49 entre Avenida 58 y Avenida 60,250,Casco Historico
+Calle,49,Avenida,60,Avenida,62,Calle 49 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,49,Avenida,62,Calle, 4 NE,Calle 49 entre Avenida 62 y Calle  4 NE,250,Casco Historico
+Calle,49,Calle, 2 NE,Calle,4 NE,Calle 49 entre Calle  2 NE y Calle 4 NE,250,Casco Historico
+Calle,49,Avenida,64,Calle,2 NE,Calle 49 entre Avenida 64 y Calle 2 NE,250,Casco Historico
+Calle,49,Avenida,64,Avenida,66,Calle 49 entre Avenida 64 y Avenida 66,250,San Lazaro
+Calle,49,Avenida,66,Avenida,68,Calle 49 entre Avenida 66 y Avenida 68,250,San Lazaro
+Calle,49,Avenida,68,Avenida,70,Calle 49 entre Avenida 68 y Avenida 70,250,San Lazaro
+Calle,49,Avenida,70,Avenida,72,Calle 49 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,49,Avenida,72,Avenida,74,Calle 49 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,49,Avenida,74,Avenida,76,Calle 49 entre Avenida 74 y Avenida 76,300,San Lazaro
+Calle,49,Avenida,76,Avenida,78,Calle 49 entre Avenida 76 y Avenida 78,300,San Lazaro
+Calle,51,Avenida,8,Avenida,10,Calle 51 entre Avenida 8 y Avenida 10,300,Punta Gorda
+Calle,51,Avenida,10,Avenida,12,Calle 51 entre Avenida 10 y Avenida 12,300,Punta Gorda
+Calle,51,Avenida,12,Avenida,14,Calle 51 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,51,Avenida,14,Avenida,16,Calle 51 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,51A,Avenida,20,Avenida,22,Calle 51A entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,51A,Avenida,24,Avenida,26,Calle 51A entre Avenida 24 y Avenida 26,250,Casco Historico
+Calle,51A,Avenida,26,Avenida,28,Calle 51A entre Avenida 26 y Avenida 28,250,Casco Historico
+Calle,51A,Avenida,28,Avenida,30,Calle 51A entre Avenida 28 y Avenida 30,250,Casco Historico
+Calle,51A,Avenida,30,Avenida,32,Calle 51A entre Avenida 30 y Avenida 32,250,Casco Historico
+Calle,51,Avenida,42,Avenida,44,Calle 51 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,51,Avenida,44,Avenida,46,Calle 51 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,51,Avenida,46,Avenida,48,Calle 51 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,51,Avenida,48,Avenida,50,Calle 51 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,51,Avenida,50,Avenida,52,Calle 51 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,51,Avenida,52,Avenida,54,Calle 51 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,51,Avenida,54,Avenida,56,Calle 51 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,51,Avenida,56,Avenida,58,Calle 51 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,51,Avenida,60,Avenida,60,Calle 51 entre Avenida 60 y Avenida 60,250,Casco Historico
+Calle,51,Avenida,62,Avenida,64A,Calle 51 entre Avenida 62 y Avenida 64A,250,Casco Historico
+Calle,51,Avenida,64A,Calle,4 NE,Calle 51 entre Avenida 64A y Calle 4 NE,250,Casco Historico
+Calle,51,Calle,2 NE,Calle,4 NE,Calle 51 entre Calle 2 NE y Calle 4 NE,250,Casco Historico
+Calle,51,Avenida,64,Calle,2 NE,Calle 51 entre Avenida 64 y Calle 2 NE,250,Casco Historico
+Calle,51,Avenida,64,Avenida,66,Calle 51 entre Avenida 64 y Avenida 66,250,San Lazaro
+Calle,51,Avenida,66,Avenida,68,Calle 51 entre Avenida 66 y Avenida 68,250,San Lazaro
+Calle,51,Avenida,68,Avenida,70,Calle 51 entre Avenida 68 y Avenida 70,250,San Lazaro
+Calle,51,Avenida,70,Avenida,72,Calle 51 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,51,Avenida,72,Avenida,74,Calle 51 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,51,Avenida,74,Avenida,76,Calle 51 entre Avenida 74 y Avenida 76,300,San Lazaro
+Calle,51,Avenida,76,Avenida,78,Calle 51 entre Avenida 76 y Avenida 78,300,San Lazaro
+Calle,53,Avenida,10,Avenida,12,Calle 53 entre Avenida 10 y Avenida 12,300,Punta Gorda
+Calle,53,Avenida,12,Avenida,14,Calle 53 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,53,Avenida,16,Avenida,18,Calle 53 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,53,Avenida,22,Avenida,24,Calle 53 entre Avenida 22 y Avenida 24,250,Casco Historico
+Calle,53,Avenida,24,Avenida,24A,Calle 53 entre Avenida 24 y Avenida 24A,250,Casco Historico
+Calle,53,Avenida,24A,Avenida,26,Calle 53 entre Avenida 24A y Avenida 26,250,Casco Historico
+Calle,53,Avenida,48,Avenida,50,Calle 53 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,53,Avenida,50,Avenida,52,Calle 53 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,53,Avenida,52,Avenida,54,Calle 53 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,53,Avenida,54,Avenida,56,Calle 53 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,53,Avenida,56,Avenida,58,Calle 53 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,53,Avenida,60,Avenida,62,Calle 53 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,53,Avenida,62,Avenida,64A,Calle 53 entre Avenida 62 y Avenida 64A,250,Casco Historico
+Calle,53,Calle,2 NE,Calle,4 NE,Calle 53 entre Calle 2 NE y Calle 4 NE,250,Casco Historico
+Calle,53,Calle,4 NE,Calle,6NE,Calle 53 entre Calle 4 NE y Calle 6NE,250,Casco Historico
+Calle,53,Avenida,64,Calle,2 NE,Calle 53 entre Avenida 64 y Calle 2 NE,250,Casco Historico
+Calle,53,Avenida,64,Avenida,66,Calle 53 entre Avenida 64 y Avenida 66,250,San Lazaro
+Calle,53,Avenida,66,Avenida,68,Calle 53 entre Avenida 66 y Avenida 68,250,San Lazaro
+Calle,53,Avenida,68,Avenida,70,Calle 53 entre Avenida 68 y Avenida 70,250,San Lazaro
+Calle,53,Avenida,70,Avenida,72,Calle 53 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,53,Avenida,72,Avenida,74,Calle 53 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,53,Avenida,74,Avenida,76,Calle 53 entre Avenida 74 y Avenida 76,300,San Lazaro
+Calle,55,Avenida,10,Avenida,12,Calle 55 entre Avenida 10 y Avenida 12,300,Punta Gorda
+Calle,55,Avenida,12,Avenida,14,Calle 55 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,55,Avenida,14,Avenida,16,Calle 55 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,55,Avenida,16,Avenida,16A,Calle 55 entre Avenida 16 y Avenida 16A,250,Punta Gorda
+Calle,55,Avenida,16A,Avenida,18,Calle 55 entre Avenida 16A y Avenida 18,250,Punta Gorda
+Calle,55,Avenida,18,Avenida,18A,Calle 55 entre Avenida 18 y Avenida 18A,250,Punta Gorda
+Calle,55,Avenida,18A,Avenida,20,Calle 55 entre Avenida 18A y Avenida 20,250,Punta Gorda
+Calle,55,Avenida,48,Avenida,50,Calle 55 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,55,Avenida,50,Avenida,52,Calle 55 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,55,Avenida,52,Avenida,54,Calle 55 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,55,Avenida,54,Avenida,56,Calle 55 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,55,Avenida,56,Avenida,58,Calle 55 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,55,Avenida,60,Avenida,62,Calle 55 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,55,Avenida,62,Avenida,64A,Calle 55 entre Avenida 62 y Avenida 64A,250,Casco Historico
+Calle,55,Avenida,64A,Calle,6 NE,Calle 55 entre Avenida 64A y Calle 6 NE,250,Casco Historico
+Calle,55,Calle,4 NE,Calle,6 NE,Calle 55 entre Calle 4 NE y Calle 6 NE,250,Casco Historico
+Calle,55,Calle,2 NE,Calle,4 NE,Calle 55 entre Calle 2 NE y Calle 4 NE,250,Casco Historico
+Calle,55,Avenida,64,Calle,2 NE,Calle 55 entre Avenida 64 y Calle 2 NE,250,Casco Historico
+Calle,55,Avenida,64,Avenida,66,Calle 55 entre Avenida 64 y Avenida 66,250,San Lazaro
+Calle,55,Avenida,70,Avenida,72,Calle 55 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,55,Avenida,72,Avenida,74,Calle 55 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,57,Avenida,20,Avenida,20A,Calle 57 entre Avenida 20 y Avenida 20A,250,Punta Gorda
+Calle,57,Avenida,20A,Avenida,22,Calle 57 entre Avenida 20A y Avenida 22,250,Punta Gorda
+Calle,57,Avenida,22,Avenida,24,Calle 57 entre Avenida 22 y Avenida 24,250,Punta Gorda
+Calle,57,Avenida,24,Avenida,26,Calle 57 entre Avenida 24 y Avenida 26,250,Punta Gorda
+Calle,57,Avenida,26,Avenida,28,Calle 57 entre Avenida 26 y Avenida 28,250,Punta Gorda
+Calle,57,Avenida,28,Avenida,30,Calle 57 entre Avenida 28 y Avenida 30,200,Reparto de los Medicos
+Calle,57,Avenida,30,Avenida,32,Calle 57 entre Avenida 30 y Avenida 32,200,Reparto de los Medicos
+Calle,57,Avenida,32,Avenida,34,Calle 57 entre Avenida 32 y Avenida 34,200,Reparto de los Medicos
+Calle,57,Avenida,34,Avenida,36,Calle 57 entre Avenida 34 y Avenida 36,200,Reparto de los Medicos
+Calle,57,Avenida,36,Avenida,38,Calle 57 entre Avenida 36 y Avenida 38,200,Reparto de los Medicos
+Calle,57,Avenida,38,Avenida,42,Calle 57 entre Avenida 38 y Avenida 42,200,Reparto de los Medicos
+Calle,57A,Avenida,38,Avenida,42,Calle 57A entre Avenida 38 y Avenida 42,200,Reparto de los Medicos
+Calle,57,Avenida,42,Avenida,44,Calle 57 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,57,Avenida,44,Avenida,46,Calle 57 entre Avenida 44 y Avenida 46,250,Casco Historico
+Calle,57,Avenida,46,Avenida,48,Calle 57 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,57,Avenida,48,Avenida,50,Calle 57 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,57,Avenida,50,Avenida,52,Calle 57 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,57,Avenida,52,Avenida,54,Calle 57 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,57,Avenida,54,Avenida,56,Calle 57 entre Avenida 54 y Avenida 56,250,Casco Historico
+Calle,57,Avenida,56,Avenida,58,Calle 57 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,57,Avenida,60,Avenida,62,Calle 57 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,57,Avenida,62,Avenida,64A,Calle 57 entre Avenida 62 y Avenida 64A,250,Casco Historico
+Calle,57,Calle,2 NE,Calle,4 NE,Calle 57 entre Calle 2 NE y Calle 4 NE,250,Casco Historico
+Calle,57,Calle,4 NE,Calle,6 NE,Calle 57 entre Calle 4 NE y Calle 6 NE,250,Casco Historico
+Calle,57,Calle,6 NE,Calle,8 NE,Calle 57 entre Calle 6 NE y Calle 8 NE,250,Casco Historico
+Calle,57,Avenida,64,Calle,2 NE,Calle 57 entre Avenida 64 y Calle 2 NE,250,Casco Historico
+Calle,57,Avenida,64,Avenida,66,Calle 57 entre Avenida 64 y Avenida 66,250,San Lazaro
+Calle,57,Avenida,70,Avenida,72,Calle 57 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,57,Avenida,72,Avenida,74,Calle 57 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,57,Avenida,74,Avenida,76,Calle 57 entre Avenida 74 y Avenida 76,300,San Lazaro
+Calle,59,Avenida,20A,Avenida,22,Calle 59 entre Avenida 20A y Avenida 22,250,Punta Gorda
+Calle,59,Avenida,24,Avenida,26,Calle 59 entre Avenida 24 y Avenida 26,250,Punta Gorda
+Calle,59,Avenida,26,Avenida,28,Calle 59 entre Avenida 26 y Avenida 28,250,Punta Gorda
+Calle,59,Avenida,28,Avenida,30,Calle 59 entre Avenida 28 y Avenida 30,200,Reparto de los Medicos
+Calle,59,Avenida,30,Avenida,32,Calle 59 entre Avenida 30 y Avenida 32,200,Reparto de los Medicos
+Calle,59,Avenida,32,Avenida,34,Calle 59 entre Avenida 32 y Avenida 34,200,Reparto de los Medicos
+Calle,59,Avenida,34,Avenida,36,Calle 59 entre Avenida 34 y Avenida 36,200,Reparto de los Medicos
+Calle,59,Avenida,36,Avenida,38,Calle 59 entre Avenida 36 y Avenida 38,200,Reparto de los Medicos
+Calle,59,Avenida,38,Avenida,40,Calle 59 entre Avenida 38 y Avenida 40,200,Reparto de los Medicos
+Calle,59,Avenida,42,Avenida,44,Calle 59 entre Avenida 42 y Avenida 44,250,Casco Historico
+Calle,59,Avenida,46,Avenida,48,Calle 59 entre Avenida 46 y Avenida 48,250,Casco Historico
+Calle,59,Avenida,48,Avenida,50,Calle 59 entre Avenida 48 y Avenida 50,250,Casco Historico
+Calle,59,Avenida,50,Avenida,52,Calle 59 entre Avenida 50 y Avenida 52,250,Casco Historico
+Calle,59,Avenida,52,Avenida,54,Calle 59 entre Avenida 52 y Avenida 54,250,Casco Historico
+Calle,59,Avenida,56,Avenida,58,Calle 59 entre Avenida 56 y Avenida 58,250,Casco Historico
+Calle,59,Avenida,60,Avenida,62,Calle 59 entre Avenida 60 y Avenida 62,250,Casco Historico
+Calle,59,Avenida,62,Avenida,64A,Calle 59 entre Avenida 62 y Avenida 64A,250,Casco Historico
+Calle,59,Avenida, 64A,Calle,8 NE,Calle 59 entre Avenida  64A y Calle 8 NE,250,Casco Historico
+Calle,59,Calle,2 NE,Calle,4 NE,Calle 59 entre Calle 2 NE y Calle 4 NE,250,Casco Historico
+Calle,59,Calle,4 NE ,Calle,6 NE,Calle 59 entre Calle 4 NE  y Calle 6 NE,250,Casco Historico
+Calle,59,Calle,6 NE,Calle,8 NE,Calle 59 entre Calle 6 NE y Calle 8 NE,250,Casco Historico
+Calle,59,Avenida,64,Calle,2 NE,Calle 59 entre Avenida 64 y Calle 2 NE,250,Casco Historico
+Calle,59,Avenida,64,Avenida,66,Calle 59 entre Avenida 64 y Avenida 66,250,San Lazaro
+Calle,59,Avenida,68,Avenida,68A,Calle 59 entre Avenida 68 y Avenida 68A,250,San Lazaro
+Calle,59,Avenida,68A,Avenida,70,Calle 59 entre Avenida 68A y Avenida 70,250,San Lazaro
+Calle,59,Avenida,70,Avenida,72,Calle 59 entre Avenida 70 y Avenida 72,300,San Lazaro
+Calle,59,Avenida,72,Avenida,74,Calle 59 entre Avenida 72 y Avenida 74,300,San Lazaro
+Calle,61,Avenida,12,Avenida,14,Calle 61 entre Avenida 12 y Avenida 14,250,Punta Gorda
+Calle,61,Avenida,14,Avenida,16,Calle 61 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,61,Avenida,16,Avenida,18,Calle 61 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,61,Avenida,18,Avenida,18A,Calle 61 entre Avenida 18 y Avenida 18A,250,Punta Gorda
+Calle,61,Avenida,18A,Avenida,20,Calle 61 entre Avenida 18A y Avenida 20,250,Punta Gorda
+Calle,61,Avenida,20,Avenida,20A,Calle 61 entre Avenida 20 y Avenida 20A,250,Punta Gorda
+Calle,61,Avenida,20A,Avenida,22,Calle 61 entre Avenida 20A y Avenida 22,250,Punta Gorda
+Calle,61,Avenida,22,Avenida,24,Calle 61 entre Avenida 22 y Avenida 24,250,Punta Gorda
+Calle,61,Avenida,24,Avenida,26,Calle 61 entre Avenida 24 y Avenida 26,250,Punta Gorda
+Calle,61,Avenida,26,Avenida,28,Calle 61 entre Avenida 26 y Avenida 28,250,Punta Gorda
+Calle,61,Avenida,28,Avenida,30,Calle 61 entre Avenida 28 y Avenida 30,200,Reparto de los Medicos
+Calle,61,Avenida,32,Avenida,34,Calle 61 entre Avenida 32 y Avenida 34,200,Reparto de los Medicos
+Calle,61,Avenida,34,Calle,61A,Calle 61 entre Avenida 34 y Calle 61A,200,Reparto Hermanas Giral
+Calle,C,Calle,61A,Calle,61B,Calle C entre Calle 61A y Calle 61B,200,Reparto Hermanas Giral
+Calle,B,Calle,61A,Calle,61B,Calle B entre Calle 61A y Calle 61B,200,Reparto Hermanas Giral
+Calle,A,Calle,61A,Calle,61B,Calle A entre Calle 61A y Calle 61B,200,Reparto Hermanas Giral
+Calle,61,Calle,A,Avenida,40,Calle 61 entre Calle A y Avenida 40,200,Reparto Hermanas Giral
+Calle,61A,Calle,A,Avenida,40,Calle 61A entre Calle A y Avenida 40,200,Reparto Hermanas Giral
+Calle,61B,Calle,61,Calle,C,Calle 61B entre Calle 61 y Calle C,200,Reparto Hermanas Giral
+Calle,61B,Calle,C,Calle,B,Calle 61B entre Calle C y Calle B,200,Reparto Hermanas Giral
+Calle,61B,Calle,B,Calle,A,Calle 61B entre Calle B y Calle A,200,Reparto Hermanas Giral
+Calle,61B,Calle,4,Calle,63,Calle 61B entre Calle 4 y Calle 63,200,Reparto Hermanas Giral
+Calle,61,Avenida,42,Avenida,44,Calle 61 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,61,Avenida,44,Avenida,46,Calle 61 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,61,Avenida,46,Avenida,48,Calle 61 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,61,Avenida,48,Avenida,50,Calle 61 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,61,Avenida,50,Avenida,52,Calle 61 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,61,Avenida,52,Avenida,54,Calle 61 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,61,Avenida,54,Avenida,56,Calle 61 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,61,Avenida,56,Avenida,58,Calle 61 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,61,Avenida,58,Avenida,60,Calle 61 entre Avenida 58 y Avenida 60,250,La Juanita
+Calle,61,Avenida,60,Avenida,62,Calle 61 entre Avenida 60 y Avenida 62,250,La Juanita
+Calle,61,Avenida,62,Avenida,64A,Calle 61 entre Avenida 62 y Avenida 64A,250,La Juanita
+Calle,61,Avenida,64A,Calle,8 NE,Calle 61 entre Avenida 64A y Calle 8 NE,250,La Juanita
+Calle,61,Calle,2 NE,Calle,4 NE,Calle 61 entre Calle 2 NE y Calle 4 NE,250,La Juanita
+Calle,61,Calle,4 NE,Calle,6 NE,Calle 61 entre Calle 4 NE y Calle 6 NE,250,La Juanita
+Calle,61,Calle,6 NE,Calle,8 NE,Calle 61 entre Calle 6 NE y Calle 8 NE,250,La Juanita
+Calle,61,Avenida,64,Calle,2 NE,Calle 61 entre Avenida 64 y Calle 2 NE,250,La Juanita
+Calle,61,Avenida,64,Avenida,66,Calle 61 entre Avenida 64 y Avenida 66,250,Pueblo Grifo 
+Calle,61,Avenida,68,Avenida,70,Calle 61 entre Avenida 68 y Avenida 70,250,Pueblo Grifo 
+Calle,61,Avenida,70,Avenida,72,Calle 61 entre Avenida 70 y Avenida 72,300,Pueblo Grifo 
+Calle,63,Avenida,14,Avenida,16,Calle 63 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,63,Avenida,16,Avenida,18,Calle 63 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,63,Avenida,20,Avenida,22,Calle 63 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,63,Avenida,28,Avenida,30,Calle 63 entre Avenida 28 y Avenida 30,200,Reparto de los Medicos
+Calle,63,Avenida,30,Avenida,34,Calle 63 entre Avenida 30 y Avenida 34,200,Reparto de los Medicos
+Calle,63,Avenida,34,Calle,61B,Calle 63 entre Avenida 34 y Calle 61B,200,Reparto de los Medicos
+Calle,63,Calle,61B,Calle,67,Calle 63 entre Calle 61B y Calle 67,200,Reparto Hermanas Giral
+Calle,63,Calle,67,Calle,61A,Calle 63 entre Calle 67 y Calle 61A,200,Reparto Hermanas Giral
+Calle,63,Avenida,42,Avenida,44,Calle 63 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,63,Avenida,44,Avenida,46,Calle 63 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,63,Avenida,46,Avenida,48,Calle 63 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,63,Avenida,48,Avenida,50,Calle 63 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,63,Avenida,50,Avenida,52,Calle 63 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,63,Avenida,52,Avenida,54,Calle 63 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,63,Avenida,54,Avenida,56,Calle 63 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,63,Avenida,56,Avenida,58,Calle 63 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,63,Avenida,58,Avenida,60,Calle 63 entre Avenida 58 y Avenida 60,250,La Juanita
+Calle,63,Avenida,60,Avenida,62,Calle 63 entre Avenida 60 y Avenida 62,250,La Juanita
+Calle,63,Avenida,62,Avenida,64A,Calle 63 entre Avenida 62 y Avenida 64A,250,La Juanita
+Calle,63,Avenida,64A,Calle,10 NE,Calle 63 entre Avenida 64A y Calle 10 NE,250,La Juanita
+Calle,63,Calle,2 NE,Calle,4 NE,Calle 63 entre Calle 2 NE y Calle 4 NE,250,La Juanita
+Calle,63,Calle,4 NE,Calle,6 NE,Calle 63 entre Calle 4 NE y Calle 6 NE,250,La Juanita
+Calle,63,Calle,6 NE,Calle,8 NE,Calle 63 entre Calle 6 NE y Calle 8 NE,250,La Juanita
+Calle,63,Calle,8 NE,Calle,10 NE,Calle 63 entre Calle 8 NE y Calle 10 NE,250,La Juanita
+Calle,63,Avenida,64,Calle,2 NE,Calle 63 entre Avenida 64 y Calle 2 NE,250,La Juanita
+Calle,63,Avenida,64,Avenida,66,Calle 63 entre Avenida 64 y Avenida 66,250,Pueblo Grifo 
+Calle,63,Avenida,66,Avenida,68,Calle 63 entre Avenida 66 y Avenida 68,250,Pueblo Grifo 
+Calle,63,Avenida,68,Avenida,70,Calle 63 entre Avenida 68 y Avenida 70,250,Pueblo Grifo 
+Calle,63,Avenida,70,Avenida,72,Calle 63 entre Avenida 70 y Avenida 72,300,Pueblo Grifo 
+Calle,63,Avenida,72,Avenida,74,Calle 63 entre Avenida 72 y Avenida 74,300,Pueblo Grifo 
+Calle,63,Avenida,74,Avenida,76,Calle 63 entre Avenida 74 y Avenida 76,300,Pueblo Grifo 
+Calle,63,Avenida,76,Avenida,78,Calle 63 entre Avenida 76 y Avenida 78,300,Pueblo Grifo 
+Calle,63,Avenida,78,Avenida,78A,Calle 63 entre Avenida 78 y Avenida 78A,300,Pueblo Grifo 
+Calle,63,Avenida,78A,Avenida,80,Calle 63 entre Avenida 78A y Avenida 80,300,Pueblo Grifo 
+Calle,65,Avenida,14,Avenida,16,Calle 65 entre Avenida 14 y Avenida 16,250,Punta Gorda
+Calle,65,Avenida,16,Avenida,18,Calle 65 entre Avenida 16 y Avenida 18,250,Punta Gorda
+Calle,65,Avenida,18,Avenida,20,Calle 65 entre Avenida 18 y Avenida 20,250,Punta Gorda
+Calle,65,Avenida,20,Avenida,22,Calle 65 entre Avenida 20 y Avenida 22,250,Punta Gorda
+Calle,65,Avenida,42,Avenida,44,Calle 65 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,65,Avenida,44,Avenida,46,Calle 65 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,65,Avenida,46,Avenida,48,Calle 65 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,65,Avenida,48,Avenida,50,Calle 65 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,65,Avenida,50,Avenida,52,Calle 65 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,65,Avenida,52,Avenida,54,Calle 65 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,65,Avenida,54,Avenida,56,Calle 65 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,65,Avenida,56,Avenida,58,Calle 65 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,65,Avenida,58,Avenida,60,Calle 65 entre Avenida 58 y Avenida 60,250,La Juanita
+Calle,65,Avenida,60,Avenida,62,Calle 65 entre Avenida 60 y Avenida 62,250,La Juanita
+Calle,65,Avenida,62,Avenida,64A,Calle 65 entre Avenida 62 y Avenida 64A,250,La Juanita
+Calle,65,Calle,4 NE,Calle,6 NE,Calle 65 entre Calle 4 NE y Calle 6 NE,250,La Juanita
+Calle,65,Calle,6 NE,Calle,8 NE,Calle 65 entre Calle 6 NE y Calle 8 NE,250,La Juanita
+Calle,65,Calle,8 NE,Calle,10 NE,Calle 65 entre Calle 8 NE y Calle 10 NE,250,La Juanita
+Calle,65A,Avenida,70,Avenida,72,Calle 65A entre Avenida 70 y Avenida 72,300,Pueblo Grifo 
+Calle,65,Avenida,72,Avenida,74,Calle 65 entre Avenida 72 y Avenida 74,300,Pueblo Grifo 
+Calle,65,Avenida,74,Avenida,76,Calle 65 entre Avenida 74 y Avenida 76,300,Pueblo Grifo 
+Calle,65,Avenida,76,Avenida,78,Calle 65 entre Avenida 76 y Avenida 78,300,Pueblo Grifo 
+Calle,65,Avenida,78,Avenida,78A,Calle 65 entre Avenida 78 y Avenida 78A,300,Pueblo Grifo 
+Calle,65,Avenida,78A,Calle,65A,Calle 65 entre Avenida 78A y Calle 65A,300,Pueblo Grifo 
+Calle,65A,Calle,65,Avenida,80,Calle 65A entre Calle 65 y Avenida 80,300,Pueblo Grifo 
+Calle,65,Calle,65A,Avenida,80,Calle 65 entre Calle 65A y Avenida 80,300,Pueblo Grifo 
+Calle,67,Calle,63,Avenida,42,Calle 67 entre Calle 63 y Avenida 42,200,Reparto Hermanas Giral
+Calle,67,Avenida,42,Avenida,44,Calle 67 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,67,Avenida,44,Avenida,46,Calle 67 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,67,Avenida,46,Avenida,48,Calle 67 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,67,Avenida,48,Avenida,50,Calle 67 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,67,Avenida,50,Avenida,52,Calle 67 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,67,Avenida,52,Avenida,54,Calle 67 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,67,Avenida,54,Avenida,56,Calle 67 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,67,Avenida,56,Avenida,58,Calle 67 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,67,Avenida,58,Avenida,60,Calle 67 entre Avenida 58 y Avenida 60,250,La Juanita
+Calle,67,Avenida,60,Avenida,62,Calle 67 entre Avenida 60 y Avenida 62,250,La Juanita
+Calle,67,Avenida,62,Avenida,64A,Calle 67 entre Avenida 62 y Avenida 64A,250,La Juanita
+Calle,67,Avenida,64A,Calle,12 NE,Calle 67 entre Avenida 64A y Calle 12 NE,250,La Juanita
+Calle,67,Calle,10 NE,Calle,12 NE,Calle 67 entre Calle 10 NE y Calle 12 NE,250,La Juanita
+Calle,67,Calle,8 NE,Calle,10 NE,Calle 67 entre Calle 8 NE y Calle 10 NE,250,La Juanita
+Calle,67 NE,Calle,4 NE,Calle,6 NE,Calle 67 NE entre Calle 4 NE y Calle 6 NE,250,La Juanita
+Calle,67,Avenida,70,Avenida,72,Calle 67 entre Avenida 70 y Avenida 72,300,Pueblo Grifo 
+Calle,67,Avenida,72,Avenida,74,Calle 67 entre Avenida 72 y Avenida 74,300,Pueblo Grifo 
+Calle,67,Avenida,74,Avenida,78,Calle 67 entre Avenida 74 y Avenida 78,300,Pueblo Grifo 
+Calle,69,Avenida,42,Avenida,44,Calle 69 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,69,Avenida,44,Avenida,46,Calle 69 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,69,Avenida,46,Avenida,48,Calle 69 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,69,Avenida,48,Avenida,50,Calle 69 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,69,Avenida,50,Avenida,52,Calle 69 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,69,Avenida,52,Avenida,54,Calle 69 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,69,Avenida,54,Avenida,56,Calle 69 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,69,Avenida,56,Avenida,58,Calle 69 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,69,Avenida,58,Avenida,60,Calle 69 entre Avenida 58 y Avenida 60,250,La Juanita
+Calle,69,Avenida,60,Avenida,62,Calle 69 entre Avenida 60 y Avenida 62,250,La Juanita
+Calle,69,Avenida,62,Avenida,64A,Calle 69 entre Avenida 62 y Avenida 64A,250,La Juanita
+Calle,69,Avenida,72,Avenida,74,Calle 69 entre Avenida 72 y Avenida 74,300,Pueblo Grifo 
+Calle,69,Avenida,74,Avenida,78,Calle 69 entre Avenida 74 y Avenida 78,300,Pueblo Grifo 
+Calle,69,Avenida,78,Avenida,78A,Calle 69 entre Avenida 78 y Avenida 78A,300,Pueblo Grifo 
+Calle,69,Avenida,78A,Avenida,80,Calle 69 entre Avenida 78A y Avenida 80,300,Pueblo Grifo 
+Calle,71,Avenida,42,Avenida,44,Calle 71 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,71,Avenida,44,Avenida,46,Calle 71 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,71,Avenida,46,Avenida,48,Calle 71 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,71,Avenida,48,Avenida,50,Calle 71 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,71,Avenida,50,Avenida,52,Calle 71 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,71,Avenida,52,Avenida,54,Calle 71 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,71,Avenida,54,Avenida,56,Calle 71 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,71,Avenida,56,Avenida,58,Calle 71 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,71,Avenida,58,Avenida,60,Calle 71 entre Avenida 58 y Avenida 60,250,La Juanita
+Calle,71,Avenida,60,Avenida,62,Calle 71 entre Avenida 60 y Avenida 62,250,La Juanita
+Calle,71,Avenida,62,Avenida,64A,Calle 71 entre Avenida 62 y Avenida 64A,250,La Juanita
+Calle,71,Avenida,64A,Calle,14 NE,Calle 71 entre Avenida 64A y Calle 14 NE,250,La Juanita
+Calle,71,Calle,10 NE,Calle,12 NE,Calle 71 entre Calle 10 NE y Calle 12 NE,250,La Juanita
+Calle,71,Calle,12 NE,Calle,14 NE,Calle 71 entre Calle 12 NE y Calle 14 NE,250,La Juanita
+Calle,71,Avenida,78,Avenida,78A,Calle 71 entre Avenida 78 y Avenida 78A,300,Pueblo Grifo 
+Calle,71,Avenida,78A,Avenida,80,Calle 71 entre Avenida 78A y Avenida 80,300,Pueblo Grifo 
+Calle,73,Avenida,42,Avenida,44,Calle 73 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,73,Avenida,44,Avenida,46,Calle 73 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,73,Avenida,46,Avenida,48,Calle 73 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,73,Avenida,48,Avenida,50,Calle 73 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,73,Avenida,50,Avenida,52,Calle 73 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,73,Avenida,52,Avenida,54,Calle 73 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,73,Avenida,54,Avenida,56,Calle 73 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,73,Avenida,56,Avenida,58,Calle 73 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,73,Avenida,58,Avenida,60,Calle 73 entre Avenida 58 y Avenida 60,250,La Juanita
+Calle,73,Avenida,60,Avenida,62,Calle 73 entre Avenida 60 y Avenida 62,250,La Juanita
+Calle,73,Avenida,62,Avenida,64A,Calle 73 entre Avenida 62 y Avenida 64A,250,La Juanita
+Calle,73,Avenida,64A,Calle,16 NE,Calle 73 entre Avenida 64A y Calle 16 NE,250,La Juanita
+Calle,73,Calle,6 NE,Calle,8 NE,Calle 73 entre Calle 6 NE y Calle 8 NE,250,La Juanita
+Calle,73,Calle,8 NE,Calle,10 NE,Calle 73 entre Calle 8 NE y Calle 10 NE,250,La Juanita
+Calle,73,Calle,10 NE,Calle,12 NE,Calle 73 entre Calle 10 NE y Calle 12 NE,250,La Juanita
+Calle,73,Calle,12 NE,Calle,14 NE,Calle 73 entre Calle 12 NE y Calle 14 NE,250,La Juanita
+Calle,73,Calle,14 NE,Calle,16 NE,Calle 73 entre Calle 14 NE y Calle 16 NE,250,La Juanita
+Calle,75,Avenida,28,Avenida,30A,Calle 75 entre Avenida 28 y Avenida 30A,250,Callejon Calabazas
+Calle,75,Avenida,30A,Avenida,32,Calle 75 entre Avenida 30A y Avenida 32,250,Callejon Calabazas
+Calle,75,Avenida,32,Avenida,34,Calle 75 entre Avenida 32 y Avenida 34,250,Callejon Calabazas
+Calle,75,Avenida,34,Avenida,36,Calle 75 entre Avenida 34 y Avenida 36,250,Callejon Calabazas
+Calle,75,Avenida,36,Avenida,38,Calle 75 entre Avenida 36 y Avenida 38,250,Callejon Calabazas
+Calle,75,Avenida,38,Avenida,40,Calle 75 entre Avenida 38 y Avenida 40,250,Callejon Calabazas
+Calle,75,Avenida,40,Avenida,42,Calle 75 entre Avenida 40 y Avenida 42,250,Callejon Calabazas
+Calle,75,Avenida,42,Avenida,44,Calle 75 entre Avenida 42 y Avenida 44,250,La Juanita
+Calle,75,Avenida,44,Avenida,46,Calle 75 entre Avenida 44 y Avenida 46,250,La Juanita
+Calle,75,Avenida,46,Avenida,48,Calle 75 entre Avenida 46 y Avenida 48,250,La Juanita
+Calle,75,Avenida,48,Avenida,50,Calle 75 entre Avenida 48 y Avenida 50,250,La Juanita
+Calle,75,Avenida,50,Avenida,52,Calle 75 entre Avenida 50 y Avenida 52,250,La Juanita
+Calle,75,Avenida,52,Avenida,54,Calle 75 entre Avenida 52 y Avenida 54,250,La Juanita
+Calle,75,Avenida,54,Avenida,56,Calle 75 entre Avenida 54 y Avenida 56,250,La Juanita
+Calle,75,Avenida,56,Avenida,58,Calle 75 entre Avenida 56 y Avenida 58,250,La Juanita
+Calle,75,Avenida,58,Avenida,60,Calle 75 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,75,Avenida,60,Avenida,62,Calle 75 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,75,Avenida,62,Avenida,64A,Calle 75 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,75,Avenida,64A,Calle,18 NE,Calle 75 entre Avenida 64A y Calle 18 NE,350,Tulipan
+Calle,75,Calle,2 NE,Calle,4 NE,Calle 75 entre Calle 2 NE y Calle 4 NE,350,Tulipan
+Calle,75,Calle,4 NE ,Calle,6 NE,Calle 75 entre Calle 4 NE  y Calle 6 NE,350,Tulipan
+Calle,75,Calle,6 NE,Calle,8 NE ,Calle 75 entre Calle 6 NE y Calle 8 NE ,350,Tulipan
+Calle,75,Calle,8 NE ,Calle,10 NE ,Calle 75 entre Calle 8 NE  y Calle 10 NE ,350,Tulipan
+Calle,75,Calle,10 NE ,Calle,12 NE ,Calle 75 entre Calle 10 NE  y Calle 12 NE ,350,Tulipan
+Calle,75,Calle,12 NE ,Calle,14 NE ,Calle 75 entre Calle 12 NE  y Calle 14 NE ,350,Tulipan
+Calle,75,Calle,14 NE ,Calle,16 NE ,Calle 75 entre Calle 14 NE  y Calle 16 NE ,350,Tulipan
+Calle,75,Calle,16 NE ,Calle,18 NE,Calle 75 entre Calle 16 NE  y Calle 18 NE,350,Tulipan
+Calle,75,Avenida,64,Calle,2 NE,Calle 75 entre Avenida 64 y Calle 2 NE,350,Tulipan
+Calle,77,Avenida,48,Avenida,48A,Calle 77 entre Avenida 48 y Avenida 48A,250,La Juanita
+Calle,77,Avenida,58,Avenida,60,Calle 77 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,77,Avenida,60,Avenida,62,Calle 77 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,77,Avenida,62,Avenida,64A,Calle 77 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,77,Avenida,64A,Calle,18 NE,Calle 77 entre Avenida 64A y Calle 18 NE,350,Tulipan
+Calle,77,Calle,4 NE,Calle,6 NE,Calle 77 entre Calle 4 NE y Calle 6 NE,350,Tulipan
+Calle,77,Calle,6 NE,Calle,8 NE,Calle 77 entre Calle 6 NE y Calle 8 NE,350,Tulipan
+Calle,77,Calle,8 NE,Calle,10 NE,Calle 77 entre Calle 8 NE y Calle 10 NE,350,Tulipan
+Calle,77,Calle,10 NE,Calle,12 NE,Calle 77 entre Calle 10 NE y Calle 12 NE,350,Tulipan
+Calle,77,Calle,12 NE,Calle,14 NE,Calle 77 entre Calle 12 NE y Calle 14 NE,350,Tulipan
+Calle,77,Calle,14 NE,Calle,16 NE,Calle 77 entre Calle 14 NE y Calle 16 NE,350,Tulipan
+Calle,77,Calle,16 NE,Calle,18 NE,Calle 77 entre Calle 16 NE y Calle 18 NE,350,Tulipan
+Calle,77,Avenida,64,Calle,4 NE,Calle 77 entre Avenida 64 y Calle 4 NE,350,Tulipan
+Calle,79,Avenida,28,Avenida,28A,Calle 79 entre Avenida 28 y Avenida 28A,250,Junco Sur
+Calle,79,Avenida,28,Avenida,30,Calle 79 entre Avenida 28 y Avenida 30,250,Junco Sur
+Calle,79,Avenida,30,Avenida,32,Calle 79 entre Avenida 30 y Avenida 32,250,Junco Sur
+Calle,79,Avenida,36,Avenida,36A,Calle 79 entre Avenida 36 y Avenida 36A,250,Junco Sur
+Calle,79,Avenida,36A,Avenida,38,Calle 79 entre Avenida 36A y Avenida 38,250,Junco Sur
+Calle,79A,Avenida,36,Avenida,36A,Calle 79A entre Avenida 36 y Avenida 36A,250,Junco Sur
+Calle,79A,Avenida,36A,Avenida,38,Calle 79A entre Avenida 36A y Avenida 38,250,Junco Sur
+Calle,79A,Avenida,38,Avenida,40,Calle 79A entre Avenida 38 y Avenida 40,250,Junco Sur
+Calle,79A,Avenida,40,Avenida,42,Calle 79A entre Avenida 40 y Avenida 42,250,Junco Sur
+Calle,79,Avenida,42,Avenida,48,Calle 79 entre Avenida 42 y Avenida 48,250,Junco Sur
+Calle,79,Avenida,56,Avenida,58,Calle 79 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,79,Avenida,58,Avenida,60,Calle 79 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,79,Avenida,60,Avenida,62,Calle 79 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,79,Avenida,62,Avenida,64A,Calle 79 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,79,Avenida,64A,Calle,20 NE,Calle 79 entre Avenida 64A y Calle 20 NE,350,Tulipan
+Calle,79,Calle,4 NE,Calle,6 NE,Calle 79 entre Calle 4 NE y Calle 6 NE,350,Tulipan
+Calle,79,Calle,6 NE,Calle,8 NE,Calle 79 entre Calle 6 NE y Calle 8 NE,350,Tulipan
+Calle,79,Calle,8 NE,Calle,10 NE,Calle 79 entre Calle 8 NE y Calle 10 NE,350,Tulipan
+Calle,79,Calle,10 NE,Calle,12 NE,Calle 79 entre Calle 10 NE y Calle 12 NE,350,Tulipan
+Calle,79,Calle,12 NE,Calle,14 NE,Calle 79 entre Calle 12 NE y Calle 14 NE,350,Tulipan
+Calle,79,Calle,14 NE,Calle,16 NE,Calle 79 entre Calle 14 NE y Calle 16 NE,350,Tulipan
+Calle,79,Calle,16 NE,Calle,18 NE,Calle 79 entre Calle 16 NE y Calle 18 NE,350,Tulipan
+Calle,79,Calle,18 NE,Calle,20 NE,Calle 79 entre Calle 18 NE y Calle 20 NE,350,Tulipan
+Calle,79,Avenida,64,Calle,4 NE,Calle 79 entre Avenida 64 y Calle 4 NE,350,Tulipan
+Calle,81,Avenida,28,Avenida,30,Calle 81 entre Avenida 28 y Avenida 30,250,Junco Sur
+Calle,81,Avenida,30,Avenida,32,Calle 81 entre Avenida 30 y Avenida 32,250,Junco Sur
+Calle,81,Avenida,32,Avenida,34,Calle 81 entre Avenida 32 y Avenida 34,250,Junco Sur
+Calle,81,Avenida,34,Avenida,36,Calle 81 entre Avenida 34 y Avenida 36,250,Junco Sur
+Calle,81,Avenida,36,Avenida,36A,Calle 81 entre Avenida 36 y Avenida 36A,250,Junco Sur
+Calle,81,Avenida,36A,Avenida,38,Calle 81 entre Avenida 36A y Avenida 38,250,Junco Sur
+Calle,81,Avenida,38,Avenida,40,Calle 81 entre Avenida 38 y Avenida 40,250,Junco Sur
+Calle,81,Avenida,40,Avenida,42,Calle 81 entre Avenida 40 y Avenida 42,250,Junco Sur
+Calle,81,Avenida,56,Avenida,58,Calle 81 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,81,Avenida,58,Avenida,60,Calle 81 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,81,Avenida,60,Avenida,62,Calle 81 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,81,Avenida,62,Avenida,64A,Calle 81 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,81,Avenida,64A,Calle,22 NE,Calle 81 entre Avenida 64A y Calle 22 NE,350,Tulipan
+Calle,81,Calle,4 NE,Calle,6 NE,Calle 81 entre Calle 4 NE y Calle 6 NE,350,Tulipan
+Calle,81,Calle,6 NE,Calle,8 NE,Calle 81 entre Calle 6 NE y Calle 8 NE,350,Tulipan
+Calle,81,Calle,8 NE,Calle,10 NE,Calle 81 entre Calle 8 NE y Calle 10 NE,350,Tulipan
+Calle,81,Calle,10 NE,Calle,12 NE,Calle 81 entre Calle 10 NE y Calle 12 NE,350,Tulipan
+Calle,81,Calle,12 NE,Calle,14 NE,Calle 81 entre Calle 12 NE y Calle 14 NE,350,Tulipan
+Calle,81,Calle,14 NE,Calle,16 NE,Calle 81 entre Calle 14 NE y Calle 16 NE,350,Tulipan
+Calle,81,Calle,16 NE,Calle,18 NE,Calle 81 entre Calle 16 NE y Calle 18 NE,350,Tulipan
+Calle,81,Calle,18 NE,Calle,20 NE,Calle 81 entre Calle 18 NE y Calle 20 NE,350,Tulipan
+Calle,81,Calle,20 NE,Calle,22 NE,Calle 81 entre Calle 20 NE y Calle 22 NE,350,Tulipan
+Calle,83,Avenida,30,Avenida,32,Calle 83 entre Avenida 30 y Avenida 32,250,Junco Sur
+Calle,83,Avenida,32,Avenida,34,Calle 83 entre Avenida 32 y Avenida 34,250,Junco Sur
+Calle,83,Avenida,56,Avenida,58,Calle 83 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,83,Avenida,58,Avenida,60,Calle 83 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,83,Avenida,60,Avenida,62,Calle 83 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,83,Avenida,62,Avenida,64A,Calle 83 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,83,Avenida,64,Calle,2 NE,Calle 83 entre Avenida 64 y Calle 2 NE,350,Tulipan
+Calle,83,Calle,2 NE,Calle,4 NE,Calle 83 entre Calle 2 NE y Calle 4 NE,350,Tulipan
+Calle,83A,Avenida,70,Avenida,72,Calle 83A entre Avenida 70 y Avenida 72,350,Buena Vista
+Calle,83A,Avenida,72,Avenida,76,Calle 83A entre Avenida 72 y Avenida 76,350,Buena Vista
+Calle,83,Avenida,70,Avenida,72,Calle 83 entre Avenida 70 y Avenida 72,300,Pueblo Grifo 
+Calle,85,Avenida,32,Avenida,34,Calle 85 entre Avenida 32 y Avenida 34,250,Junco Sur
+Calle,85,Avenida,34,Avenida,36,Calle 85 entre Avenida 34 y Avenida 36,250,Junco Sur
+Calle,85,Avenida,56,Avenida,58,Calle 85 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,85,Avenida,58,Avenida,60,Calle 85 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,85,Avenida,60,Avenida,62,Calle 85 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,85,Avenida,62,Avenida,64A,Calle 85 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,85,Avenida,64A,Calle,22 NE,Calle 85 entre Avenida 64A y Calle 22 NE,350,Tulipan
+Calle,85,Calle,2 NE ,Calle,4 NE,Calle 85 entre Calle 2 NE  y Calle 4 NE,400,Tulipan
+Calle,85,Calle,4 NE,Calle,6 NE ,Calle 85 entre Calle 4 NE y Calle 6 NE ,400,Tulipan
+Calle,85,Calle,6 NE ,Calle,8 NE ,Calle 85 entre Calle 6 NE  y Calle 8 NE ,400,Tulipan
+Calle,85,Calle,8 NE ,Calle,10 NE ,Calle 85 entre Calle 8 NE  y Calle 10 NE ,400,Tulipan
+Calle,85,Calle,10 NE ,Calle,12 NE ,Calle 85 entre Calle 10 NE  y Calle 12 NE ,400,Tulipan
+Calle,85,Calle,12 NE ,Calle,14 NE ,Calle 85 entre Calle 12 NE  y Calle 14 NE ,350,Tulipan
+Calle,85,Calle,14 NE ,Calle,16 NE ,Calle 85 entre Calle 14 NE  y Calle 16 NE ,350,Tulipan
+Calle,85,Calle,16 NE ,Calle,18 NE ,Calle 85 entre Calle 16 NE  y Calle 18 NE ,350,Tulipan
+Calle,85,Calle,18 NE ,Calle,20 NE ,Calle 85 entre Calle 18 NE  y Calle 20 NE ,350,Tulipan
+Calle,85,Calle,20 NE ,Calle,22 NE,Calle 85 entre Calle 20 NE  y Calle 22 NE,350,Tulipan
+Calle,85,Avenida,64,Calle,2 NE,Calle 85 entre Avenida 64 y Calle 2 NE,400,Tulipan
+Calle,85,Calle,113,Calle,ALMACENES DEL MIEDO,Calle 85 entre Calle 113 y Calle ALMACENES DEL MIEDO,400,Almacenes
+Calle,87,Avenida,28,Avenida,30,Calle 87 entre Avenida 28 y Avenida 30,300,Junco Sur
+Calle,87,Avenida,30,Avenida,32,Calle 87 entre Avenida 30 y Avenida 32,300,Junco Sur
+Calle,87,Avenida,56,Avenida,58,Calle 87 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,87,Avenida,58,Avenida,60,Calle 87 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,87,Avenida,60,Avenida,62,Calle 87 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,87,Avenida,62,Avenida,64A,Calle 87 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,87,Avenida,64A,Calle,24 NE,Calle 87 entre Avenida 64A y Calle 24 NE,350,Tulipan
+Calle,87,Calle,2 NE,Calle,4 NE,Calle 87 entre Calle 2 NE y Calle 4 NE,400,Tulipan
+Calle,87,Calle,4 NE,Calle,6 NE,Calle 87 entre Calle 4 NE y Calle 6 NE,400,Tulipan
+Calle,87,Calle,6 NE,Calle,8 NE,Calle 87 entre Calle 6 NE y Calle 8 NE,400,Tulipan
+Calle,87,Calle,8 NE,Calle,10 NE,Calle 87 entre Calle 8 NE y Calle 10 NE,400,Tulipan
+Calle,87,Calle,10 NE,Calle,12 NE,Calle 87 entre Calle 10 NE y Calle 12 NE,400,Tulipan
+Calle,87,Calle,12 NE,Calle,14 NE,Calle 87 entre Calle 12 NE y Calle 14 NE,400,Tulipan
+Calle,87,Calle,14 NE,Calle,16 NE,Calle 87 entre Calle 14 NE y Calle 16 NE,350,Tulipan
+Calle,87,Calle,16 NE,Calle,18 NE,Calle 87 entre Calle 16 NE y Calle 18 NE,350,Tulipan
+Calle,87,Calle,18 NE,Calle,20 NE,Calle 87 entre Calle 18 NE y Calle 20 NE,350,Tulipan
+Calle,87,Calle,20 NE,Calle,22 NE,Calle 87 entre Calle 20 NE y Calle 22 NE,350,Tulipan
+Calle,87,Calle,22 NE,Calle,24 NE,Calle 87 entre Calle 22 NE y Calle 24 NE,350,Tulipan
+Calle,87,Avenida,64,Calle,2 NE,Calle 87 entre Avenida 64 y Calle 2 NE,400,Tulipan
+Calle,87,Avenida,64,Avenida,66,Calle 87 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,87,Avenida,66,Avenida,68,Calle 87 entre Avenida 66 y Avenida 68,350,Buena Vista
+Calle,87,Avenida,68,Avenida,70,Calle 87 entre Avenida 68 y Avenida 70,350,Buena Vista
+Calle,89,Avenida,28,Avenida,30,Calle 89 entre Avenida 28 y Avenida 30,300,Junco Sur
+Calle,89,Avenida,30,Avenida,32,Calle 89 entre Avenida 30 y Avenida 32,300,Junco Sur
+Calle,89,Avenida,56,Avenida,58,Calle 89 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,89,Avenida,58,Avenida,60,Calle 89 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,89,Avenida,60,Avenida,62,Calle 89 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,89,Avenida,62,Avenida,64A,Calle 89 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,89,Avenida,64A,Calle,26 NE,Calle 89 entre Avenida 64A y Calle 26 NE,350,Tulipan
+Calle,89,Calle,4 NE,Calle,6 NE,Calle 89 entre Calle 4 NE y Calle 6 NE,400,Tulipan
+Calle,89,Calle,6 NE,Calle,8 NE,Calle 89 entre Calle 6 NE y Calle 8 NE,400,Tulipan
+Calle,89,Calle,8 NE,Calle,10 NE,Calle 89 entre Calle 8 NE y Calle 10 NE,400,Tulipan
+Calle,89,Calle,10 NE,Calle,12 NE,Calle 89 entre Calle 10 NE y Calle 12 NE,400,Tulipan
+Calle,89,Calle,12 NE,Calle,14 NE,Calle 89 entre Calle 12 NE y Calle 14 NE,400,Tulipan
+Calle,89,Calle,14 NE,Calle,16 NE,Calle 89 entre Calle 14 NE y Calle 16 NE,400,Tulipan
+Calle,89,Calle,16 NE,Calle,18 NE,Calle 89 entre Calle 16 NE y Calle 18 NE,350,Tulipan
+Calle,89,Calle,18 NE,Calle,20 NE,Calle 89 entre Calle 18 NE y Calle 20 NE,350,Tulipan
+Calle,89,Calle,20 NE,Calle,22 NE,Calle 89 entre Calle 20 NE y Calle 22 NE,350,Tulipan
+Calle,89,Calle,22 NE,Calle,24 NE,Calle 89 entre Calle 22 NE y Calle 24 NE,350,Tulipan
+Calle,89,Calle,24 NE,Calle,26 NE,Calle 89 entre Calle 24 NE y Calle 26 NE,350,Tulipan
+Calle,89,Avenida,64,Avenida,66,Calle 89 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,89,Avenida,66,Avenida,68,Calle 89 entre Avenida 66 y Avenida 68,350,Buena Vista
+Calle,89,Avenida,68,Avenida,70,Calle 89 entre Avenida 68 y Avenida 70,350,Buena Vista
+Calle,89,Avenida,70,Avenida,72,Calle 89 entre Avenida 70 y Avenida 72,350,Buena Vista
+Calle,89,Avenida,72,Avenida,76,Calle 89 entre Avenida 72 y Avenida 76,350,Buena Vista
+Calle,91,Calle,89,Calle,12 PLANTA JUNCO SUR,Calle 91 entre Calle 89 y Calle 12 PLANTA JUNCO SUR,300,Junco Sur
+Calle,91,Avenida,32,Calle,MARINA JUNCO SUR,Calle 91 entre Avenida 32 y Calle MARINA JUNCO SUR,300,Junco Sur
+Calle,91,Avenida,58,Avenida,60,Calle 91 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,91,Avenida,60,Avenida,62,Calle 91 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,91,Avenida,62,Avenida,64A,Calle 91 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,93,Avenida,56,Avenida,58,Calle 93 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,93,Avenida,58,Avenida,60,Calle 93 entre Avenida 58 y Avenida 60,350,Tulipan
+Calle,93,Avenida,60,Avenida,62,Calle 93 entre Avenida 60 y Avenida 62,350,Tulipan
+Calle,93,Avenida,62,Avenida,64A,Calle 93 entre Avenida 62 y Avenida 64A,350,Tulipan
+Calle,93,Avenida,64A,Calle,28 NE,Calle 93 entre Avenida 64A y Calle 28 NE,350,Tulipan
+Calle,93,Calle,10 NE ,Calle,12 NE,Calle 93 entre Calle 10 NE  y Calle 12 NE,400,Tulipan
+Calle,93,Calle,12 NE,Calle,14 NE ,Calle 93 entre Calle 12 NE y Calle 14 NE ,400,Tulipan
+Calle,93,Calle,14 NE ,Calle,16 NE ,Calle 93 entre Calle 14 NE  y Calle 16 NE ,400,Tulipan
+Calle,93,Calle,16 NE ,Calle,18 NE ,Calle 93 entre Calle 16 NE  y Calle 18 NE ,400,Tulipan
+Calle,93,Calle,18 NE ,Calle,20 NE ,Calle 93 entre Calle 18 NE  y Calle 20 NE ,400,Tulipan
+Calle,93,Calle,20 NE ,Calle,22 NE ,Calle 93 entre Calle 20 NE  y Calle 22 NE ,350,Tulipan
+Calle,93,Calle,22 NE ,Calle,24 NE ,Calle 93 entre Calle 22 NE  y Calle 24 NE ,350,Tulipan
+Calle,93,Calle,24 NE ,Calle,26 NE ,Calle 93 entre Calle 24 NE  y Calle 26 NE ,350,Tulipan
+Calle,93,Calle,26 NE ,Calle,28 NE,Calle 93 entre Calle 26 NE  y Calle 28 NE,350,Tulipan
+Calle,97,Avenida,42,Avenida,56,Calle 97 entre Avenida 42 y Avenida 56,350,Tulipan
+Calle,97,Avenida,56,Avenida,58,Calle 97 entre Avenida 56 y Avenida 58,350,Tulipan
+Calle,97,Calle,12 NE,Calle,14 NE,Calle 97 entre Calle 12 NE y Calle 14 NE,400,Tulipan
+Calle,97,Calle,14 NE,Calle,16 NE,Calle 97 entre Calle 14 NE y Calle 16 NE,400,Tulipan
+Calle,97,Calle,16 NE,Calle,18 NE,Calle 97 entre Calle 16 NE y Calle 18 NE,400,Tulipan
+Calle,97,Calle,18 NE,Calle,20 NE,Calle 97 entre Calle 18 NE y Calle 20 NE,400,Tulipan
+Calle,97,Calle,20 NE,Calle,22 NE,Calle 97 entre Calle 20 NE y Calle 22 NE,400,Tulipan
+Calle,97,Calle,22 NE,Calle,24 NE,Calle 97 entre Calle 22 NE y Calle 24 NE,350,Tulipan
+Calle,97,Calle,24 NE,Calle,26 NE,Calle 97 entre Calle 24 NE y Calle 26 NE,350,Tulipan
+Calle,97,Calle,26 NE,Calle,28 NE,Calle 97 entre Calle 26 NE y Calle 28 NE,350,Tulipan
+Calle,97A,Avenida,64,Calle,2 NE,Calle 97A entre Avenida 64 y Calle 2 NE,350,Buena Vista
+Calle,97,Avenida,64,Avenida,66,Calle 97 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,97,Avenida,66,Avenida,68,Calle 97 entre Avenida 66 y Avenida 68,350,Buena Vista
+Calle,97,Avenida,68,Avenida,70,Calle 97 entre Avenida 68 y Avenida 70,350,Buena Vista
+Calle,97,Avenida,70,Avenida,72,Calle 97 entre Avenida 70 y Avenida 72,350,Buena Vista
+Calle,97,Avenida,72,Avenida,74,Calle 97 entre Avenida 72 y Avenida 74,350,Buena Vista
+Calle,99,Calle,6 NE,Calle,10 NE,Calle 99 entre Calle 6 NE y Calle 10 NE,400,Tulipan
+Calle,99,Calle,10 NE,Calle,12 NE,Calle 99 entre Calle 10 NE y Calle 12 NE,400,Tulipan
+Calle,99,Calle,12 NE,Calle,14 NE,Calle 99 entre Calle 12 NE y Calle 14 NE,400,Tulipan
+Calle,99,Calle,14 NE,Calle,16 NE,Calle 99 entre Calle 14 NE y Calle 16 NE,400,Tulipan
+Calle,99,Calle,16 NE,Calle,18 NE,Calle 99 entre Calle 16 NE y Calle 18 NE,400,Tulipan
+Calle,99,Calle,18 NE,Calle,20 NE,Calle 99 entre Calle 18 NE y Calle 20 NE,400,Tulipan
+Calle,99,Calle,20 NE,Calle,22 NE,Calle 99 entre Calle 20 NE y Calle 22 NE,400,Tulipan
+Calle,99,Calle,22 NE,Calle,24 NE,Calle 99 entre Calle 22 NE y Calle 24 NE,400,Tulipan
+Calle,99,Calle,24 NE,Calle,26 NE,Calle 99 entre Calle 24 NE y Calle 26 NE,350,Tulipan
+Calle,99,Avenida,64,Avenida,66,Calle 99 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,99,Avenida,66,Avenida,68,Calle 99 entre Avenida 66 y Avenida 68,350,Buena Vista
+Calle,99,Avenida,68,Avenida,70,Calle 99 entre Avenida 68 y Avenida 70,350,Buena Vista
+Calle,99,Avenida,70,Avenida,72,Calle 99 entre Avenida 70 y Avenida 72,350,Buena Vista
+Calle,99,Avenida,72,Avenida,74,Calle 99 entre Avenida 72 y Avenida 74,400,Buena Vista
+Calle,99,Avenida,74,Avenida,76,Calle 99 entre Avenida 74 y Avenida 76,400,Buena Vista
+Calle,99A,Avenida,74,Avenida,76,Calle 99A entre Avenida 74 y Avenida 76,400,Buena Vista
+Calle,101,Calle,6 NE,Calle,10 NE,Calle 101 entre Calle 6 NE y Calle 10 NE,400,Tulipan
+Calle,101,Calle,10 NE,Calle,12 NE,Calle 101 entre Calle 10 NE y Calle 12 NE,400,Tulipan
+Calle,101,Calle,16 NE,Calle,18 NE,Calle 101 entre Calle 16 NE y Calle 18 NE,400,Tulipan
+Calle,101,Avenida,64,Avenida,66,Calle 101 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,101,Avenida,66,Avenida,68,Calle 101 entre Avenida 66 y Avenida 68,350,Buena Vista
+Calle,101,Avenida,68,Avenida,70,Calle 101 entre Avenida 68 y Avenida 70,400,Buena Vista
+Calle,101,Avenida,72,Avenida,74,Calle 101 entre Avenida 72 y Avenida 74,400,Buena Vista
+Calle,103,Calle,10 NE,Calle,12 NE,Calle 103 entre Calle 10 NE y Calle 12 NE,350,Tulipan
+Calle,103,Calle,12 NE,Calle,14 NE,Calle 103 entre Calle 12 NE y Calle 14 NE,350,Tulipan
+Calle,103,Avenida,64,Avenida,66,Calle 103 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,103,Avenida,66,Avenida,68,Calle 103 entre Avenida 66 y Avenida 68,400,Buena Vista
+Calle,103,Avenida,68,Avenida,70,Calle 103 entre Avenida 68 y Avenida 70,400,Buena Vista
+Calle,103,Avenida,70,Avenida,72,Calle 103 entre Avenida 70 y Avenida 72,400,Buena Vista
+Calle,103,Avenida,72,Calle, CIRCUNVALACION,Calle 103 entre Avenida 72 y Calle  CIRCUNVALACION,400,Buena Vista
+Calle,105,Calle,10 NE,Calle,12 NE,Calle 105 entre Calle 10 NE y Calle 12 NE,400,Tulipan
+Calle,105,Calle,12 NE,Calle,16 NE,Calle 105 entre Calle 12 NE y Calle 16 NE,400,Tulipan
+Calle,105,Avenida,64,Avenida,66,Calle 105 entre Avenida 64 y Avenida 66,400,Buena Vista
+Calle,105,Avenida,66,Avenida,68,Calle 105 entre Avenida 66 y Avenida 68,400,Buena Vista
+Calle,105,Avenida,68,Avenida,70,Calle 105 entre Avenida 68 y Avenida 70,400,Buena Vista
+Calle,105,Avenida,70,Calle, CIRCUNVALACION,Calle 105 entre Avenida 70 y Calle  CIRCUNVALACION,400,Buena Vista
+Calle,107,Calle,10 NE,Calle,12 NE,Calle 107 entre Calle 10 NE y Calle 12 NE,400,Tulipan
+Calle,107,Calle,12 NE,Calle,16 NE,Calle 107 entre Calle 12 NE y Calle 16 NE,400,Tulipan
+Calle,107,Avenida,64,Avenida,66,Calle 107 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,107,Avenida,66,Avenida,68,Calle 107 entre Avenida 66 y Avenida 68,350,Buena Vista
+Calle,107,Avenida,68,Avenida,70,Calle 107 entre Avenida 68 y Avenida 70,400,Buena Vista
+Calle,109,Calle,12 NE,Calle,16 NE,Calle 109 entre Calle 12 NE y Calle 16 NE,400,Tulipan
+Calle,109,Calle,8 NE,Calle,10 NE,Calle 109 entre Calle 8 NE y Calle 10 NE,400,Tulipan
+Calle,109,Avenida,64,Avenida,66,Calle 109 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,109,Avenida,66,Avenida,68,Calle 109 entre Avenida 66 y Avenida 68,400,Buena Vista
+Calle,109,Avenida,68,Calle, CIRCUNVALACION,Calle 109 entre Avenida 68 y Calle  CIRCUNVALACION,400,Buena Vista
+Calle,111,Calle,4 NE,Calle,6 NE,Calle 111 entre Calle 4 NE y Calle 6 NE,400,Tulipan
+Calle,111,Calle,6 NE,Calle,8 NE,Calle 111 entre Calle 6 NE y Calle 8 NE,400,Tulipan
+Calle,111,Calle,8 NE,Calle,10 NE,Calle 111 entre Calle 8 NE y Calle 10 NE,400,Tulipan
+Calle,111,Calle,10 NE,Calle,119,Calle 111 entre Calle 10 NE y Calle 119,400,Tulipan
+Calle,111,Avenida,64,Avenida,66,Calle 111 entre Avenida 64 y Avenida 66,350,Buena Vista
+Calle,111,Avenida,66,Avenida,68,Calle 111 entre Avenida 66 y Avenida 68,400,Buena Vista
+Calle,111,Avenida,68,Avenida,70,Calle 111 entre Avenida 68 y Avenida 70,400,Buena Vista
+Calle,circunvalacion,Avenida,64,Calle,4 NE,Calle circunvalacion entre Avenida 64 y Calle 4 NE,400,Buena Vista
+Calle,113,Calle,4 NE,Calle,6 NE,Calle 113 entre Calle 4 NE y Calle 6 NE,400,Tulipan
+Calle,113,Calle,6 NE,Calle,8 NE,Calle 113 entre Calle 6 NE y Calle 8 NE,400,Tulipan
+Calle,113,Calle,8 NE,Calle,119,Calle 113 entre Calle 8 NE y Calle 119,400,Tulipan
+Calle,113,Avenida,64,Avenida,66,Calle 113 entre Avenida 64 y Avenida 66,400,Buena Vista
+Calle,113,Avenida,66,Avenida,68,Calle 113 entre Avenida 66 y Avenida 68,400,Buena Vista
+Calle,113,Calle,CIRCUNVALACION,Avenida,70,Calle 113 entre Calle CIRCUNVALACION y Avenida 70,400,Buena Vista
+Calle,113,Avenida,70,Avenida,72,Calle 113 entre Avenida 70 y Avenida 72,400,Buena Vista
+Calle,Circunvalacion,Avenida,64,Calle,2 NE,Calle Circunvalacion entre Avenida 64 y Calle 2 NE,400,Buena Vista
+Calle,Circunvalacion,Calle,2 NE,Calle,4 NE,Calle Circunvalacion entre Calle 2 NE y Calle 4 NE,400,Buena Vista
+Calle,Circunvalacion,Calle,4 NE,Calle,6 NE,Calle Circunvalacion entre Calle 4 NE y Calle 6 NE,400,Buena Vista
+Calle,Circunvalacion,Avenida,64,Avenida,66,Calle Circunvalacion entre Avenida 64 y Avenida 66,400,Buena Vista
+Calle,Circunvalacion,Avenida,66,Avenida,68,Calle Circunvalacion entre Avenida 66 y Avenida 68,400,Buena Vista
+Calle,Circunvalacion,Avenida,68,Avenida,70,Calle Circunvalacion entre Avenida 68 y Avenida 70,400,Buena Vista
+Calle,Circunvalacion,Calle,Rotonda,Avenida,78A,Calle Circunvalacion entre Calle Rotonda y Avenida 78A,400,Buena Vista
+Calle,Circunvalacion,Avenida,72,Avenida,78A,Calle Circunvalacion entre Avenida 72 y Avenida 78A,400,Buena Vista
+Calle,Circunvalacion,Avenida,74,Avenida,76,Calle Circunvalacion entre Avenida 74 y Avenida 76,400,Buena Vista
+Calle,Circunvalacion,Avenida,74,Calle,103,Calle Circunvalacion entre Avenida 74 y Calle 103,400,Buena Vista
+Calle,Circunvalacion,Calle,103,Calle,105,Calle Circunvalacion entre Calle 103 y Calle 105,400,Buena Vista
+Calle,Circunvalacion,Calle,105,Calle,109,Calle Circunvalacion entre Calle 105 y Calle 109,400,Buena Vista
+Calle,Circunvalacion,Calle,109,Calle,111,Calle Circunvalacion entre Calle 109 y Calle 111,400,Buena Vista
+Calle,115,Avenida,64,Avenida,66,Calle 115 entre Avenida 64 y Avenida 66,450,Buena Vista
+Calle,115,Avenida,66,Avenida,68,Calle 115 entre Avenida 66 y Avenida 68,450,Buena Vista
+Calle,115,Avenida,68,Avenida,70,Calle 115 entre Avenida 68 y Avenida 70,450,Buena Vista
+Calle,117,Avenida,64,Calle,2 NE,Calle 117 entre Avenida 64 y Calle 2 NE,450,Buena Vista
+Calle,117,Calle,2 NE,Calle,4 NE,Calle 117 entre Calle 2 NE y Calle 4 NE,450,Buena Vista
+Calle,117,Calle,4 NE,Calle,119,Calle 117 entre Calle 4 NE y Calle 119,450,Buena Vista
+Calle,117,Avenida,64,Avenida,66,Calle 117 entre Avenida 64 y Avenida 66,450,Buena Vista
+Calle,117,Avenida,66,Avenida,68,Calle 117 entre Avenida 66 y Avenida 68,450,Buena Vista
+Calle,117,Avenida,68,Avenida,70,Calle 117 entre Avenida 68 y Avenida 70,450,Buena Vista
+Calle,119,Calle,CIRCUNVALACION,Calle,10 NE,Calle 119 entre Calle CIRCUNVALACION y Calle 10 NE,400,Tulipan
+Calle,119,Calle,10 NE,Calle,111,Calle 119 entre Calle 10 NE y Calle 111,400,Tulipan
+Calle,119,Calle,111,Calle,12 NE,Calle 119 entre Calle 111 y Calle 12 NE,400,Tulipan
+Calle,119,Avenida,64,Calle,2 NE,Calle 119 entre Avenida 64 y Calle 2 NE,450,Buena Vista
+Calle,119,Calle,2 NE,Calle,4 NE,Calle 119 entre Calle 2 NE y Calle 4 NE,450,Buena Vista
+Calle,119,Calle,4 NE,Calle,CIRCUNVALACION,Calle 119 entre Calle 4 NE y Calle CIRCUNVALACION,450,Buena Vista
+Calle,121,Avenida,64,Avenida,66,Calle 121 entre Avenida 64 y Avenida 66,450,Buena Vista
+Calle,121,Avenida,66,Avenida,68,Calle 121 entre Avenida 66 y Avenida 68,450,Buena Vista
+Calle,121A,Avenida,64,Calle,2 NE,Calle 121A entre Avenida 64 y Calle 2 NE,450,Buena Vista
+Calle,121,Avenida,74,Avenida,76,Calle 121 entre Avenida 74 y Avenida 76,450,Buena Vista
+Calle,123,Avenida,64,Avenida,66,Calle 123 entre Avenida 64 y Avenida 66,500,La Esperanza
+Calle,123,Avenida,66,Avenida,68,Calle 123 entre Avenida 66 y Avenida 68,500,La Esperanza
+Calle,123,Avenida,68,Avenida,70,Calle 123 entre Avenida 68 y Avenida 70,500,La Esperanza
+Calle,125,Avenida,64,Avenida,66,Calle 125 entre Avenida 64 y Avenida 66,500,La Esperanza
+Calle,125,Avenida,66,Avenida,68,Calle 125 entre Avenida 66 y Avenida 68,500,La Esperanza
+Calle,125,Avenida,68,Avenida,70,Calle 125 entre Avenida 68 y Avenida 70,500,La Esperanza
+Calle,125,Avenida,74,Avenida,76,Calle 125 entre Avenida 74 y Avenida 76,500,La Esperanza
+Calle,125,Avenida,76,Avenida,78,Calle 125 entre Avenida 76 y Avenida 78,500,La Esperanza
+Calle,125A,Avenida,76,Calle,129,Calle 125A entre Avenida 76 y Calle 129,500,La Esperanza
+Calle,125,Avenida,70,Avenida,72,Calle 125 entre Avenida 70 y Avenida 72,500,La Esperanza
+Calle,127,Avenida,64,Avenida,66,Calle 127 entre Avenida 64 y Avenida 66,500,La Esperanza
+Calle,127,Avenida,66,Avenida,68,Calle 127 entre Avenida 66 y Avenida 68,500,La Esperanza
+Calle,127,Avenida,68,Avenida,70,Calle 127 entre Avenida 68 y Avenida 70,500,La Esperanza
+Calle,127,Avenida,74,Avenida,76,Calle 127 entre Avenida 74 y Avenida 76,500,La Esperanza
+Calle,129,Avenida,64,Avenida,66,Calle 129 entre Avenida 64 y Avenida 66,500,La Esperanza
+Calle,129,Avenida,66,Avenida,68,Calle 129 entre Avenida 66 y Avenida 68,500,La Esperanza
+Calle,129,Avenida,68,Avenida,70,Calle 129 entre Avenida 68 y Avenida 70,500,La Esperanza
+Calle,129,Avenida,70,Avenida,74,Calle 129 entre Avenida 70 y Avenida 74,500,La Esperanza
+Calle,129,Avenida,74,Avenida,76,Calle 129 entre Avenida 74 y Avenida 76,500,La Esperanza
+Calle,129,Avenida,76,Calle,125A,Calle 129 entre Avenida 76 y Calle 125A,500,La Esperanza
+Calle,129,Calle,125A,Calle,FINAL,Calle 129 entre Calle 125A y Calle FINAL,500,La Esperanza
+Calle,131,Avenida,66,Avenida,68,Calle 131 entre Avenida 66 y Avenida 68,500,La Esperanza
+Calle,131,Avenida,68,Avenida,70,Calle 131 entre Avenida 68 y Avenida 70,500,La Esperanza
+Calle,133,Avenida,64,Avenida,66,Calle 133 entre Avenida 64 y Avenida 66,500,La Esperanza
+Calle,133,Avenida,66,Avenida,68,Calle 133 entre Avenida 66 y Avenida 68,500,La Esperanza
+Calle,133,Avenida,68,Avenida,70,Calle 133 entre Avenida 68 y Avenida 70,500,La Esperanza
+Calle,finca ,Avenida,64,Calle,aeropuerto,Calle finca  entre Avenida 64 y Calle aeropuerto,550,Aeropuerto
+Calle,G,Avenida,64,Calle,2,Calle G entre Avenida 64 y Calle 2,650,Caunao
+Calle,G,Calle,2,Calle,3,Calle G entre Calle 2 y Calle 3,650,Caunao
+Calle,G,Calle,3,Calle,4,Calle G entre Calle 3 y Calle 4,650,Caunao
+Calle,G,Calle,4,Calle,5,Calle G entre Calle 4 y Calle 5,650,Caunao
+Calle,G,Calle,5,Calle,6,Calle G entre Calle 5 y Calle 6,650,Caunao
+Calle,G,Calle,6,Calle,8,Calle G entre Calle 6 y Calle 8,650,Caunao
+Calle,G,Calle,8,Calle,9,Calle G entre Calle 8 y Calle 9,650,Caunao
+Calle,F,Avenida,64,Calle,Valle,Calle F entre Avenida 64 y Calle Valle,650,Caunao
+Calle,F,Calle,Valle,Calle,2,Calle F entre Calle Valle y Calle 2,650,Caunao
+Calle,F,Calle,2,Calle,3,Calle F entre Calle 2 y Calle 3,650,Caunao
+Calle,F,Calle,3,Calle,4,Calle F entre Calle 3 y Calle 4,650,Caunao
+Calle,F,Calle,4,Calle,5,Calle F entre Calle 4 y Calle 5,650,Caunao
+Calle,F,Calle,5,Calle,6,Calle F entre Calle 5 y Calle 6,650,Caunao
+Calle,F3,Calle,8,Calle,9,Calle F3 entre Calle 8 y Calle 9,650,Caunao
+Calle,F2,Calle,8,Calle,9,Calle F2 entre Calle 8 y Calle 9,650,Caunao
+Calle,F1,Calle,7,Calle,8,Calle F1 entre Calle 7 y Calle 8,650,Caunao
+Calle,F1,Calle,8,Calle,9,Calle F1 entre Calle 8 y Calle 9,650,Caunao
+Calle,F,Calle,7,Calle,8,Calle F entre Calle 7 y Calle 8,650,Caunao
+Calle,F,Calle,8,Calle,9,Calle F entre Calle 8 y Calle 9,650,Caunao
+Calle,E,Avenida,64,Calle,1,Calle E entre Avenida 64 y Calle 1,650,Caunao
+Calle,E,Calle,1,Calle,Valle,Calle E entre Calle 1 y Calle Valle,650,Caunao
+Calle,E,Calle,Valle,Calle,2,Calle E entre Calle Valle y Calle 2,650,Caunao
+Calle,E,Calle,2,Calle,3,Calle E entre Calle 2 y Calle 3,650,Caunao
+Calle,E,Calle,3,Calle,4,Calle E entre Calle 3 y Calle 4,650,Caunao
+Calle,E,Calle,4,Calle,5,Calle E entre Calle 4 y Calle 5,650,Caunao
+Calle,E1,Calle,7,Calle,8,Calle E1 entre Calle 7 y Calle 8,650,Caunao
+Calle,E1,Calle,8,Calle,9,Calle E1 entre Calle 8 y Calle 9,650,Caunao
+Calle,E,Calle,7,Calle,8,Calle E entre Calle 7 y Calle 8,650,Caunao
+Calle,E,Calle,8,Calle,9,Calle E entre Calle 8 y Calle 9,650,Caunao
+Calle,D,Avenida,64,Calle,1,Calle D entre Avenida 64 y Calle 1,650,Caunao
+Calle,D,Calle,1,Calle,2,Calle D entre Calle 1 y Calle 2,650,Caunao
+Calle,D,Calle,2,Calle,Valle,Calle D entre Calle 2 y Calle Valle,650,Caunao
+Calle,D,Calle,Valle,Calle,3,Calle D entre Calle Valle y Calle 3,650,Caunao
+Calle,D,Calle,3,Calle,4,Calle D entre Calle 3 y Calle 4,650,Caunao
+Calle,D,Calle,4,Calle,5,Calle D entre Calle 4 y Calle 5,650,Caunao
+Calle,D1,Calle,7,Calle,8,Calle D1 entre Calle 7 y Calle 8,650,Caunao
+Calle,D1,Calle,8,Calle,9,Calle D1 entre Calle 8 y Calle 9,650,Caunao
+Calle,D1,Calle,7,Calle,9,Calle D1 entre Calle 7 y Calle 9,650,Caunao
+Calle,C,Avenida,64,Calle,1,Calle C entre Avenida 64 y Calle 1,650,Caunao
+Calle,C,Calle,1,Calle,2,Calle C entre Calle 1 y Calle 2,650,Caunao
+Calle,C,Calle,2,Calle,3,Calle C entre Calle 2 y Calle 3,650,Caunao
+Calle,C,Calle,3,Calle,4,Calle C entre Calle 3 y Calle 4,650,Caunao
+Calle,C,Calle,4,Calle,5,Calle C entre Calle 4 y Calle 5,650,Caunao
+Calle,B,Calle,64,Calle,1,Calle B entre Calle 64 y Calle 1,650,Caunao
+Calle,B,Calle,1,Calle,2,Calle B entre Calle 1 y Calle 2,650,Caunao
+Calle,B,Calle,2,Calle,3,Calle B entre Calle 2 y Calle 3,650,Caunao
+Calle,B,Calle,3,Calle,4,Calle B entre Calle 3 y Calle 4,650,Caunao
+Calle,B,Calle,4,Calle,5,Calle B entre Calle 4 y Calle 5,650,Caunao
+Calle,A,Avenida,64,Calle,1,Calle A entre Avenida 64 y Calle 1,650,Caunao
+Calle,A,Calle,1,Calle,2,Calle A entre Calle 1 y Calle 2,650,Caunao
+Calle,A,Calle,2,Calle,Linea,Calle A entre Calle 2 y Calle Linea,650,Caunao
+Calle,A,Calle,Linea,Calle,Final,Calle A entre Calle Linea y Calle Final,650,Caunao
+Calle,Central,Avenida,64,Calle,Linea,Calle Central entre Avenida 64 y Calle Linea,650,Caunao
+Calle,Central,Calle,Linea,Calle,2,Calle Central entre Calle Linea y Calle 2,650,Caunao
+Calle,Central,Calle,2,Calle,3,Calle Central entre Calle 2 y Calle 3,650,Caunao
+Calle,Oeste,Avenida,64,Calle,Real,Calle Oeste entre Avenida 64 y Calle Real,650,Caunao
+Calle,Callejon,Calle,Real,Calle,Primaria Jose Marti,Calle Callejon entre Calle Real y Calle Primaria Jose Marti,650,Caunao
+Calle,Baez,Avenida,64,Calle,1,Calle Baez entre Avenida 64 y Calle 1,650,Caunao
+Calle,Baez,Calle,1,Calle,2,Calle Baez entre Calle 1 y Calle 2,650,Caunao
+Calle,Baez,Calle,2,Calle,3,Calle Baez entre Calle 2 y Calle 3,650,Caunao
+Calle,Pozo,Avenida,64,Calle,1,Calle Pozo entre Avenida 64 y Calle 1,650,Caunao
+Calle,Pozo,Calle,1,Calle,2,Calle Pozo entre Calle 1 y Calle 2,650,Caunao
+Calle,Pozo,Calle,2,Calle,Final,Calle Pozo entre Calle 2 y Calle Final,650,Caunao
+Calle,13,Calle,9,Calle,Miramonte,Calle 13 entre Calle 9 y Calle Miramonte,650,Caunao
+Calle,Matadero,Avenida,64,Calle,Real,Calle Matadero entre Avenida 64 y Calle Real,650,Caunao
+Calle,Matadero,Calle,Real,Calle,Final,Calle Matadero entre Calle Real y Calle Final,650,Caunao
+Calle,Campo,Calle,Palma,Calle,Sur,Calle Campo entre Calle Palma y Calle Sur,650,Caunao
+Calle,Campo,Calle,Sur ,Calle,Miramonte,Calle Campo entre Calle Sur  y Calle Miramonte,650,Caunao
+Calle,Medio,Calle,Medio,Calle,Sur,Calle Medio entre Calle Medio y Calle Sur,650,Caunao
+Calle,Alegria,Calle,Union,Calle,Final,Calle Alegria entre Calle Union y Calle Final,650,Caunao
+Calle,Alegria,Calle,Union,Calle,Real,Calle Alegria entre Calle Union y Calle Real,650,Caunao
+Calle,Alegria,Calle,Real,Avenida,64,Calle Alegria entre Calle Real y Avenida 64,650,Caunao
+Calle,Alegria,Calle,64,Calle,Ciruela,Calle Alegria entre Calle 64 y Calle Ciruela,650,Caunao
+Calle,Alegria,Calle,Ciruela,Calle,San Joaquin,Calle Alegria entre Calle Ciruela y Calle San Joaquin,650,Caunao
+Calle,Alegria,Calle,San Joaquin,Calle,Palma,Calle Alegria entre Calle San Joaquin y Calle Palma,650,Caunao
+Calle,Alegria,Calle,Palma,Calle,Sur,Calle Alegria entre Calle Palma y Calle Sur,650,Caunao
+Calle,Villalobos,Calle,San Miguel,Calle,Real,Calle Villalobos entre Calle San Miguel y Calle Real,650,Caunao
+Calle,Villalobos,Calle,Real,Avenida,64,Calle Villalobos entre Calle Real y Avenida 64,650,Caunao
+Calle,Real,Calle,Carretera caunao Palmira,Calle,Sabana,Calle Real entre Calle Carretera caunao Palmira y Calle Sabana,650,Caunao
+Calle,Union,Calle,Alegria,Calle,Real,Calle Union entre Calle Alegria y Calle Real,650,Caunao
+Calle,San jose,Avenida,64,Calle,San Joaquin,Calle San jose entre Avenida 64 y Calle San Joaquin,650,Caunao
+Calle,San jose,Calle,San Joaquin,Calle,Palma,Calle San jose entre Calle San Joaquin y Calle Palma,650,Caunao
+Calle,San jose,Calle,Palma,Calle,Sur,Calle San jose entre Calle Palma y Calle Sur,650,Caunao
+Calle,San jose,Calle,Sur ,Calle,Miramonte,Calle San jose entre Calle Sur  y Calle Miramonte,650,Caunao
+Calle,Colon,Avenida,64,Calle,San Joaquin,Calle Colon entre Avenida 64 y Calle San Joaquin,650,Caunao
+Calle,Colon,Calle,San Joaquin,Calle,Palma,Calle Colon entre Calle San Joaquin y Calle Palma,650,Caunao
+Calle,Colon,Calle,Palma,Calle,Final,Calle Colon entre Calle Palma y Calle Final,650,Caunao
+Calle,Castillo,Avenida,64,Avenida,66,Calle Castillo entre Avenida 64 y Avenida 66,650,Caunao
+Calle,Castillo,Avenida,64,Calle,San Joaquin,Calle Castillo entre Avenida 64 y Calle San Joaquin,650,Caunao
+Calle,Castillo,Calle,San Joaquin,Calle,Palma,Calle Castillo entre Calle San Joaquin y Calle Palma,650,Caunao
+Calle,Este,Avenida,64,Avenida,66,Calle Este entre Avenida 64 y Avenida 66,650,Caunao
+Calle,Este,Avenida,64,Calle,San Joaquin,Calle Este entre Avenida 64 y Calle San Joaquin,650,Caunao
+Calle,Este,Calle,San Joaquin,Calle,Palma,Calle Este entre Calle San Joaquin y Calle Palma,650,Caunao
+Calle,Este,Calle,Palma,Calle,9,Calle Este entre Calle Palma y Calle 9,650,Caunao
+Calle,Este,Calle,9,Calle,Final,Calle Este entre Calle 9 y Calle Final,650,Caunao
+Calle,Este,Calle,13,Calle,Progreso 1,Calle Este entre Calle 13 y Calle Progreso 1,650,Caunao
+Calle,2da,Calle,A,Calle,B,Calle 2da entre Calle A y Calle B,450,Oburque
+Calle,2da,Calle,B,Calle,C,Calle 2da entre Calle B y Calle C,450,Oburque
+Calle,3ra,Calle,A,Calle,B,Calle 3ra entre Calle A y Calle B,450,Oburque
+Calle,3ra,Calle,B,Calle,C,Calle 3ra entre Calle B y Calle C,450,Oburque
+Calle,4ta,Calle,A,Calle,B,Calle 4ta entre Calle A y Calle B,450,Oburque
+Calle,4ta,Calle,B,Calle,C,Calle 4ta entre Calle B y Calle C,450,Oburque
+Calle,5ta,Calle,A,Calle,B,Calle 5ta entre Calle A y Calle B,450,Oburque
+Calle,5ta,Calle,B,Calle,C,Calle 5ta entre Calle B y Calle C,450,Oburque
+Calle,5ta,Calle,C,Calle,Final,Calle 5ta entre Calle C y Calle Final,450,Oburque
+Calle,6ta,Calle,A,Calle,B,Calle 6ta entre Calle A y Calle B,450,Oburque
+Calle,6ta,Calle,B,Calle,C,Calle 6ta entre Calle B y Calle C,450,Oburque
+Calle,6ta,Calle,C,Calle,Final,Calle 6ta entre Calle C y Calle Final,450,Oburque
+Calle,7ma,Calle,A,Calle,B,Calle 7ma entre Calle A y Calle B,450,Oburque
+Calle,7ma,Calle,B,Calle,C,Calle 7ma entre Calle B y Calle C,450,Oburque
+Calle,7ma,Calle,C,Calle,Carretera del puerto,Calle 7ma entre Calle C y Calle Carretera del puerto,450,Oburque
+Calle,8va,Calle,A,Calle,B,Calle 8va entre Calle A y Calle B,450,Oburque
+Calle,8va,Calle,B,Calle,C,Calle 8va entre Calle B y Calle C,450,Oburque
+Calle,9na,Calle,A,Calle,B,Calle 9na entre Calle A y Calle B,450,Oburque
+Calle,10ma,Calle,A,Calle,B,Calle 10ma entre Calle A y Calle B,450,Oburque
+Calle,Termoelectrica,Calle,Carretera de oburque,Calle,oburque,Calle Termoelectrica entre Calle Carretera de oburque y Calle oburque,450,Oburque
+Calle,Rancho Luna,Calle,Rancho Luna,Calle,Rancho Luna,Calle Rancho Luna entre Calle Rancho Luna y Calle Rancho Luna,2500,Rancho Luna
+Calle,Palmira,Calle,Palmira,Calle,Palmira,Calle Palmira entre Calle Palmira y Calle Palmira,2500,Palmira
+Calle,Paraiso,Calle,Paraiso,Calle,Paraiso,Calle Paraiso entre Calle Paraiso y Calle Paraiso,700,Paraiso
+Calle,Petrocasas,Calle,Vial,Calle,Vial,Calle Petrocasas entre Calle Vial y Calle Vial,700,Petrocasas
+Calle,Cantarrana,Calle,Cantarrana,Calle,Cantarrana,Calle Cantarrana entre Calle Cantarrana y Calle Cantarrana,700,Cantarrana
+Calle,B,Calle,2da,Calle,3ra,Calle B entre Calle 2da y Calle 3ra,400,Oburque
+Calle,B,Calle,3ra,Calle,4ta,Calle B entre Calle 3ra y Calle 4ta,400,Oburque
+Calle,B,Calle,4ta,Calle,5ta,Calle B entre Calle 4ta y Calle 5ta,400,Oburque
+Calle,B,Calle,5ta,Calle,6ta,Calle B entre Calle 5ta y Calle 6ta,400,Oburque
+Calle,B,Calle,6ta,Calle,7ma,Calle B entre Calle 6ta y Calle 7ma,400,Oburque
+Calle,B,Calle,7ma,Calle,8va,Calle B entre Calle 7ma y Calle 8va,400,Oburque
+Calle,B,Calle,8va,Calle,9na,Calle B entre Calle 8va y Calle 9na,400,Oburque
+Calle,B,Calle,9na,Calle,10ma,Calle B entre Calle 9na y Calle 10ma,400,Oburque
+Calle,C,Calle,2da,Calle,3ra,Calle C entre Calle 2da y Calle 3ra,400,Oburque
+Calle,C,Calle,3ra,Calle,4ta,Calle C entre Calle 3ra y Calle 4ta,400,Oburque
+Calle,C,Calle,4ta,Calle,5ta,Calle C entre Calle 4ta y Calle 5ta,400,Oburque
+Calle,C,Calle,5ta,Calle,6ta,Calle C entre Calle 5ta y Calle 6ta,400,Oburque
+Calle,C,Calle,6ta,Calle,7ma,Calle C entre Calle 6ta y Calle 7ma,400,Oburque
+Calle,C,Calle,7ma,Calle,8va,Calle C entre Calle 7ma y Calle 8va,400,Oburque
+Calle,Almacenes del miedo,Calle,Alm del miedo,Calle,Alm del miedo,Calle Almacenes del miedo entre Calle Alm del miedo y Calle Alm del miedo,400,alm miedo
+Avenida,0,Calle,35,Calle,37,Avenida 0 entre Calle 35 y Calle 37,300,Punta Gorda
+Avenida,2,Calle,33,Calle,35,Avenida 2 entre Calle 33 y Calle 35,300,Punta Gorda
+Avenida,2,Calle,35,Calle,37,Avenida 2 entre Calle 35 y Calle 37,300,Punta Gorda
+Avenida,4,Calle,33,Calle,35,Avenida 4 entre Calle 33 y Calle 35,300,Punta Gorda
+Avenida,4,Calle,35,Calle,37,Avenida 4 entre Calle 35 y Calle 37,300,Punta Gorda
+Avenida,6,Calle,33,Calle,35,Avenida 6 entre Calle 33 y Calle 35,300,Punta Gorda
+Avenida,6,Calle,35,Calle,37,Avenida 6 entre Calle 35 y Calle 37,300,Punta Gorda
+Avenida,6,Calle,37,Calle,39,Avenida 6 entre Calle 37 y Calle 39,300,Punta Gorda
+Avenida,8,Calle,35,Calle,37,Avenida 8 entre Calle 35 y Calle 37,300,Punta Gorda
+Avenida,8,Calle,37,Calle,39,Avenida 8 entre Calle 37 y Calle 39,300,Punta Gorda
+Avenida,8,Calle,39,Calle,41,Avenida 8 entre Calle 39 y Calle 41,300,Punta Gorda
+Avenida,10,Calle,37,Calle,39,Avenida 10 entre Calle 37 y Calle 39,300,Punta Gorda
+Avenida,10,Calle,39,Calle,41,Avenida 10 entre Calle 39 y Calle 41,300,Punta Gorda
+Avenida,10,Calle,41,Calle,43,Avenida 10 entre Calle 41 y Calle 43,300,Punta Gorda
+Avenida,12,Calle,35,Calle,37,Avenida 12 entre Calle 35 y Calle 37,300,Punta Gorda
+Avenida,12,Calle,37,Calle,39,Avenida 12 entre Calle 37 y Calle 39,300,Punta Gorda
+Avenida,12,Calle,39,Calle,41,Avenida 12 entre Calle 39 y Calle 41,300,Punta Gorda
+Avenida,12,Calle,41,Calle,43,Avenida 12 entre Calle 41 y Calle 43,300,Punta Gorda
+Avenida,14,Calle,35,Calle,37,Avenida 14 entre Calle 35 y Calle 37,250,Punta Gorda
+Avenida,14,Calle,37,Calle,39,Avenida 14 entre Calle 37 y Calle 39,250,Punta Gorda
+Avenida,14,Calle,39,Calle,41,Avenida 14 entre Calle 39 y Calle 41,250,Punta Gorda
+Avenida,14,Calle,41,Calle,43,Avenida 14 entre Calle 41 y Calle 43,250,Punta Gorda
+Avenida,14,Calle,43,Calle,45,Avenida 14 entre Calle 43 y Calle 45,250,Punta Gorda
+Avenida,16,Calle,35,Calle,37,Avenida 16 entre Calle 35 y Calle 37,250,Punta Gorda
+Avenida,16,Calle,37,Calle,39,Avenida 16 entre Calle 37 y Calle 39,250,Punta Gorda
+Avenida,16,Calle,39,Calle,41,Avenida 16 entre Calle 39 y Calle 41,250,Punta Gorda
+Avenida,16,Calle,41,Calle,43,Avenida 16 entre Calle 41 y Calle 43,250,Punta Gorda
+Avenida,16,Calle,43,Calle,45,Avenida 16 entre Calle 43 y Calle 45,250,Punta Gorda
+Avenida,16,Calle,45,Calle,51,Avenida 16 entre Calle 45 y Calle 51,250,Punta Gorda
+Avenida,16,Calle,51,Calle,53,Avenida 16 entre Calle 51 y Calle 53,250,Punta Gorda
+Avenida,16,Calle,53,Calle,55,Avenida 16 entre Calle 53 y Calle 55,250,Punta Gorda
+Avenida,16,Calle,55,Calle,61,Avenida 16 entre Calle 55 y Calle 61,250,Punta Gorda
+Avenida,16,Calle,61,Calle,63,Avenida 16 entre Calle 61 y Calle 63,250,Punta Gorda
+Avenida,16,Calle,63,Calle,65,Avenida 16 entre Calle 63 y Calle 65,250,Punta Gorda
+Avenida,16,Calle,65,Calle,67,Avenida 16 entre Calle 65 y Calle 67,250,Punta Gorda
+Avenida,16A,Calle,55,Calle,57,Avenida 16A entre Calle 55 y Calle 57,250,Punta Gorda
+Avenida,18,Calle,35,Calle,37,Avenida 18 entre Calle 35 y Calle 37,250,Punta Gorda
+Avenida,18,Calle,37,Calle,39,Avenida 18 entre Calle 37 y Calle 39,250,Punta Gorda
+Avenida,18,Calle,39,Calle,41,Avenida 18 entre Calle 39 y Calle 41,250,Punta Gorda
+Avenida,18,Calle,41,Calle,43,Avenida 18 entre Calle 41 y Calle 43,250,Punta Gorda
+Avenida,18,Calle,43,Calle,45,Avenida 18 entre Calle 43 y Calle 45,250,Punta Gorda
+Avenida,18,Calle,53,Calle,55,Avenida 18 entre Calle 53 y Calle 55,250,Punta Gorda
+Avenida,18,Calle,55,Calle,61,Avenida 18 entre Calle 55 y Calle 61,250,Punta Gorda
+Avenida,18,Calle,61,Calle,65,Avenida 18 entre Calle 61 y Calle 65,250,Punta Gorda
+Avenida,18A,Calle,55,Calle,59,Avenida 18A entre Calle 55 y Calle 59,250,Punta Gorda
+Avenida,18A,Calle,59,Calle,61,Avenida 18A entre Calle 59 y Calle 61,250,Punta Gorda
+Avenida,20,Calle,35,Calle,37,Avenida 20 entre Calle 35 y Calle 37,250,Punta Gorda
+Avenida,20,Calle,37,Calle,39,Avenida 20 entre Calle 37 y Calle 39,250,Punta Gorda
+Avenida,20,Calle,39,Calle,41,Avenida 20 entre Calle 39 y Calle 41,250,Punta Gorda
+Avenida,20,Calle,41,Calle,43,Avenida 20 entre Calle 41 y Calle 43,250,Punta Gorda
+Avenida,20,Calle,43,Calle,45,Avenida 20 entre Calle 43 y Calle 45,250,Punta Gorda
+Avenida,20,Calle,45,Calle,51A,Avenida 20 entre Calle 45 y Calle 51A,250,Punta Gorda
+Avenida,20,Calle,57,Calle,61,Avenida 20 entre Calle 57 y Calle 61,250,Punta Gorda
+Avenida,20,Calle,61,Calle,63,Avenida 20 entre Calle 61 y Calle 63,250,Punta Gorda
+Avenida,20,Calle,63,Calle,65,Avenida 20 entre Calle 63 y Calle 65,250,Punta Gorda
+Avenida,20A,Calle,57,Calle,57A,Avenida 20A entre Calle 57 y Calle 57A,250,Punta Gorda
+Avenida,20A,Calle,57A,Calle,59,Avenida 20A entre Calle 57A y Calle 59,250,Punta Gorda
+Avenida,20A,Calle,59,Calle,59A,Avenida 20A entre Calle 59 y Calle 59A,250,Punta Gorda
+Avenida,20A,Calle,59A,Calle,61,Avenida 20A entre Calle 59A y Calle 61,250,Punta Gorda
+Avenida,20A,Calle,61,Calle,63,Avenida 20A entre Calle 61 y Calle 63,250,Punta Gorda
+Avenida,22,Calle,35,Calle,37,Avenida 22 entre Calle 35 y Calle 37,250,Punta Gorda
+Avenida,22,Calle,37,Calle,39,Avenida 22 entre Calle 37 y Calle 39,250,Punta Gorda
+Avenida,22,Calle,39,Calle,41,Avenida 22 entre Calle 39 y Calle 41,250,Punta Gorda
+Avenida,22,Calle,41,Calle,43,Avenida 22 entre Calle 41 y Calle 43,250,Punta Gorda
+Avenida,22,Calle,43,Calle,45,Avenida 22 entre Calle 43 y Calle 45,250,Punta Gorda
+Avenida,22,Calle,57,Calle,57A,Avenida 22 entre Calle 57 y Calle 57A,250,Punta Gorda
+Avenida,22,Calle,57A,Calle,59,Avenida 22 entre Calle 57A y Calle 59,250,Punta Gorda
+Avenida,22,Calle,59,Calle,59A,Avenida 22 entre Calle 59 y Calle 59A,250,Punta Gorda
+Avenida,22,Calle,59A,Calle,61,Avenida 22 entre Calle 59A y Calle 61,250,Punta Gorda
+Avenida,22,Calle,61,Calle,63,Avenida 22 entre Calle 61 y Calle 63,250,Punta Gorda
+Avenida,22,Calle,63,Calle,65,Avenida 22 entre Calle 63 y Calle 65,250,Punta Gorda
+Avenida,24,Calle,41,Calle,43,Avenida 24 entre Calle 41 y Calle 43,250,Punta Gorda
+Avenida,24,Calle,43,Calle,45,Avenida 24 entre Calle 43 y Calle 45,250,Punta Gorda
+Avenida,24,Calle,45,Calle,47,Avenida 24 entre Calle 45 y Calle 47,250,Punta Gorda
+Avenida,24,Calle,47,Calle,51A,Avenida 24 entre Calle 47 y Calle 51A,250,Punta Gorda
+Avenida,24,Calle,51A,Calle,53,Avenida 24 entre Calle 51A y Calle 53,250,Punta Gorda
+Avenida,24,Calle,53,Calle,57,Avenida 24 entre Calle 53 y Calle 57,250,Punta Gorda
+Avenida,24,Calle,57,Calle,59,Avenida 24 entre Calle 57 y Calle 59,250,Punta Gorda
+Avenida,24,Calle,59,Calle,61,Avenida 24 entre Calle 59 y Calle 61,250,Punta Gorda
+Avenida,24A,Calle,53,Calle,57,Avenida 24A entre Calle 53 y Calle 57,250,Punta Gorda
+Avenida,26,Calle,37,Calle,39,Avenida 26 entre Calle 37 y Calle 39,250,Punta Gorda
+Avenida,26,Calle,39,Calle,41,Avenida 26 entre Calle 39 y Calle 41,250,Punta Gorda
+Avenida,26,Calle,41,Calle,43,Avenida 26 entre Calle 41 y Calle 43,250,Punta Gorda
+Avenida,26,Calle,43,Calle,45,Avenida 26 entre Calle 43 y Calle 45,250,Punta Gorda
+Avenida,26,Calle,45,Calle,47,Avenida 26 entre Calle 45 y Calle 47,250,Punta Gorda
+Avenida,26,Calle,47,Calle,49,Avenida 26 entre Calle 47 y Calle 49,250,Punta Gorda
+Avenida,26,Calle,49,Calle,51A,Avenida 26 entre Calle 49 y Calle 51A,250,Punta Gorda
+Avenida,26,Calle,51A,Calle,53,Avenida 26 entre Calle 51A y Calle 53,250,Punta Gorda
+Avenida,26,Calle,53,Calle,57,Avenida 26 entre Calle 53 y Calle 57,250,Punta Gorda
+Avenida,26,Calle,57,Calle,59,Avenida 26 entre Calle 57 y Calle 59,250,Punta Gorda
+Avenida,26,Calle,59,Calle,61,Avenida 26 entre Calle 59 y Calle 61,250,Punta Gorda
+Avenida,26,Calle,61,Calle,63,Avenida 26 entre Calle 61 y Calle 63,250,Punta Gorda
+Avenida,CALLE ANCHA,Calle,CALLE ANCHA,Calle,CALLE ANCHA,Avenida CALLE ANCHA entre Calle CALLE ANCHA y Calle CALLE ANCHA,250,Punta Gorda
+Avenida,28,Calle,43,Calle,45,Avenida 28 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,28,Calle,45,Calle,47,Avenida 28 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,28,Calle,47,Calle,49,Avenida 28 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,28,Calle,49,Calle,51A,Avenida 28 entre Calle 49 y Calle 51A,250,Casco Historico
+Avenida,28,Calle,51A,Calle,57,Avenida 28 entre Calle 51A y Calle 57,250,Casco Historico
+Avenida,28,Calle,57,Calle,59,Avenida 28 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,28,Calle,59,Calle,61,Avenida 28 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,28,Calle,61,Calle,63,Avenida 28 entre Calle 61 y Calle 63,250,Casco Historico
+Avenida,30,Calle,43,Calle,45,Avenida 30 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,30,Calle,45,Calle,47,Avenida 30 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,30,Calle,47,Calle,49,Avenida 30 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,30,Calle,49,Calle,51A,Avenida 30 entre Calle 49 y Calle 51A,250,Casco Historico
+Avenida,30,Calle,57,Calle,59,Avenida 30 entre Calle 57 y Calle 59,200,Reparto de los Medicos
+Avenida,30,Calle,59,Calle,61,Avenida 30 entre Calle 59 y Calle 61,200,Reparto de los Medicos
+Avenida,30,Calle,61,Calle,63,Avenida 30 entre Calle 61 y Calle 63,200,Reparto de los Medicos
+Avenida,30,Calle,79,Calle,81,Avenida 30 entre Calle 79 y Calle 81,250,Junco Sur
+Avenida,30,Calle,81,Calle,83,Avenida 30 entre Calle 81 y Calle 83,250,Junco Sur
+Avenida,30,Calle,83,Calle,87,Avenida 30 entre Calle 83 y Calle 87,250,Junco Sur
+Avenida,30,Calle,87,Calle,89,Avenida 30 entre Calle 87 y Calle 89,300,Junco Sur
+Avenida,32,Calle,37,Calle,39,Avenida 32 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,32,Calle,39,Calle,41,Avenida 32 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,32,Calle,41,Calle,43,Avenida 32 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,32,Calle,43,Calle,45,Avenida 32 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,32,Calle,45,Calle,47,Avenida 32 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,32,Calle,47,Calle,49,Avenida 32 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,32,Calle,49,Calle,51A,Avenida 32 entre Calle 49 y Calle 51A,250,Casco Historico
+Avenida,32,Calle,57,Calle,59,Avenida 32 entre Calle 57 y Calle 59,200,Reparto de los Medicos
+Avenida,32,Calle,59,Calle,61,Avenida 32 entre Calle 59 y Calle 61,200,Reparto de los Medicos
+Avenida,32,Calle,75,Calle,77,Avenida 32 entre Calle 75 y Calle 77,250,Junco Sur
+Avenida,32,Calle,77,Calle,79,Avenida 32 entre Calle 77 y Calle 79,250,Junco Sur
+Avenida,32,Calle,79,Calle,81,Avenida 32 entre Calle 79 y Calle 81,250,Junco Sur
+Avenida,32,Calle,81,Calle,83,Avenida 32 entre Calle 81 y Calle 83,250,Junco Sur
+Avenida,32,Calle,83,Calle,85,Avenida 32 entre Calle 83 y Calle 85,250,Junco Sur
+Avenida,32,Calle,85,Calle,87,Avenida 32 entre Calle 85 y Calle 87,250,Junco Sur
+Avenida,32,Calle,87,Calle,89,Avenida 32 entre Calle 87 y Calle 89,300,Junco Sur
+Avenida,32,Calle,89,Calle,91,Avenida 32 entre Calle 89 y Calle 91,300,Junco Sur
+Avenida,34,Calle,37,Calle,39,Avenida 34 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,34,Calle,39,Calle,41,Avenida 34 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,34,Calle,41,Calle,43,Avenida 34 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,34,Calle,43,Calle,45,Avenida 34 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,34,Calle,45,Calle,47,Avenida 34 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,34,Calle,57,Calle,59,Avenida 34 entre Calle 57 y Calle 59,200,Reparto de los Medicos
+Avenida,34,Calle,59,Calle,61,Avenida 34 entre Calle 59 y Calle 61,200,Reparto de los Medicos
+Avenida,34,Calle,61,Calle,63,Avenida 34 entre Calle 61 y Calle 63,200,Reparto de los Medicos
+Avenida,34,Calle,75,Calle,77,Avenida 34 entre Calle 75 y Calle 77,250,Junco Sur
+Avenida,34,Calle,77,Calle,81,Avenida 34 entre Calle 77 y Calle 81,250,Junco Sur
+Avenida,34,Calle,81,Calle,83,Avenida 34 entre Calle 81 y Calle 83,250,Junco Sur
+Avenida,34,Calle,83,Calle,85,Avenida 34 entre Calle 83 y Calle 85,250,Junco Sur
+Avenida,34,Calle,85,Calle,87,Avenida 34 entre Calle 85 y Calle 87,250,Junco Sur
+Avenida,36,Calle,7,Calle,9,Avenida 36 entre Calle 7 y Calle 9,300,Reina
+Avenida,36,Calle,37,Calle,39,Avenida 36 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,36,Calle,39,Calle,41,Avenida 36 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,36,Calle,41,Calle,43,Avenida 36 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,36,Calle,43,Calle,45,Avenida 36 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,36,Calle,45,Calle,47,Avenida 36 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,36,Calle,57,Calle,59,Avenida 36 entre Calle 57 y Calle 59,200,Reparto de los Medicos
+Avenida,36,Calle,79,Calle,79A,Avenida 36 entre Calle 79 y Calle 79A,250,Junco Sur
+Avenida,36,Calle,79A,Calle,81,Avenida 36 entre Calle 79A y Calle 81,250,Junco Sur
+Avenida,36A,Calle,79,Calle,79A,Avenida 36A entre Calle 79 y Calle 79A,250,Junco Sur
+Avenida,36A,Calle,79A,Calle,81,Avenida 36A entre Calle 79A y Calle 81,250,Junco Sur
+Avenida,38,Calle,5,Calle,7,Avenida 38 entre Calle 5 y Calle 7,300,Reina
+Avenida,38,Calle,7,Calle,9,Avenida 38 entre Calle 7 y Calle 9,300,Reina
+Avenida,38,Calle,37,Calle,39,Avenida 38 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,38,Calle,39,Calle,41,Avenida 38 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,38,Calle,41,Calle,43,Avenida 38 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,38,Calle,43,Calle,45,Avenida 38 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,38,Calle,45,Calle,47,Avenida 38 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,38,Calle,57,Calle,57A,Avenida 38 entre Calle 57 y Calle 57A,200,Reparto de los Medicos
+Avenida,38,Calle,57A,Calle,59,Avenida 38 entre Calle 57A y Calle 59,200,Reparto de los Medicos
+Avenida,38,Calle,79,Calle,79A,Avenida 38 entre Calle 79 y Calle 79A,250,Junco Sur
+Avenida,38,Calle,79A,Calle,81,Avenida 38 entre Calle 79A y Calle 81,250,Junco Sur
+Avenida,40,Calle,5,Calle,7,Avenida 40 entre Calle 5 y Calle 7,300,Reina
+Avenida,40,Calle,7,Calle,9,Avenida 40 entre Calle 7 y Calle 9,300,Reina
+Avenida,40,Calle,9,Calle,11,Avenida 40 entre Calle 9 y Calle 11,300,Reina
+Avenida,40,Calle,33,Calle,35,Avenida 40 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,40,Calle,35,Calle,37,Avenida 40 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,40,Calle,37,Calle,39,Avenida 40 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,40,Calle,39,Calle,41,Avenida 40 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,40,Calle,41,Calle,43,Avenida 40 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,40,Calle,43,Calle,45,Avenida 40 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,40,Calle,45,Calle,45A,Avenida 40 entre Calle 45 y Calle 45A,250,Casco Historico
+Avenida,40,Calle,57A,Calle,59,Avenida 40 entre Calle 57A y Calle 59,200,Reparto de los Medicos
+Avenida,40,Calle,59,Calle,61A,Avenida 40 entre Calle 59 y Calle 61A,200,Reparto Hermanas Giral
+Avenida,40,Calle,79A,Calle,81,Avenida 40 entre Calle 79A y Calle 81,250,Junco Sur
+Avenida,42,Calle,5,Calle,7,Avenida 42 entre Calle 5 y Calle 7,300,Reina
+Avenida,42,Calle,7,Calle,9,Avenida 42 entre Calle 7 y Calle 9,300,Reina
+Avenida,42,Calle,9,Calle,11,Avenida 42 entre Calle 9 y Calle 11,300,Reina
+Avenida,42,Calle,11,Calle,13,Avenida 42 entre Calle 11 y Calle 13,300,Reina
+Avenida,42,Calle,33,Calle,35,Avenida 42 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,42,Calle,35,Calle,37,Avenida 42 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,42,Calle,37,Calle,39,Avenida 42 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,42,Calle,39,Calle,41,Avenida 42 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,42,Calle,41,Calle,43,Avenida 42 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,42,Calle,43,Calle,45,Avenida 42 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,42,Calle,47,Calle,49,Avenida 42 entre Calle 47 y Calle 49,250,5 de septiembre
+Avenida,42,Calle,49,Calle,51,Avenida 42 entre Calle 49 y Calle 51,250,5 de septiembre
+Avenida,42,Calle,55,Calle,57,Avenida 42 entre Calle 55 y Calle 57,250,5 de septiembre
+Avenida,42,Calle,57,Calle,59,Avenida 42 entre Calle 57 y Calle 59,250,5 de septiembre
+Avenida,42,Calle,59,Calle,61,Avenida 42 entre Calle 59 y Calle 61,250,5 de septiembre
+Avenida,42,Calle,61,Calle,63,Avenida 42 entre Calle 61 y Calle 63,250,5 de septiembre
+Avenida,42,Calle,63,Calle,65,Avenida 42 entre Calle 63 y Calle 65,250,5 de septiembre
+Avenida,42,Calle,65,Calle,67,Avenida 42 entre Calle 65 y Calle 67,250,5 de septiembre
+Avenida,42,Calle,67,Calle,69,Avenida 42 entre Calle 67 y Calle 69,250,5 de septiembre
+Avenida,42,Calle,69,Calle,71,Avenida 42 entre Calle 69 y Calle 71,250,5 de septiembre
+Avenida,42,Calle,71,Calle,73,Avenida 42 entre Calle 71 y Calle 73,250,5 de septiembre
+Avenida,42,Calle,73,Calle,75,Avenida 42 entre Calle 73 y Calle 75,250,5 de septiembre
+Avenida,42,Calle,75,Calle,77,Avenida 42 entre Calle 75 y Calle 77,250,5 de septiembre
+Avenida,42,Calle,77,Calle,79,Avenida 42 entre Calle 77 y Calle 79,250,5 de septiembre
+Avenida,42,Calle,79,Calle,81,Avenida 42 entre Calle 79 y Calle 81,250,5 de septiembre
+Avenida,42,Calle,81,Calle,97,Avenida 42 entre Calle 81 y Calle 97,250,Junco Sur
+Avenida,42,Calle,97,Calle,CIRCUNVALACION,Avenida 42 entre Calle 97 y Calle CIRCUNVALACION,250,Junco Sur
+Avenida,JUNCO VIEJO,Calle,JUNCO VIEJO,Calle,JUNCO VIEJO,Avenida JUNCO VIEJO entre Calle JUNCO VIEJO y Calle JUNCO VIEJO,350,Junco Sur
+Avenida,44,Calle,5,Calle,7,Avenida 44 entre Calle 5 y Calle 7,300,Reina
+Avenida,44,Calle,7,Calle,9,Avenida 44 entre Calle 7 y Calle 9,300,Reina
+Avenida,44,Calle,9,Calle,11,Avenida 44 entre Calle 9 y Calle 11,300,Reina
+Avenida,44,Calle,11,Calle,13,Avenida 44 entre Calle 11 y Calle 13,300,Reina
+Avenida,44,Calle,13,Calle,15,Avenida 44 entre Calle 13 y Calle 15,300,Reina
+Avenida,44,Calle,33,Calle,35,Avenida 44 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,44,Calle,35,Calle,37,Avenida 44 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,44,Calle,37,Calle,39,Avenida 44 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,44,Calle,39,Calle,41,Avenida 44 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,44,Calle,41,Calle,43,Avenida 44 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,44,Calle,43,Calle,45,Avenida 44 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,44,Calle,45,Calle,47,Avenida 44 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,44,Calle,47,Calle,49,Avenida 44 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,44,Calle,49,Calle,51,Avenida 44 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,44,Calle,59,Calle,61,Avenida 44 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,44,Calle,61,Calle,63,Avenida 44 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,44,Calle,63,Calle,65,Avenida 44 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,44,Calle,67,Calle,69,Avenida 44 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,44,Calle,69,Calle,71,Avenida 44 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,44,Calle,71,Calle,73,Avenida 44 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,44,Calle,73,Calle,75,Avenida 44 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,46,Calle,7,Calle,7A,Avenida 46 entre Calle 7 y Calle 7A,300,Reina
+Avenida,46,Calle,7A,Calle,9,Avenida 46 entre Calle 7A y Calle 9,300,Reina
+Avenida,46,Calle,9,Calle,9A,Avenida 46 entre Calle 9 y Calle 9A,300,Reina
+Avenida,46,Calle,9A,Calle,11,Avenida 46 entre Calle 9A y Calle 11,300,Reina
+Avenida,46,Calle,11,Calle,13,Avenida 46 entre Calle 11 y Calle 13,300,Reina
+Avenida,46,Calle,13,Calle,15,Avenida 46 entre Calle 13 y Calle 15,300,Reina
+Avenida,46,Calle,15,Calle,17,Avenida 46 entre Calle 15 y Calle 17,300,Reina
+Avenida,46,Calle,17,Calle,19,Avenida 46 entre Calle 17 y Calle 19,300,Reina
+Avenida,46,Calle,19,Calle,21,Avenida 46 entre Calle 19 y Calle 21,250,Casco Historico
+Avenida,46,Calle,21,Calle,23,Avenida 46 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,46,Calle,23,Calle,25,Avenida 46 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,46,Calle,25,Calle,27,Avenida 46 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,46,Calle,27,Calle,29,Avenida 46 entre Calle 27 y Calle 29,250,Casco Historico
+Avenida,46,Calle,29,Calle,31,Avenida 46 entre Calle 29 y Calle 31,250,Casco Historico
+Avenida,46,Calle,31,Calle,33,Avenida 46 entre Calle 31 y Calle 33,250,Casco Historico
+Avenida,46,Calle,33,Calle,35,Avenida 46 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,46,Calle,35,Calle,37,Avenida 46 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,46,Calle,37,Calle,39,Avenida 46 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,46,Calle,39,Calle,41,Avenida 46 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,46,Calle,41,Calle,43,Avenida 46 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,46,Calle,43,Calle,45,Avenida 46 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,46,Calle,45,Calle,47,Avenida 46 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,46,Calle,47,Calle,49,Avenida 46 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,46,Calle,49,Calle,51,Avenida 46 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,46,Calle,57,Calle,59,Avenida 46 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,46,Calle,59,Calle,61,Avenida 46 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,46,Calle,61,Calle,63,Avenida 46 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,46,Calle,63,Calle,65,Avenida 46 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,46,Calle,65,Calle,67,Avenida 46 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,46,Calle,69,Calle,71,Avenida 46 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,46,Calle,71,Calle,73,Avenida 46 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,46,Calle,73,Calle,75,Avenida 46 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,46,Calle,75,Calle,77,Avenida 46 entre Calle 75 y Calle 77,250,La Juanita
+Avenida,48,Calle,5,Calle,7,Avenida 48 entre Calle 5 y Calle 7,300,Reina
+Avenida,48,Calle,7,Calle,7A,Avenida 48 entre Calle 7 y Calle 7A,300,Reina
+Avenida,48,Calle,7A,Calle,9A,Avenida 48 entre Calle 7A y Calle 9A,300,Reina
+Avenida,48,Calle,9A,Calle,11,Avenida 48 entre Calle 9A y Calle 11,300,Reina
+Avenida,48,Calle,11,Calle,13,Avenida 48 entre Calle 11 y Calle 13,300,Reina
+Avenida,48,Calle,13,Calle,15,Avenida 48 entre Calle 13 y Calle 15,300,Reina
+Avenida,48,Calle,15,Calle,17,Avenida 48 entre Calle 15 y Calle 17,300,Reina
+Avenida,48,Calle,17,Calle,19,Avenida 48 entre Calle 17 y Calle 19,300,Reina
+Avenida,48,Calle,19,Calle,21,Avenida 48 entre Calle 19 y Calle 21,250,Casco Historico
+Avenida,48,Calle,21,Calle,23,Avenida 48 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,48,Calle,23,Calle,25,Avenida 48 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,48,Calle,25,Calle,27,Avenida 48 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,48,Calle,27,Calle,29,Avenida 48 entre Calle 27 y Calle 29,250,Casco Historico
+Avenida,48,Calle,29,Calle,31,Avenida 48 entre Calle 29 y Calle 31,250,Casco Historico
+Avenida,48,Calle,31,Calle,33,Avenida 48 entre Calle 31 y Calle 33,250,Casco Historico
+Avenida,48,Calle,33,Calle,35,Avenida 48 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,48,Calle,35,Calle,37,Avenida 48 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,48,Calle,37,Calle,39,Avenida 48 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,48,Calle,39,Calle,41,Avenida 48 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,48,Calle,41,Calle,43,Avenida 48 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,48,Calle,43,Calle,45,Avenida 48 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,48,Calle,45,Calle,47,Avenida 48 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,48,Calle,47,Calle,49,Avenida 48 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,48,Calle,49,Calle,51,Avenida 48 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,48,Calle,51,Calle,53,Avenida 48 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,48,Calle,53,Calle,55,Avenida 48 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,48,Calle,55,Calle,57,Avenida 48 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,48,Calle,57,Calle,59,Avenida 48 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,48,Calle,59,Calle,61,Avenida 48 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,48,Calle,61,Calle,63,Avenida 48 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,48,Calle,63,Calle,65,Avenida 48 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,48,Calle,65,Calle,67,Avenida 48 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,48,Calle,67,Calle,69,Avenida 48 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,48,Calle,69,Calle,71,Avenida 48 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,48,Calle,71,Calle,73,Avenida 48 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,48,Calle,73,Calle,75,Avenida 48 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,48,Calle,77,Calle,79,Avenida 48 entre Calle 77 y Calle 79,250,La Juanita
+Avenida,48A,Calle,77,Calle,79,Avenida 48A entre Calle 77 y Calle 79,250,La Juanita
+Avenida,50,Calle,7,Calle,7A,Avenida 50 entre Calle 7 y Calle 7A,300,Reina
+Avenida,50,Calle,7A,Calle,9A,Avenida 50 entre Calle 7A y Calle 9A,300,Reina
+Avenida,50,Calle,9A,Calle,11,Avenida 50 entre Calle 9A y Calle 11,300,Reina
+Avenida,50,Calle,11,Calle,13,Avenida 50 entre Calle 11 y Calle 13,300,Reina
+Avenida,50,Calle,13,Calle,15,Avenida 50 entre Calle 13 y Calle 15,300,Reina
+Avenida,50,Calle,15,Calle,17,Avenida 50 entre Calle 15 y Calle 17,300,Reina
+Avenida,50,Calle,19,Calle,21,Avenida 50 entre Calle 19 y Calle 21,250,Casco Historico
+Avenida,50,Calle,21,Calle,23,Avenida 50 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,50,Calle,23,Calle,25,Avenida 50 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,50,Calle,25,Calle,27,Avenida 50 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,50,Calle,27,Calle,29,Avenida 50 entre Calle 27 y Calle 29,250,Casco Historico
+Avenida,50,Calle,29,Calle,31,Avenida 50 entre Calle 29 y Calle 31,250,Casco Historico
+Avenida,50,Calle,31,Calle,33,Avenida 50 entre Calle 31 y Calle 33,250,Casco Historico
+Avenida,50,Calle,33,Calle,35,Avenida 50 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,50,Calle,35,Calle,37,Avenida 50 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,50,Calle,37,Calle,39,Avenida 50 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,50,Calle,39,Calle,41,Avenida 50 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,50,Calle,41,Calle,43,Avenida 50 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,50,Calle,43,Calle,45,Avenida 50 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,50,Calle,45,Calle,47,Avenida 50 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,50,Calle,47,Calle,49,Avenida 50 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,50,Calle,49,Calle,51,Avenida 50 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,50,Calle,51,Calle,53,Avenida 50 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,50,Calle,53,Calle,55,Avenida 50 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,50,Calle,55,Calle,57,Avenida 50 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,50,Calle,57,Calle,59,Avenida 50 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,50,Calle,59,Calle,61,Avenida 50 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,50,Calle,61,Calle,63,Avenida 50 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,50,Calle,63,Calle,65,Avenida 50 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,50,Calle,65,Calle,67,Avenida 50 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,50,Calle,67,Calle,69,Avenida 50 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,50,Calle,69,Calle,71,Avenida 50 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,50,Calle,71,Calle,73,Avenida 50 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,50,Calle,73,Calle,75,Avenida 50 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,50,Calle,75,Calle,77,Avenida 50 entre Calle 75 y Calle 77,250,La Juanita
+Avenida,52,Calle,7,Calle,9,Avenida 52 entre Calle 7 y Calle 9,300,Reina
+Avenida,52,Calle,9,Calle,11,Avenida 52 entre Calle 9 y Calle 11,300,Reina
+Avenida,52,Calle,19,Calle,21,Avenida 52 entre Calle 19 y Calle 21,250,Casco Historico
+Avenida,52,Calle,21,Calle,23,Avenida 52 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,52,Calle,23,Calle,25,Avenida 52 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,52,Calle,25,Calle,27,Avenida 52 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,52,Calle,27,Calle,29,Avenida 52 entre Calle 27 y Calle 29,250,Casco Historico
+Avenida,52,Calle,29,Calle,31,Avenida 52 entre Calle 29 y Calle 31,250,Casco Historico
+Avenida,52,Calle,31,Calle,33,Avenida 52 entre Calle 31 y Calle 33,250,Casco Historico
+Avenida,52,Calle,33,Calle,35,Avenida 52 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,52,Calle,35,Calle,37,Avenida 52 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,52,Calle,37,Calle,39,Avenida 52 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,52,Calle,39,Calle,41,Avenida 52 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,52,Calle,41,Calle,43,Avenida 52 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,52,Calle,43,Calle,45,Avenida 52 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,52,Calle,45,Calle,47,Avenida 52 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,52,Calle,47,Calle,49,Avenida 52 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,52,Calle,49,Calle,51,Avenida 52 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,52,Calle,51,Calle,53,Avenida 52 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,52,Calle,53,Calle,55,Avenida 52 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,52,Calle,55,Calle,57,Avenida 52 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,52,Calle,57,Calle,59,Avenida 52 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,52,Calle,59,Calle,61,Avenida 52 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,52,Calle,61,Calle,63,Avenida 52 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,52,Calle,63,Calle,65,Avenida 52 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,52,Calle,65,Calle,67,Avenida 52 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,52,Calle,67,Calle,69,Avenida 52 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,52,Calle,69,Calle,71,Avenida 52 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,52,Calle,71,Calle,73,Avenida 52 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,52,Calle,73,Calle,75,Avenida 52 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,54,Calle,9,Calle,9A,Avenida 54 entre Calle 9 y Calle 9A,300,Reina
+Avenida,54,Calle,15,Calle,17,Avenida 54 entre Calle 15 y Calle 17,300,Reina
+Avenida,54,Calle,17,Calle,19,Avenida 54 entre Calle 17 y Calle 19,300,Reina
+Avenida,54,Calle,19,Calle,21,Avenida 54 entre Calle 19 y Calle 21,250,Casco Historico
+Avenida,54,Calle,21,Calle,23,Avenida 54 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,54,Calle,23,Calle,25,Avenida 54 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,54,Calle,25,Calle,27,Avenida 54 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,54,Calle,37,Calle,39,Avenida 54 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,54,Calle,39,Calle,41,Avenida 54 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,54,Calle,41,Calle,43,Avenida 54 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,54,Calle,43,Calle,45,Avenida 54 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,54,Calle,45,Calle,47,Avenida 54 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,54,Calle,47,Calle,49,Avenida 54 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,54,Calle,49,Calle,51,Avenida 54 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,54,Calle,51,Calle,53,Avenida 54 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,54,Calle,53,Calle,55,Avenida 54 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,54,Calle,55,Calle,57,Avenida 54 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,54,Calle,57,Calle,59,Avenida 54 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,54,Calle,59,Calle,61,Avenida 54 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,54,Calle,61,Calle,63,Avenida 54 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,54,Calle,63,Calle,65,Avenida 54 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,54,Calle,65,Calle,67,Avenida 54 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,54,Calle,67,Calle,69,Avenida 54 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,54,Calle,69,Calle,71,Avenida 54 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,54,Calle,71,Calle,73,Avenida 54 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,54,Calle,73,Calle,75,Avenida 54 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,54,Calle,75,Calle,77,Avenida 54 entre Calle 75 y Calle 77,250,La Juanita
+Avenida,56,Calle,7,Calle,9,Avenida 56 entre Calle 7 y Calle 9,300,Reina
+Avenida,56,Calle,9,Calle,11,Avenida 56 entre Calle 9 y Calle 11,300,Reina
+Avenida,56,Calle,11,Calle,13,Avenida 56 entre Calle 11 y Calle 13,300,Reina
+Avenida,56,Calle,19,Calle,21,Avenida 56 entre Calle 19 y Calle 21,250,Casco Historico
+Avenida,56,Calle,21,Calle,23,Avenida 56 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,56,Calle,23,Calle,25,Avenida 56 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,56,Calle,25,Calle,27,Avenida 56 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,56,Calle,27,Calle,29,Avenida 56 entre Calle 27 y Calle 29,250,Casco Historico
+Avenida,56,Calle,29,Calle,31,Avenida 56 entre Calle 29 y Calle 31,250,Casco Historico
+Avenida,56,Calle,31,Calle,33,Avenida 56 entre Calle 31 y Calle 33,250,Casco Historico
+Avenida,56,Calle,33,Calle,35,Avenida 56 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,56,Calle,35,Calle,37,Avenida 56 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,56,Calle,37,Calle,39,Avenida 56 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,56,Calle,39,Calle,41,Avenida 56 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,56,Calle,41,Calle,43,Avenida 56 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,56,Calle,43,Calle,45,Avenida 56 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,56,Calle,45,Calle,47,Avenida 56 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,56,Calle,47,Calle,49,Avenida 56 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,56,Calle,49,Calle,51,Avenida 56 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,56,Calle,51,Calle,53,Avenida 56 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,56,Calle,53,Calle,55,Avenida 56 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,56,Calle,55,Calle,57,Avenida 56 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,56,Calle,57,Calle,59,Avenida 56 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,56,Calle,59,Calle,61,Avenida 56 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,56,Calle,61,Calle,63,Avenida 56 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,56,Calle,63,Calle,65,Avenida 56 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,56,Calle,65,Calle,67,Avenida 56 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,56,Calle,67,Calle,69,Avenida 56 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,56,Calle,69,Calle,71,Avenida 56 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,56,Calle,71,Calle,73,Avenida 56 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,56,Calle,73,Calle,75,Avenida 56 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,56,Calle,75,Calle,77,Avenida 56 entre Calle 75 y Calle 77,250,La Juanita
+Avenida,58,Calle,7,Calle,9,Avenida 58 entre Calle 7 y Calle 9,300,Reina
+Avenida,58,Calle,9,Calle,11,Avenida 58 entre Calle 9 y Calle 11,300,Reina
+Avenida,58,Calle,17,Calle,19,Avenida 58 entre Calle 17 y Calle 19,300,Reina
+Avenida,58,Calle,19,Calle,21,Avenida 58 entre Calle 19 y Calle 21,250,Casco Historico
+Avenida,58,Calle,21,Calle,23,Avenida 58 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,58,Calle,23,Calle,25,Avenida 58 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,58,Calle,25,Calle,27,Avenida 58 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,58,Calle,27,Calle,29,Avenida 58 entre Calle 27 y Calle 29,250,Casco Historico
+Avenida,58,Calle,29,Calle,31,Avenida 58 entre Calle 29 y Calle 31,250,Casco Historico
+Avenida,58,Calle,31,Calle,33,Avenida 58 entre Calle 31 y Calle 33,250,Casco Historico
+Avenida,58,Calle,33,Calle,35,Avenida 58 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,58,Calle,35,Calle,37,Avenida 58 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,58,Calle,37,Calle,39,Avenida 58 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,58,Calle,39,Calle,41,Avenida 58 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,58,Calle,41,Calle,43,Avenida 58 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,58,Calle,43,Calle,45,Avenida 58 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,58,Calle,45,Calle,47,Avenida 58 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,58,Calle,47,Calle,49,Avenida 58 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,58,Calle,49,Calle,51,Avenida 58 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,58,Calle,51,Calle,53,Avenida 58 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,58,Calle,53,Calle,55,Avenida 58 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,58,Calle,55,Calle,57,Avenida 58 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,58,Calle,57,Calle,59,Avenida 58 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,58,Calle,59,Calle,61,Avenida 58 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,58,Calle,61,Calle,63,Avenida 58 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,58,Calle,63,Calle,65,Avenida 58 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,58,Calle,65,Calle,67,Avenida 58 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,58,Calle,67,Calle,69,Avenida 58 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,58,Calle,69,Calle,71,Avenida 58 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,58,Calle,71,Calle,73,Avenida 58 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,58,Calle,73,Calle,75,Avenida 58 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,58,Calle,75,Calle,77,Avenida 58 entre Calle 75 y Calle 77,350,Tulipan
+Avenida,58,Calle,77,Calle,79,Avenida 58 entre Calle 77 y Calle 79,350,Tulipan
+Avenida,58,Calle,79,Calle,81,Avenida 58 entre Calle 79 y Calle 81,350,Tulipan
+Avenida,58,Calle,81,Calle,83,Avenida 58 entre Calle 81 y Calle 83,350,Tulipan
+Avenida,58,Calle,83,Calle,85,Avenida 58 entre Calle 83 y Calle 85,350,Tulipan
+Avenida,58,Calle,85,Calle,87,Avenida 58 entre Calle 85 y Calle 87,350,Tulipan
+Avenida,58,Calle,87,Calle,89,Avenida 58 entre Calle 87 y Calle 89,350,Tulipan
+Avenida,58,Calle,89,Calle,91,Avenida 58 entre Calle 89 y Calle 91,350,Tulipan
+Avenida,58,Calle,91,Calle,93,Avenida 58 entre Calle 91 y Calle 93,350,Tulipan
+Avenida,58,Calle,93,Calle,CIRCUNVALACION,Avenida 58 entre Calle 93 y Calle CIRCUNVALACION,400,Tulipan
+Avenida,LINEA,Calle,21,Calle,23,Avenida LINEA entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,60,Calle,21,Calle,23,Avenida 60 entre Calle 21 y Calle 23,250,Casco Historico
+Avenida,60,Calle,23,Calle,25,Avenida 60 entre Calle 23 y Calle 25,250,Casco Historico
+Avenida,60,Calle,25,Calle,27,Avenida 60 entre Calle 25 y Calle 27,250,Casco Historico
+Avenida,60,Calle,27,Calle,29,Avenida 60 entre Calle 27 y Calle 29,250,Casco Historico
+Avenida,60,Calle,29,Calle,31,Avenida 60 entre Calle 29 y Calle 31,250,Casco Historico
+Avenida,60,Calle,31,Calle,33,Avenida 60 entre Calle 31 y Calle 33,250,Casco Historico
+Avenida,60,Calle,33,Calle,35,Avenida 60 entre Calle 33 y Calle 35,250,Casco Historico
+Avenida,60,Calle,35,Calle,37,Avenida 60 entre Calle 35 y Calle 37,250,Casco Historico
+Avenida,60,Calle,37,Calle,39,Avenida 60 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,60,Calle,39,Calle,41,Avenida 60 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,60,Calle,41,Calle,43,Avenida 60 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,60,Calle,43,Calle,45,Avenida 60 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,60,Calle,45,Calle,47,Avenida 60 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,60,Calle,47,Calle,49,Avenida 60 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,60,Calle,49,Calle,51,Avenida 60 entre Calle 49 y Calle 51,250,Casco Historico
+Avenida,60,Calle,51,Calle,53,Avenida 60 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,60,Calle,53,Calle,55,Avenida 60 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,60,Calle,55,Calle,57,Avenida 60 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,60,Calle,57,Calle,59,Avenida 60 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,60,Calle,59,Calle,61,Avenida 60 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,60,Calle,61,Calle,63,Avenida 60 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,60,Calle,63,Calle,65,Avenida 60 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,60,Calle,65,Calle,67,Avenida 60 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,60,Calle,67,Calle,69,Avenida 60 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,60,Calle,69,Calle,71,Avenida 60 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,60,Calle,71,Calle,73,Avenida 60 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,60,Calle,73,Calle,75,Avenida 60 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,60,Calle,75,Calle,77,Avenida 60 entre Calle 75 y Calle 77,350,Tulipan
+Avenida,60,Calle,77,Calle,79,Avenida 60 entre Calle 77 y Calle 79,350,Tulipan
+Avenida,60,Calle,79,Calle,81,Avenida 60 entre Calle 79 y Calle 81,350,Tulipan
+Avenida,60,Calle,81,Calle,83,Avenida 60 entre Calle 81 y Calle 83,350,Tulipan
+Avenida,60,Calle,83,Calle,85,Avenida 60 entre Calle 83 y Calle 85,350,Tulipan
+Avenida,60,Calle,85,Calle,87,Avenida 60 entre Calle 85 y Calle 87,350,Tulipan
+Avenida,60,Calle,87,Calle,89,Avenida 60 entre Calle 87 y Calle 89,350,Tulipan
+Avenida,60,Calle,89,Calle,91,Avenida 60 entre Calle 89 y Calle 91,350,Tulipan
+Avenida,60,Calle,91,Calle,93,Avenida 60 entre Calle 91 y Calle 93,350,Tulipan
+Avenida,60,Calle,93,Calle,95,Avenida 60 entre Calle 93 y Calle 95,350,Tulipan
+Avenida,62,Calle,23,Calle,25,Avenida 62 entre Calle 23 y Calle 25,250,Reina
+Avenida,62,Calle,25,Calle,27,Avenida 62 entre Calle 25 y Calle 27,250,Reina
+Avenida,62,Calle,27,Calle,29,Avenida 62 entre Calle 27 y Calle 29,250,Reina
+Avenida,62,Calle,29,Calle,31,Avenida 62 entre Calle 29 y Calle 31,250,Reina
+Avenida,62,Calle,31,Calle,33,Avenida 62 entre Calle 31 y Calle 33,250,Reina
+Avenida,62,Calle,33,Calle,35,Avenida 62 entre Calle 33 y Calle 35,250,Reina
+Avenida,62,Calle,35,Calle,37,Avenida 62 entre Calle 35 y Calle 37,250,Reina
+Avenida,62,Calle,37,Calle,39,Avenida 62 entre Calle 37 y Calle 39,250,Casco Historico
+Avenida,62,Calle,39,Calle,41,Avenida 62 entre Calle 39 y Calle 41,250,Casco Historico
+Avenida,62,Calle,41,Calle,43,Avenida 62 entre Calle 41 y Calle 43,250,Casco Historico
+Avenida,62,Calle,43,Calle,45,Avenida 62 entre Calle 43 y Calle 45,250,Casco Historico
+Avenida,62,Calle,45,Calle,47,Avenida 62 entre Calle 45 y Calle 47,250,Casco Historico
+Avenida,62,Calle,47,Calle,49,Avenida 62 entre Calle 47 y Calle 49,250,Casco Historico
+Avenida,62,Calle,51,Calle,53,Avenida 62 entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,62,Calle,53,Calle,55,Avenida 62 entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,62,Calle,55,Calle,57,Avenida 62 entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,62,Calle,57,Calle,59,Avenida 62 entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,62,Calle,59,Calle,61,Avenida 62 entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,62,Calle,61,Calle,63,Avenida 62 entre Calle 61 y Calle 63,250,La Juanita
+Avenida,62,Calle,63,Calle,65,Avenida 62 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,62,Calle,65,Calle,67,Avenida 62 entre Calle 65 y Calle 67,250,La Juanita
+Avenida,62,Calle,67,Calle,69,Avenida 62 entre Calle 67 y Calle 69,250,La Juanita
+Avenida,62,Calle,69,Calle,71,Avenida 62 entre Calle 69 y Calle 71,250,La Juanita
+Avenida,62,Calle,71,Calle,73,Avenida 62 entre Calle 71 y Calle 73,250,La Juanita
+Avenida,62,Calle,73,Calle,75,Avenida 62 entre Calle 73 y Calle 75,250,La Juanita
+Avenida,62,Calle,75,Calle,77,Avenida 62 entre Calle 75 y Calle 77,350,Tulipan
+Avenida,62,Calle,77,Calle,79,Avenida 62 entre Calle 77 y Calle 79,350,Tulipan
+Avenida,62,Calle,79,Calle,81,Avenida 62 entre Calle 79 y Calle 81,350,Tulipan
+Avenida,62,Calle,81,Calle,83,Avenida 62 entre Calle 81 y Calle 83,350,Tulipan
+Avenida,62,Calle,83,Calle,85,Avenida 62 entre Calle 83 y Calle 85,350,Tulipan
+Avenida,62,Calle,85,Calle,87,Avenida 62 entre Calle 85 y Calle 87,350,Tulipan
+Avenida,62,Calle,87,Calle,89,Avenida 62 entre Calle 87 y Calle 89,350,Tulipan
+Avenida,62,Calle,89,Calle,91,Avenida 62 entre Calle 89 y Calle 91,350,Tulipan
+Avenida,62,Calle,91,Calle,93,Avenida 62 entre Calle 91 y Calle 93,350,Tulipan
+Avenida,62,Calle,93,Calle,95,Avenida 62 entre Calle 93 y Calle 95,350,Tulipan
+Avenida,64,Calle,29,Calle,31,Avenida 64 entre Calle 29 y Calle 31,300,Punta Gotica
+Avenida,64,Calle,31,Calle,33,Avenida 64 entre Calle 31 y Calle 33,300,Punta Gotica
+Avenida,64,Calle,33,Calle,35,Avenida 64 entre Calle 33 y Calle 35,300,Punta Gotica
+Avenida,64,Calle,35,Calle,37,Avenida 64 entre Calle 35 y Calle 37,300,Punta Gotica
+Avenida,64,Calle,37,Calle,39,Avenida 64 entre Calle 37 y Calle 39,300,San Lazaro
+Avenida,64,Calle,39,Calle,41,Avenida 64 entre Calle 39 y Calle 41,300,San Lazaro
+Avenida,64,Calle,41,Calle,45,Avenida 64 entre Calle 41 y Calle 45,300,San Lazaro
+Avenida,64,Calle,45,Calle,47,Avenida 64 entre Calle 45 y Calle 47,250,San Lazaro
+Avenida,64,Calle,47,Calle,49,Avenida 64 entre Calle 47 y Calle 49,250,San Lazaro
+Avenida,64,Calle,51,Calle,53,Avenida 64 entre Calle 51 y Calle 53,250,San Lazaro
+Avenida,64,Calle,53,Calle,55,Avenida 64 entre Calle 53 y Calle 55,250,San Lazaro
+Avenida,64,Calle,55,Calle,57,Avenida 64 entre Calle 55 y Calle 57,250,San Lazaro
+Avenida,64,Calle,57,Calle,59,Avenida 64 entre Calle 57 y Calle 59,250,San Lazaro
+Avenida,64,Calle,59,Calle,61,Avenida 64 entre Calle 59 y Calle 61,250,San Lazaro
+Avenida,64,Calle,61,Calle,63,Avenida 64 entre Calle 61 y Calle 63,250,San Lazaro
+Avenida,64,Calle,63,Calle,65,Avenida 64 entre Calle 63 y Calle 65,250,La Juanita
+Avenida,64,Calle,65,Calle,75,Avenida 64 entre Calle 65 y Calle 75,300,La Juanita
+Avenida,64,Calle,75,Calle,77,Avenida 64 entre Calle 75 y Calle 77,350,Tulipan
+Avenida,64,Calle,77,Calle,79,Avenida 64 entre Calle 77 y Calle 79,350,Tulipan
+Avenida,64,Calle,79,Calle,81,Avenida 64 entre Calle 79 y Calle 81,350,Tulipan
+Avenida,64,Calle,83,Calle,85,Avenida 64 entre Calle 83 y Calle 85,350,Tulipan
+Avenida,64,Calle,85,Calle,87,Avenida 64 entre Calle 85 y Calle 87,350,Tulipan
+Avenida,64,Calle,87,Calle,89,Avenida 64 entre Calle 87 y Calle 89,350,Buena Vista
+Avenida,64,Calle,89,Calle,91,Avenida 64 entre Calle 89 y Calle 91,350,Buena Vista
+Avenida,64,Calle,97,Calle,97A,Avenida 64 entre Calle 97 y Calle 97A,350,Buena Vista
+Avenida,64,Calle,97A,Calle,99,Avenida 64 entre Calle 97A y Calle 99,350,Buena Vista
+Avenida,64,Calle,99,Calle,101,Avenida 64 entre Calle 99 y Calle 101,350,Buena Vista
+Avenida,64,Calle,101,Calle,103,Avenida 64 entre Calle 101 y Calle 103,350,Buena Vista
+Avenida,64,Calle,103,Calle,105,Avenida 64 entre Calle 103 y Calle 105,350,Buena Vista
+Avenida,64,Calle,105,Calle,107,Avenida 64 entre Calle 105 y Calle 107,400,Buena Vista
+Avenida,64,Calle,107,Calle,109,Avenida 64 entre Calle 107 y Calle 109,400,Buena Vista
+Avenida,64,Calle,109,Calle,111,Avenida 64 entre Calle 109 y Calle 111,400,Buena Vista
+Avenida,64,Calle,111,Calle,113,Avenida 64 entre Calle 111 y Calle 113,400,Buena Vista
+Avenida,64,Calle,113,Calle,CIRCUNVALACION,Avenida 64 entre Calle 113 y Calle CIRCUNVALACION,400,Buena Vista
+Avenida,64,Calle,115,Calle,117,Avenida 64 entre Calle 115 y Calle 117,450,Buena Vista
+Avenida,64,Calle,117,Calle,119,Avenida 64 entre Calle 117 y Calle 119,450,Buena Vista
+Avenida,64,Calle,119,Calle,121,Avenida 64 entre Calle 119 y Calle 121,450,Buena Vista
+Avenida,64,Calle,121,Calle,121A,Avenida 64 entre Calle 121 y Calle 121A,450,Buena Vista
+Avenida,64,Calle,121A,Calle,123,Avenida 64 entre Calle 121A y Calle 123,450,Buena Vista
+Avenida,64,Calle,123,Calle,125,Avenida 64 entre Calle 123 y Calle 125,500,La esperanza
+Avenida,64,Calle,125,Calle,127,Avenida 64 entre Calle 125 y Calle 127,500,La esperanza
+Avenida,64,Calle,127,Calle,129,Avenida 64 entre Calle 127 y Calle 129,500,La esperanza
+Avenida,64,Calle,129,Calle,133,Avenida 64 entre Calle 129 y Calle 133,500,La esperanza
+Avenida,64,Calle,133,Calle,135,Avenida 64 entre Calle 133 y Calle 135,500,La esperanza
+Avenida,64,Calle,A,Calle,B,Avenida 64 entre Calle A y Calle B,650,Caunao
+Avenida,64,Calle,B,Calle,C,Avenida 64 entre Calle B y Calle C,650,Caunao
+Avenida,64,Calle,C,Calle,D,Avenida 64 entre Calle C y Calle D,650,Caunao
+Avenida,64,Calle,D,Calle,E,Avenida 64 entre Calle D y Calle E,650,Caunao
+Avenida,64,Calle,E,Calle,F,Avenida 64 entre Calle E y Calle F,650,Caunao
+Avenida,64,Calle,F,Calle,G,Avenida 64 entre Calle F y Calle G,650,Caunao
+Avenida,64,Calle,A,Calle,CENTRAL,Avenida 64 entre Calle A y Calle CENTRAL,650,Caunao
+Avenida,64,Calle,BAEZ,Calle,CENTRAL,Avenida 64 entre Calle BAEZ y Calle CENTRAL,650,Caunao
+Avenida,64,Calle,POZO,Calle,BAEZ,Avenida 64 entre Calle POZO y Calle BAEZ,650,Caunao
+Avenida,64,Calle,ALEGRIA,Calle,POZO,Avenida 64 entre Calle ALEGRIA y Calle POZO,650,Caunao
+Avenida,64,Calle,SAN JOSE ,Calle,ALEGRIA,Avenida 64 entre Calle SAN JOSE  y Calle ALEGRIA,650,Caunao
+Avenida,64,Calle,COLON,Calle,SAN JOSE,Avenida 64 entre Calle COLON y Calle SAN JOSE,650,Caunao
+Avenida,64,Calle,CASTILLO ,Calle,COLON,Avenida 64 entre Calle CASTILLO  y Calle COLON,650,Caunao
+Avenida,64,Calle,ESTE ,Calle,CASTILLO,Avenida 64 entre Calle ESTE  y Calle CASTILLO,650,Caunao
+Avenida,64,Calle,SAN JOAQUIN PALMA,Calle,ESTE,Avenida 64 entre Calle SAN JOAQUIN PALMA y Calle ESTE,700,Caunao
+Avenida,CARRETERA CAUNAO,Calle,SAN JOAQUIN PALMA,Calle,PALMA,Avenida CARRETERA CAUNAO entre Calle SAN JOAQUIN PALMA y Calle PALMA,700,Caunao
+Avenida,CARRETERA CAUNAO,Calle,PALMA,Calle,CIRCUITO SUR,Avenida CARRETERA CAUNAO entre Calle PALMA y Calle CIRCUITO SUR,700,Caunao
+Avenida,64A,Calle,51,Calle,53,Avenida 64A entre Calle 51 y Calle 53,250,Casco Historico
+Avenida,64A,Calle,53,Calle,55,Avenida 64A entre Calle 53 y Calle 55,250,Casco Historico
+Avenida,64A,Calle,55,Calle,57,Avenida 64A entre Calle 55 y Calle 57,250,Casco Historico
+Avenida,64A,Calle,57,Calle,59,Avenida 64A entre Calle 57 y Calle 59,250,Casco Historico
+Avenida,64A,Calle,59,Calle,61,Avenida 64A entre Calle 59 y Calle 61,250,Casco Historico
+Avenida,64A,Calle,61,Calle,63,Avenida 64A entre Calle 61 y Calle 63,250,La Juanita
+Avenida,64A,Calle,65,Calle,67,Avenida 64A entre Calle 65 y Calle 67,250,La Juanita
+Avenida,64A,Calle,67,Calle,69,Avenida 64A entre Calle 67 y Calle 69,250,La Juanita
+Avenida,64A,Calle,69,Calle,71,Avenida 64A entre Calle 69 y Calle 71,250,La Juanita
+Avenida,64A,Calle,71,Calle,73,Avenida 64A entre Calle 71 y Calle 73,250,La Juanita
+Avenida,64A,Calle,73,Calle,75,Avenida 64A entre Calle 73 y Calle 75,250,La Juanita
+Avenida,64A,Calle,75,Calle,77,Avenida 64A entre Calle 75 y Calle 77,350,Tulipan
+Avenida,64A,Calle,77,Calle,79,Avenida 64A entre Calle 77 y Calle 79,350,Tulipan
+Avenida,64A,Calle,79,Calle,81,Avenida 64A entre Calle 79 y Calle 81,350,Tulipan
+Avenida,64A,Calle,81,Calle,83,Avenida 64A entre Calle 81 y Calle 83,350,Tulipan
+Avenida,64A,Calle,83,Calle,85,Avenida 64A entre Calle 83 y Calle 85,350,Tulipan
+Avenida,64A,Calle,85,Calle,87,Avenida 64A entre Calle 85 y Calle 87,350,Tulipan
+Avenida,64A,Calle,87,Calle,89,Avenida 64A entre Calle 87 y Calle 89,350,Tulipan
+Avenida,64A,Calle,89,Calle,91,Avenida 64A entre Calle 89 y Calle 91,350,Tulipan
+Avenida,64A,Calle,91,Calle,93,Avenida 64A entre Calle 91 y Calle 93,350,Tulipan
+Calle,2 NE,Calle,45,Calle,47,Calle 2 NE entre Calle 45 y Calle 47,250,Casco Historico
+Calle,2 NE,Calle,47,Calle,49,Calle 2 NE entre Calle 47 y Calle 49,250,Casco Historico
+Calle,2 NE,Calle,49,Calle,51,Calle 2 NE entre Calle 49 y Calle 51,250,Casco Historico
+Calle,2 NE,Calle,51,Calle,53,Calle 2 NE entre Calle 51 y Calle 53,250,Casco Historico
+Calle,2 NE,Calle,53,Calle,55,Calle 2 NE entre Calle 53 y Calle 55,250,Casco Historico
+Calle,2 NE,Calle,55,Calle,57,Calle 2 NE entre Calle 55 y Calle 57,250,Casco Historico
+Calle,2 NE,Calle,57,Calle,59,Calle 2 NE entre Calle 57 y Calle 59,250,Casco Historico
+Calle,2 NE,Calle,59,Calle,61,Calle 2 NE entre Calle 59 y Calle 61,250,Casco Historico
+Calle,2 NE,Calle,61,Calle,63,Calle 2 NE entre Calle 61 y Calle 63,250,La Juanita
+Calle,2 NE,Calle,83,Calle,85,Calle 2 NE entre Calle 83 y Calle 85,400,Tulipan
+Calle,2 NE,Calle,85,Calle,87,Calle 2 NE entre Calle 85 y Calle 87,400,Tulipan
+Calle,4 NE,Calle,47,Calle,49,Calle 4 NE entre Calle 47 y Calle 49,250,Casco Historico
+Calle,4 NE,Calle,49,Calle,51,Calle 4 NE entre Calle 49 y Calle 51,250,Casco Historico
+Calle,4 NE,Calle,51,Calle,53,Calle 4 NE entre Calle 51 y Calle 53,250,Casco Historico
+Calle,4 NE,Calle,53,Calle,55,Calle 4 NE entre Calle 53 y Calle 55,250,Casco Historico
+Calle,4 NE,Calle,55,Calle,57,Calle 4 NE entre Calle 55 y Calle 57,250,Casco Historico
+Calle,4 NE,Calle,57,Calle,59,Calle 4 NE entre Calle 57 y Calle 59,250,Casco Historico
+Calle,4 NE,Calle,59,Calle,61,Calle 4 NE entre Calle 59 y Calle 61,250,Casco Historico
+Calle,4 NE,Calle,61,Calle,63,Calle 4 NE entre Calle 61 y Calle 63,250,La Juanita
+Calle,4 NE,Calle,65,Calle,67,Calle 4 NE entre Calle 65 y Calle 67,250,La Juanita
+Calle,4 NE,Calle,73,Calle,75,Calle 4 NE entre Calle 73 y Calle 75,250,La Juanita
+Calle,4 NE,Calle,75,Calle,77,Calle 4 NE entre Calle 75 y Calle 77,350,Tulipan
+Calle,4 NE,Calle,77,Calle,79,Calle 4 NE entre Calle 77 y Calle 79,350,Tulipan
+Calle,4 NE,Calle,79,Calle,81,Calle 4 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,4 NE,Calle,81,Calle,83,Calle 4 NE entre Calle 81 y Calle 83,350,Tulipan
+Calle,4 NE,Calle,83,Calle,85,Calle 4 NE entre Calle 83 y Calle 85,350,Tulipan
+Calle,4 NE,Calle,85,Calle,87,Calle 4 NE entre Calle 85 y Calle 87,400,Tulipan
+Calle,4 NE,Calle,87,Calle,89,Calle 4 NE entre Calle 87 y Calle 89,400,Tulipan
+Calle,4 NE,Calle,111,Calle,CIRCUNVALACION,Calle 4 NE entre Calle 111 y Calle CIRCUNVALACION,400,Tulipan
+Calle,6 NE,Calle,53,Calle,55,Calle 6 NE entre Calle 53 y Calle 55,250,Casco Historico
+Calle,6 NE,Calle,55,Calle,57,Calle 6 NE entre Calle 55 y Calle 57,250,Casco Historico
+Calle,6 NE,Calle,57,Calle,59,Calle 6 NE entre Calle 57 y Calle 59,250,Casco Historico
+Calle,6 NE,Calle,59,Calle,61,Calle 6 NE entre Calle 59 y Calle 61,250,Casco Historico
+Calle,6 NE,Calle,61,Calle,63,Calle 6 NE entre Calle 61 y Calle 63,250,La Juanita
+Calle,6 NE,Calle,63,Calle,65,Calle 6 NE entre Calle 63 y Calle 65,250,La Juanita
+Calle,6 NE,Calle,65,Calle,67,Calle 6 NE entre Calle 65 y Calle 67,250,La Juanita
+Calle,6 NE,Calle,73,Calle,75,Calle 6 NE entre Calle 73 y Calle 75,250,La Juanita
+Calle,6 NE,Calle,75,Calle,77,Calle 6 NE entre Calle 75 y Calle 77,350,Tulipan
+Calle,6 NE,Calle,77,Calle,79,Calle 6 NE entre Calle 77 y Calle 79,350,Tulipan
+Calle,6 NE,Calle,79,Calle,81,Calle 6 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,6 NE,Calle,81,Calle,85,Calle 6 NE entre Calle 81 y Calle 85,350,Tulipan
+Calle,6 NE,Calle,85,Calle,87,Calle 6 NE entre Calle 85 y Calle 87,400,Tulipan
+Calle,6 NE,Calle,87,Calle,89,Calle 6 NE entre Calle 87 y Calle 89,400,Tulipan
+Calle,6 NE,Calle,99,Calle,101,Calle 6 NE entre Calle 99 y Calle 101,400,Tulipan
+Calle,6 NE,Calle,101,Calle,103,Calle 6 NE entre Calle 101 y Calle 103,400,Tulipan
+Calle,6 NE,Calle,111,Calle,CIRCUNVALACION,Calle 6 NE entre Calle 111 y Calle CIRCUNVALACION,400,Tulipan
+Calle,8 NE,Calle,57,Calle,59,Calle 8 NE entre Calle 57 y Calle 59,250,La Juanita
+Calle,8 NE,Calle,59,Calle,61,Calle 8 NE entre Calle 59 y Calle 61,250,La Juanita
+Calle,8 NE,Calle,61,Calle,63,Calle 8 NE entre Calle 61 y Calle 63,250,La Juanita
+Calle,8 NE,Calle,63,Calle,65,Calle 8 NE entre Calle 63 y Calle 65,250,La Juanita
+Calle,8 NE,Calle,65,Calle,67,Calle 8 NE entre Calle 65 y Calle 67,250,La Juanita
+Calle,8 NE,Calle,73,Calle,75,Calle 8 NE entre Calle 73 y Calle 75,250,La Juanita
+Calle,8 NE,Calle,75,Calle,77,Calle 8 NE entre Calle 75 y Calle 77,350,Tulipan
+Calle,8 NE,Calle,77,Calle,79,Calle 8 NE entre Calle 77 y Calle 79,350,Tulipan
+Calle,8 NE,Calle,79,Calle,81,Calle 8 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,8 NE,Calle,81,Calle,85,Calle 8 NE entre Calle 81 y Calle 85,350,Tulipan
+Calle,8 NE,Calle,85,Calle,87,Calle 8 NE entre Calle 85 y Calle 87,400,Tulipan
+Calle,8 NE,Calle,87,Calle,89,Calle 8 NE entre Calle 87 y Calle 89,400,Tulipan
+Calle,8 NE,Calle,111,Calle,CIRCUNVALACION,Calle 8 NE entre Calle 111 y Calle CIRCUNVALACION,400,Tulipan
+Calle,10 NE,Calle,71,Calle,73,Calle 10 NE entre Calle 71 y Calle 73,250,La Juanita
+Calle,10 NE,Calle,73,Calle,75,Calle 10 NE entre Calle 73 y Calle 75,250,La Juanita
+Calle,10 NE,Calle,75,Calle,77,Calle 10 NE entre Calle 75 y Calle 77,350,Tulipan
+Calle,10 NE,Calle,77,Calle,79,Calle 10 NE entre Calle 77 y Calle 79,350,Tulipan
+Calle,10 NE,Calle,79,Calle,81,Calle 10 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,10 NE,Calle,85,Calle,87,Calle 10 NE entre Calle 85 y Calle 87,400,Tulipan
+Calle,10 NE,Calle,87,Calle,89,Calle 10 NE entre Calle 87 y Calle 89,400,Tulipan
+Calle,10 NE,Calle,89,Calle,93,Calle 10 NE entre Calle 89 y Calle 93,400,Tulipan
+Calle,10 NE,Calle,99,Calle,101,Calle 10 NE entre Calle 99 y Calle 101,400,Tulipan
+Calle,10 NE,Calle,101,Calle,103,Calle 10 NE entre Calle 101 y Calle 103,400,Tulipan
+Calle,10 NE,Calle,103,Calle,105,Calle 10 NE entre Calle 103 y Calle 105,400,Tulipan
+Calle,10 NE,Calle,107,Calle,109,Calle 10 NE entre Calle 107 y Calle 109,400,Tulipan
+Calle,10 NE,Calle,109,Calle,111,Calle 10 NE entre Calle 109 y Calle 111,400,Tulipan
+Calle,12 NE,Calle,67,Calle,71,Calle 12 NE entre Calle 67 y Calle 71,250,La Juanita
+Calle,12 NE,Calle,71,Calle,73,Calle 12 NE entre Calle 71 y Calle 73,250,La Juanita
+Calle,12 NE,Calle,73,Calle,75,Calle 12 NE entre Calle 73 y Calle 75,250,La Juanita
+Calle,12 NE,Calle,75,Calle,77,Calle 12 NE entre Calle 75 y Calle 77,350,Tulipan
+Calle,12 NE,Calle,77,Calle,79,Calle 12 NE entre Calle 77 y Calle 79,350,Tulipan
+Calle,12 NE,Calle,79,Calle,81,Calle 12 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,12 NE,Calle,81,Calle,85,Calle 12 NE entre Calle 81 y Calle 85,350,Tulipan
+Calle,12 NE,Calle,85,Calle,87,Calle 12 NE entre Calle 85 y Calle 87,400,Tulipan
+Calle,12 NE,Calle,87,Calle,89,Calle 12 NE entre Calle 87 y Calle 89,400,Tulipan
+Calle,12 NE,Calle,89,Calle,93,Calle 12 NE entre Calle 89 y Calle 93,400,Tulipan
+Calle,12 NE,Calle,93,Calle,97,Calle 12 NE entre Calle 93 y Calle 97,400,Tulipan
+Calle,12 NE,Calle,97,Calle,99,Calle 12 NE entre Calle 97 y Calle 99,400,Tulipan
+Calle,12 NE,Calle,99,Calle,101,Calle 12 NE entre Calle 99 y Calle 101,400,Tulipan
+Calle,12 NE,Calle,101,Calle,103,Calle 12 NE entre Calle 101 y Calle 103,400,Tulipan
+Calle,12 NE,Calle,103,Calle,105,Calle 12 NE entre Calle 103 y Calle 105,400,Tulipan
+Calle,12 NE,Calle,105,Calle,107,Calle 12 NE entre Calle 105 y Calle 107,400,Tulipan
+Calle,12 NE,Calle,107,Calle,109,Calle 12 NE entre Calle 107 y Calle 109,400,Tulipan
+Calle,12 NE,Calle,109,Calle,119,Calle 12 NE entre Calle 109 y Calle 119,400,Tulipan
+Calle,14 NE,Calle,64A,Calle,71,Calle 14 NE entre Calle 64A y Calle 71,250,La Juanita
+Calle,14 NE,Calle,71,Calle,73,Calle 14 NE entre Calle 71 y Calle 73,250,La Juanita
+Calle,14 NE,Calle,73,Calle,75,Calle 14 NE entre Calle 73 y Calle 75,250,La Juanita
+Calle,14 NE,Calle,75,Calle,77,Calle 14 NE entre Calle 75 y Calle 77,350,Tulipan
+Calle,14 NE,Calle,77,Calle,79,Calle 14 NE entre Calle 77 y Calle 79,350,Tulipan
+Calle,14 NE,Calle,79,Calle,81,Calle 14 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,14 NE,Calle,81,Calle,85,Calle 14 NE entre Calle 81 y Calle 85,350,Tulipan
+Calle,14 NE,Calle,85,Calle,87,Calle 14 NE entre Calle 85 y Calle 87,350,Tulipan
+Calle,14 NE,Calle,87,Calle,89,Calle 14 NE entre Calle 87 y Calle 89,400,Tulipan
+Calle,14 NE,Calle,89,Calle,93,Calle 14 NE entre Calle 89 y Calle 93,400,Tulipan
+Calle,14 NE,Calle,93,Calle,97,Calle 14 NE entre Calle 93 y Calle 97,400,Tulipan
+Calle,14 NE,Calle,97,Calle,99,Calle 14 NE entre Calle 97 y Calle 99,400,Tulipan
+Calle,16 NE ,Calle,64A,Calle,73,Calle 16 NE  entre Calle 64A y Calle 73,250,La Juanita
+Calle,16 NE ,Calle,73,Calle,75,Calle 16 NE  entre Calle 73 y Calle 75,250,La Juanita
+Calle,16 NE ,Calle,75,Calle,77,Calle 16 NE  entre Calle 75 y Calle 77,350,Tulipan
+Calle,16 NE ,Calle,77,Calle,79,Calle 16 NE  entre Calle 77 y Calle 79,350,Tulipan
+Calle,16 NE ,Calle,79,Calle,81,Calle 16 NE  entre Calle 79 y Calle 81,350,Tulipan
+Calle,16 NE ,Calle,81,Calle,85,Calle 16 NE  entre Calle 81 y Calle 85,350,Tulipan
+Calle,16 NE ,Calle,85,Calle,87,Calle 16 NE  entre Calle 85 y Calle 87,350,Tulipan
+Calle,16 NE ,Calle,87,Calle,89,Calle 16 NE  entre Calle 87 y Calle 89,350,Tulipan
+Calle,16 NE ,Calle,89,Calle,93,Calle 16 NE  entre Calle 89 y Calle 93,400,Tulipan
+Calle,16 NE ,Calle,93,Calle,97,Calle 16 NE  entre Calle 93 y Calle 97,400,Tulipan
+Calle,16 NE ,Calle,97,Calle,99,Calle 16 NE  entre Calle 97 y Calle 99,400,Tulipan
+Calle,16 NE ,Calle,99,Calle,101,Calle 16 NE  entre Calle 99 y Calle 101,400,Tulipan
+Calle,16 NE ,Calle,101,Calle,105,Calle 16 NE  entre Calle 101 y Calle 105,400,Tulipan
+Calle,16 NE ,Calle,105,Calle,107,Calle 16 NE  entre Calle 105 y Calle 107,400,Tulipan
+Calle,16 NE ,Calle,107,Calle,109,Calle 16 NE  entre Calle 107 y Calle 109,400,Tulipan
+Calle,16 NE ,Calle,109,Calle,12 NE,Calle 16 NE  entre Calle 109 y Calle 12 NE,400,Tulipan
+Calle,18 NE,Calle,75,Calle,77,Calle 18 NE entre Calle 75 y Calle 77,350,Tulipan
+Calle,18 NE,Calle,77,Calle,79,Calle 18 NE entre Calle 77 y Calle 79,350,Tulipan
+Calle,18 NE,Calle,79,Calle,81,Calle 18 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,18 NE,Calle,81,Calle,85,Calle 18 NE entre Calle 81 y Calle 85,350,Tulipan
+Calle,18 NE,Calle,85,Calle,87,Calle 18 NE entre Calle 85 y Calle 87,350,Tulipan
+Calle,18 NE,Calle,87,Calle,89,Calle 18 NE entre Calle 87 y Calle 89,350,Tulipan
+Calle,18 NE,Calle,89,Calle,93,Calle 18 NE entre Calle 89 y Calle 93,350,Tulipan
+Calle,18 NE,Calle,93,Calle,97,Calle 18 NE entre Calle 93 y Calle 97,400,Tulipan
+Calle,18 NE,Calle,97,Calle,99,Calle 18 NE entre Calle 97 y Calle 99,400,Tulipan
+Calle,18 NE,Calle,99,Calle,101,Calle 18 NE entre Calle 99 y Calle 101,400,Tulipan
+Calle,18 NE,Calle,101,Calle,103,Calle 18 NE entre Calle 101 y Calle 103,400,Tulipan
+Calle,20 NE,Calle,64A,Calle,79,Calle 20 NE entre Calle 64A y Calle 79,350,Tulipan
+Calle,20 NE,Calle,79,Calle,81,Calle 20 NE entre Calle 79 y Calle 81,350,Tulipan
+Calle,20 NE,Calle,81,Calle,85,Calle 20 NE entre Calle 81 y Calle 85,350,Tulipan
+Calle,20 NE,Calle,85,Calle,87,Calle 20 NE entre Calle 85 y Calle 87,350,Tulipan
+Calle,20 NE,Calle,87,Calle,89,Calle 20 NE entre Calle 87 y Calle 89,350,Tulipan
+Calle,20 NE,Calle,89,Calle,93,Calle 20 NE entre Calle 89 y Calle 93,350,Tulipan
+Calle,20 NE,Calle,93,Calle,97,Calle 20 NE entre Calle 93 y Calle 97,350,Tulipan
+Calle,20 NE,Calle,97,Calle,99,Calle 20 NE entre Calle 97 y Calle 99,400,Tulipan
+Calle,20 NE,Calle,99,Calle,101,Calle 20 NE entre Calle 99 y Calle 101,400,Tulipan
+Calle,22 NE,Calle,64A,Calle,81,Calle 22 NE entre Calle 64A y Calle 81,350,Tulipan
+Calle,22 NE,Calle,81,Calle,85,Calle 22 NE entre Calle 81 y Calle 85,350,Tulipan
+Calle,22 NE,Calle,85,Calle,87,Calle 22 NE entre Calle 85 y Calle 87,350,Tulipan
+Calle,22 NE,Calle,87,Calle,89,Calle 22 NE entre Calle 87 y Calle 89,350,Tulipan
+Calle,22 NE,Calle,89,Calle,93,Calle 22 NE entre Calle 89 y Calle 93,350,Tulipan
+Calle,22 NE,Calle,93,Calle,97,Calle 22 NE entre Calle 93 y Calle 97,350,Tulipan
+Calle,22 NE,Calle,97,Calle,99,Calle 22 NE entre Calle 97 y Calle 99,350,Tulipan
+Calle,22 NE,Calle,99,Calle,101,Calle 22 NE entre Calle 99 y Calle 101,400,Tulipan
+Calle,24 NE,Calle,85,Calle,87,Calle 24 NE entre Calle 85 y Calle 87,350,Tulipan
+Calle,24 NE,Calle,87,Calle,89,Calle 24 NE entre Calle 87 y Calle 89,350,Tulipan
+Calle,24 NE,Calle,89,Calle,93,Calle 24 NE entre Calle 89 y Calle 93,350,Tulipan
+Calle,24 NE,Calle,93,Calle,97,Calle 24 NE entre Calle 93 y Calle 97,350,Tulipan
+Calle,24 NE,Calle,97,Calle,99,Calle 24 NE entre Calle 97 y Calle 99,350,Tulipan
+Calle,26 NE,Calle,64A,Calle,89,Calle 26 NE entre Calle 64A y Calle 89,350,Tulipan
+Calle,26 NE,Calle,89,Calle,93,Calle 26 NE entre Calle 89 y Calle 93,350,Tulipan
+Calle,26 NE,Calle,93,Calle,97,Calle 26 NE entre Calle 93 y Calle 97,350,Tulipan
+Calle,26 NE,Calle,97,Calle,99,Calle 26 NE entre Calle 97 y Calle 99,350,Tulipan
+Calle,28 NE,Calle,93,Calle,97,Calle 28 NE entre Calle 93 y Calle 97,350,Tulipan
+Avenida,66,Calle,29,Calle,31,Avenida 66 entre Calle 29 y Calle 31,300,Punta Gotica
+Avenida,66,Calle,31,Calle,33,Avenida 66 entre Calle 31 y Calle 33,300,Punta Gotica
+Avenida,66,Calle,33,Calle,35,Avenida 66 entre Calle 33 y Calle 35,300,Punta Gotica
+Avenida,66,Calle,35,Calle,37,Avenida 66 entre Calle 35 y Calle 37,300,Punta Gotica
+Avenida,66,Calle,37,Calle,39,Avenida 66 entre Calle 37 y Calle 39,300,San Lazaro
+Avenida,66,Calle,39,Calle,41,Avenida 66 entre Calle 39 y Calle 41,300,San Lazaro
+Avenida,66,Calle,41,Calle,45,Avenida 66 entre Calle 41 y Calle 45,300,San Lazaro
+Avenida,66,Calle,45,Calle,47,Avenida 66 entre Calle 45 y Calle 47,250,San Lazaro
+Avenida,66,Calle,47,Calle,49,Avenida 66 entre Calle 47 y Calle 49,250,San Lazaro
+Avenida,66,Calle,49,Calle,51,Avenida 66 entre Calle 49 y Calle 51,250,San Lazaro
+Avenida,66,Calle,51,Calle,53,Avenida 66 entre Calle 51 y Calle 53,250,San Lazaro
+Avenida,66,Calle,53,Calle,55,Avenida 66 entre Calle 53 y Calle 55,250,San Lazaro
+Avenida,66,Calle,59,Calle,61,Avenida 66 entre Calle 59 y Calle 61,250,San Lazaro
+Avenida,66,Calle,61,Calle,63,Avenida 66 entre Calle 61 y Calle 63,250,Pueblo Grifo
+Avenida,66,Calle,87,Calle,89,Avenida 66 entre Calle 87 y Calle 89,350,Buena vista
+Avenida,66,Calle,89,Calle,97,Avenida 66 entre Calle 89 y Calle 97,350,Buena vista
+Avenida,66,Calle,97,Calle,99,Avenida 66 entre Calle 97 y Calle 99,350,Buena vista
+Avenida,66,Calle,99,Calle,101,Avenida 66 entre Calle 99 y Calle 101,350,Buena vista
+Avenida,66,Calle,101,Calle,103,Avenida 66 entre Calle 101 y Calle 103,350,Buena vista
+Avenida,66,Calle,103,Calle,105,Avenida 66 entre Calle 103 y Calle 105,350,Buena vista
+Avenida,66,Calle,105,Calle,107,Avenida 66 entre Calle 105 y Calle 107,400,Buena vista
+Avenida,66,Calle,107,Calle,109,Avenida 66 entre Calle 107 y Calle 109,400,Buena vista
+Avenida,66,Calle,109,Calle,111,Avenida 66 entre Calle 109 y Calle 111,400,Buena vista
+Avenida,66,Calle,111,Calle,113,Avenida 66 entre Calle 111 y Calle 113,400,Buena vista
+Avenida,66,Calle,113,Calle,CIRCUNVALACION,Avenida 66 entre Calle 113 y Calle CIRCUNVALACION,400,Buena vista
+Avenida,66,Calle,CIRCUNVALACION,Calle,115,Avenida 66 entre Calle CIRCUNVALACION y Calle 115,450,Buena vista
+Avenida,66,Calle,115,Calle,117,Avenida 66 entre Calle 115 y Calle 117,450,Buena vista
+Avenida,66,Calle,117,Calle,119,Avenida 66 entre Calle 117 y Calle 119,450,Buena vista
+Avenida,66,Calle,119,Calle,121,Avenida 66 entre Calle 119 y Calle 121,450,Buena vista
+Avenida,66,Calle,123,Calle,125,Avenida 66 entre Calle 123 y Calle 125,500,La Esperanza
+Avenida,66,Calle,125,Calle,127,Avenida 66 entre Calle 125 y Calle 127,500,La Esperanza
+Avenida,66,Calle,127,Calle,129,Avenida 66 entre Calle 127 y Calle 129,500,La Esperanza
+Avenida,66,Calle,129,Calle,131,Avenida 66 entre Calle 129 y Calle 131,500,La Esperanza
+Avenida,66,Calle,131,Calle,133,Avenida 66 entre Calle 131 y Calle 133,500,La Esperanza
+Avenida,68,Calle,29,Calle,31,Avenida 68 entre Calle 29 y Calle 31,300,Punta Gotica
+Avenida,68,Calle,31,Calle,33,Avenida 68 entre Calle 31 y Calle 33,300,Punta Gotica
+Avenida,68,Calle,33,Calle,35,Avenida 68 entre Calle 33 y Calle 35,300,Punta Gotica
+Avenida,68,Calle,35,Calle,37,Avenida 68 entre Calle 35 y Calle 37,300,Punta Gotica
+Avenida,68,Calle,39,Calle,41,Avenida 68 entre Calle 39 y Calle 41,300,San Lazaro
+Avenida,68,Calle,41,Calle,45,Avenida 68 entre Calle 41 y Calle 45,300,San Lazaro
+Avenida,68,Calle,45,Calle,47,Avenida 68 entre Calle 45 y Calle 47,250,San Lazaro
+Avenida,68,Calle,49,Calle,51,Avenida 68 entre Calle 49 y Calle 51,250,San Lazaro
+Avenida,68,Calle,51,Calle,53,Avenida 68 entre Calle 51 y Calle 53,250,San Lazaro
+Avenida,68,Calle,53,Calle,55,Avenida 68 entre Calle 53 y Calle 55,250,San Lazaro
+Avenida,68,Calle,57,Calle,59,Avenida 68 entre Calle 57 y Calle 59,250,San Lazaro
+Avenida,68,Calle,59,Calle,61,Avenida 68 entre Calle 59 y Calle 61,250,San Lazaro
+Avenida,68,Calle,61,Calle,63,Avenida 68 entre Calle 61 y Calle 63,250,Pueblo Grifo
+Avenida,68,Calle,87,Calle,89,Avenida 68 entre Calle 87 y Calle 89,350,Buena vista
+Avenida,68,Calle,89,Calle,97,Avenida 68 entre Calle 89 y Calle 97,350,Buena vista
+Avenida,68,Calle,97,Calle,99,Avenida 68 entre Calle 97 y Calle 99,350,Buena vista
+Avenida,68,Calle,99,Calle,101,Avenida 68 entre Calle 99 y Calle 101,350,Buena vista
+Avenida,68,Calle,101,Calle,103,Avenida 68 entre Calle 101 y Calle 103,350,Buena vista
+Avenida,68,Calle,103,Calle,105,Avenida 68 entre Calle 103 y Calle 105,350,Buena vista
+Avenida,68,Calle,105,Calle,107,Avenida 68 entre Calle 105 y Calle 107,400,Buena vista
+Avenida,68,Calle,107,Calle,109,Avenida 68 entre Calle 107 y Calle 109,400,Buena vista
+Avenida,68,Calle,109,Calle,111,Avenida 68 entre Calle 109 y Calle 111,400,Buena vista
+Avenida,68,Calle,111,Calle,113,Avenida 68 entre Calle 111 y Calle 113,400,Buena vista
+Avenida,68,Calle,CIRCUNVALACION,Calle,115,Avenida 68 entre Calle CIRCUNVALACION y Calle 115,400,Buena vista
+Avenida,68,Calle,115,Calle,117,Avenida 68 entre Calle 115 y Calle 117,450,Buena vista
+Avenida,68,Calle,117,Calle,119,Avenida 68 entre Calle 117 y Calle 119,450,Buena vista
+Avenida,68,Calle,119,Calle,121,Avenida 68 entre Calle 119 y Calle 121,450,Buena vista
+Avenida,68,Calle,123,Calle,125,Avenida 68 entre Calle 123 y Calle 125,500,La Esperanza
+Avenida,68,Calle,125,Calle,127,Avenida 68 entre Calle 125 y Calle 127,500,La Esperanza
+Avenida,68,Calle,127,Calle,129,Avenida 68 entre Calle 127 y Calle 129,500,La Esperanza
+Avenida,68,Calle,129,Calle,131,Avenida 68 entre Calle 129 y Calle 131,500,La Esperanza
+Avenida,68,Calle,131,Calle,133,Avenida 68 entre Calle 131 y Calle 133,500,La Esperanza
+Avenida,68A,Calle,57,Calle,57A,Avenida 68A entre Calle 57 y Calle 57A,250,Pueblo Grifo
+Avenida,68A,Calle,57A,Calle,59,Avenida 68A entre Calle 57A y Calle 59,250,Pueblo Grifo
+Avenida,70,Calle,31,Calle,33,Avenida 70 entre Calle 31 y Calle 33,300,Punta Gotica
+Avenida,70,Calle,33,Calle,35,Avenida 70 entre Calle 33 y Calle 35,300,Punta Gotica
+Avenida,70,Calle,35,Calle,37,Avenida 70 entre Calle 35 y Calle 37,300,Punta Gotica
+Avenida,70,Calle,37,Calle,39,Avenida 70 entre Calle 37 y Calle 39,300,San Lazaro
+Avenida,70,Calle,39,Calle,41,Avenida 70 entre Calle 39 y Calle 41,300,San Lazaro
+Avenida,70,Calle,41,Calle,45,Avenida 70 entre Calle 41 y Calle 45,300,San Lazaro
+Avenida,70,Calle,45,Calle,49,Avenida 70 entre Calle 45 y Calle 49,300,San Lazaro
+Avenida,70,Calle,49,Calle,51,Avenida 70 entre Calle 49 y Calle 51,300,San Lazaro
+Avenida,70,Calle,57,Calle,57A,Avenida 70 entre Calle 57 y Calle 57A,300,San Lazaro
+Avenida,70,Calle,57A,Calle,59,Avenida 70 entre Calle 57A y Calle 59,300,San Lazaro
+Avenida,70,Calle,59,Calle,61,Avenida 70 entre Calle 59 y Calle 61,300,San Lazaro
+Avenida,70,Calle,61,Calle,63,Avenida 70 entre Calle 61 y Calle 63,300,Pueblo Grifo
+Avenida,70,Calle,63,Calle,65A,Avenida 70 entre Calle 63 y Calle 65A,300,Pueblo Grifo
+Avenida,70,Calle,65A,Calle,67,Avenida 70 entre Calle 65A y Calle 67,300,Pueblo Grifo
+Avenida,70,Calle,67,Calle,69,Avenida 70 entre Calle 67 y Calle 69,300,Pueblo Grifo
+Avenida,70,Calle,83A,Calle,87,Avenida 70 entre Calle 83A y Calle 87,350,Buena vista
+Avenida,70,Calle,87,Calle,89,Avenida 70 entre Calle 87 y Calle 89,350,Buena vista
+Avenida,70,Calle,89,Calle,97,Avenida 70 entre Calle 89 y Calle 97,350,Buena vista
+Avenida,70,Calle,97,Calle,99,Avenida 70 entre Calle 97 y Calle 99,350,Buena vista
+Avenida,70,Calle,99,Calle,101,Avenida 70 entre Calle 99 y Calle 101,350,Buena vista
+Avenida,70,Calle,101,Calle,103,Avenida 70 entre Calle 101 y Calle 103,350,Buena vista
+Avenida,70,Calle,103,Calle,105,Avenida 70 entre Calle 103 y Calle 105,350,Buena vista
+Avenida,70,Calle,105,Calle,107,Avenida 70 entre Calle 105 y Calle 107,400,Buena vista
+Avenida,70,Calle,113,Calle,115,Avenida 70 entre Calle 113 y Calle 115,400,Buena vista
+Avenida,72,Calle,31,Calle,33,Avenida 72 entre Calle 31 y Calle 33,300,Punta Gotica
+Avenida,72,Calle,33,Calle,35,Avenida 72 entre Calle 33 y Calle 35,300,Punta Gotica
+Avenida,72,Calle,35,Calle,37,Avenida 72 entre Calle 35 y Calle 37,300,Punta Gotica
+Avenida,72,Calle,37,Calle,37A,Avenida 72 entre Calle 37 y Calle 37A,300,San Lazaro
+Avenida,72,Calle,37A,Calle,39,Avenida 72 entre Calle 37A y Calle 39,300,San Lazaro
+Avenida,72,Calle,39,Calle,45,Avenida 72 entre Calle 39 y Calle 45,300,San Lazaro
+Avenida,72,Calle,45,Calle,49,Avenida 72 entre Calle 45 y Calle 49,300,San Lazaro
+Avenida,72,Calle,49,Calle,51,Avenida 72 entre Calle 49 y Calle 51,300,San Lazaro
+Avenida,72,Calle,51,Calle,53,Avenida 72 entre Calle 51 y Calle 53,300,San Lazaro
+Avenida,72,Calle,53,Calle,55,Avenida 72 entre Calle 53 y Calle 55,300,San Lazaro
+Avenida,72,Calle,55,Calle,57,Avenida 72 entre Calle 55 y Calle 57,300,San Lazaro
+Avenida,72,Calle,57,Calle,59,Avenida 72 entre Calle 57 y Calle 59,300,San Lazaro
+Avenida,72,Calle,59,Calle,61,Avenida 72 entre Calle 59 y Calle 61,300,San Lazaro
+Avenida,72,Calle,61,Calle,63,Avenida 72 entre Calle 61 y Calle 63,300,Pueblo Grifo
+Avenida,72,Calle,63,Calle,65,Avenida 72 entre Calle 63 y Calle 65,300,Pueblo Grifo
+Avenida,72,Calle,65,Calle,65A,Avenida 72 entre Calle 65 y Calle 65A,300,Pueblo Grifo
+Avenida,72,Calle,65A,Calle,67,Avenida 72 entre Calle 65A y Calle 67,300,Pueblo Grifo
+Avenida,72,Calle,67,Calle,69,Avenida 72 entre Calle 67 y Calle 69,300,Pueblo Grifo
+Avenida,72,Calle,69,Calle,83,Avenida 72 entre Calle 69 y Calle 83,300,Pueblo Grifo
+Avenida,72,Calle,83,Calle,89,Avenida 72 entre Calle 83 y Calle 89,350,Pueblo Grifo
+Avenida,72,Calle,89,Calle,CIRCUNVALACION,Avenida 72 entre Calle 89 y Calle CIRCUNVALACION,350,Buena vista
+Avenida,72,Calle,83A,Calle,89,Avenida 72 entre Calle 83A y Calle 89,350,Buena vista
+Avenida,72,Calle,89,Calle,97,Avenida 72 entre Calle 89 y Calle 97,350,Buena vista
+Avenida,72,Calle,97,Calle,99,Avenida 72 entre Calle 97 y Calle 99,400,Buena vista
+Avenida,72,Calle,99,Calle,101,Avenida 72 entre Calle 99 y Calle 101,400,Buena vista
+Avenida,72,Calle,101,Calle,103,Avenida 72 entre Calle 101 y Calle 103,400,Buena vista
+Avenida,72,Calle,103,Calle,105,Avenida 72 entre Calle 103 y Calle 105,400,Buena vista
+Avenida,74,Calle,31,Calle,33,Avenida 74 entre Calle 31 y Calle 33,300,Punta Gotica
+Avenida,74,Calle,37,Calle,37A,Avenida 74 entre Calle 37 y Calle 37A,300,San Lazaro
+Avenida,74,Calle,37A,Calle,39,Avenida 74 entre Calle 37A y Calle 39,300,San Lazaro
+Avenida,74,Calle,39,Calle,45,Avenida 74 entre Calle 39 y Calle 45,300,San Lazaro
+Avenida,74,Calle,45,Calle,49,Avenida 74 entre Calle 45 y Calle 49,300,San Lazaro
+Avenida,74,Calle,49,Calle,51,Avenida 74 entre Calle 49 y Calle 51,300,San Lazaro
+Avenida,74,Calle,51,Calle,53,Avenida 74 entre Calle 51 y Calle 53,300,San Lazaro
+Avenida,74,Calle,53,Calle,55,Avenida 74 entre Calle 53 y Calle 55,300,San Lazaro
+Avenida,74,Calle,55,Calle,57,Avenida 74 entre Calle 55 y Calle 57,300,San Lazaro
+Avenida,74,Calle,57,Calle,59,Avenida 74 entre Calle 57 y Calle 59,300,San Lazaro
+Avenida,74,Calle,59,Calle,63,Avenida 74 entre Calle 59 y Calle 63,300,San Lazaro
+Avenida,74,Calle,63,Calle,65,Avenida 74 entre Calle 63 y Calle 65,300,Pueblo Grifo
+Avenida,74,Calle,67,Calle,69,Avenida 74 entre Calle 67 y Calle 69,300,Pueblo Grifo
+Avenida,74,Calle,97,Calle,99,Avenida 74 entre Calle 97 y Calle 99,400,Buena vista
+Avenida,74,Calle,99,Calle,99A,Avenida 74 entre Calle 99 y Calle 99A,400,Buena vista
+Avenida,74,Calle,99A,Calle,101,Avenida 74 entre Calle 99A y Calle 101,400,Buena vista
+Avenida,74,Calle,101,Calle,CIRCUNVALACION,Avenida 74 entre Calle 101 y Calle CIRCUNVALACION,400,Buena vista
+Avenida,76,Calle,49,Calle,51,Avenida 76 entre Calle 49 y Calle 51,300,San Lazaro
+Avenida,76,Calle,51,Calle,53,Avenida 76 entre Calle 51 y Calle 53,300,San Lazaro
+Avenida,76,Calle,55,Calle,57,Avenida 76 entre Calle 55 y Calle 57,300,San Lazaro
+Avenida,76,Calle,63,Calle,65,Avenida 76 entre Calle 63 y Calle 65,300,Pueblo Grifo
+Avenida,76,Calle,83A,Calle,89,Avenida 76 entre Calle 83A y Calle 89,350,Buena vista
+Avenida,76,Calle,89,Calle,99,Avenida 76 entre Calle 89 y Calle 99,350,Buena vista
+Avenida,76,Calle,99,Calle,99A,Avenida 76 entre Calle 99 y Calle 99A,400,Buena vista
+Avenida,76,Calle,99A,Calle,CIRCUNVALACION,Avenida 76 entre Calle 99A y Calle CIRCUNVALACION,400,Buena vista
+Avenida,78,Calle,63,Calle,65,Avenida 78 entre Calle 63 y Calle 65,300,Pueblo Grifo
+Avenida,78,Calle,65,Calle,67,Avenida 78 entre Calle 65 y Calle 67,300,Pueblo Grifo
+Avenida,78,Calle,67,Calle,69,Avenida 78 entre Calle 67 y Calle 69,300,Pueblo Grifo
+Avenida,78,Calle,69,Calle,71,Avenida 78 entre Calle 69 y Calle 71,300,Pueblo Grifo
+Avenida,UNIDAD TMC,Calle,UNIDAD TMC,Calle,UNIDAD TMC,Avenida UNIDAD TMC entre Calle UNIDAD TMC y Calle UNIDAD TMC,300,Pueblo Grifo
+Avenida,78A,Calle,63,Calle,65,Avenida 78A entre Calle 63 y Calle 65,300,Pueblo Grifo
+Avenida,78A,Calle,65,Calle,69,Avenida 78A entre Calle 65 y Calle 69,300,Pueblo Grifo
+Avenida,78A,Calle,69,Calle,71,Avenida 78A entre Calle 69 y Calle 71,300,Pueblo Grifo
+Avenida,78A,Calle,71,Calle,CIRCUNVALACION,Avenida 78A entre Calle 71 y Calle CIRCUNVALACION,300,Pueblo Grifo
+Avenida,80,Calle,63,Calle,65,Avenida 80 entre Calle 63 y Calle 65,300,Pueblo Grifo
+Avenida,80,Calle,65,Calle,69,Avenida 80 entre Calle 65 y Calle 69,300,Pueblo Grifo
+Avenida,82,Calle,35,Calle,82A,Avenida 82 entre Calle 35 y Calle 82A,350,Pastorita
+Avenida,82A,Calle,82,Calle,27,Avenida 82A entre Calle 82 y Calle 27,350,Pastorita
+Avenida,82B,Calle,25,Calle,27,Avenida 82B entre Calle 25 y Calle 27,350,Pastorita
+Avenida,84,Calle,31,Calle,33A,Avenida 84 entre Calle 31 y Calle 33A,350,Pastorita
+Avenida,84,Calle,33A,Calle,33,Avenida 84 entre Calle 33A y Calle 33,350,Pastorita
+Avenida,84A,Calle,29,Calle,31,Avenida 84A entre Calle 29 y Calle 31,350,Pastorita
+Avenida,86,Calle,31,Calle,33A,Avenida 86 entre Calle 31 y Calle 33A,350,Pastorita
+Avenida,86,Calle,33A,Calle,35,Avenida 86 entre Calle 33A y Calle 35,350,Pastorita
+Avenida,88,Calle,31,Calle,35,Avenida 88 entre Calle 31 y Calle 35,350,Pastorita
+Avenida,90,Calle,29,Calle,31,Avenida 90 entre Calle 29 y Calle 31,350,Pastorita
+Avenida,90,Calle,31,Calle,35,Avenida 90 entre Calle 31 y Calle 35,350,Pastorita
+Avenida,VIAL UNIVERSIDAD,Calle,VIAL UNIVERSIDAD,Calle,VIAL UNIVERSIDAD,Avenida VIAL UNIVERSIDAD entre Calle VIAL UNIVERSIDAD y Calle VIAL UNIVERSIDAD,450,Vial Universidad
+Avenida,PEDIATRICO,Calle,PEDIATRICO,Calle,PEDIATRICO,Avenida PEDIATRICO entre Calle PEDIATRICO y Calle PEDIATRICO,150,Pediatrico
+Avenida,CIENCIAS MEDICAS,Calle,CIENCIAS MEDICAS,Calle,CIENCIAS MEDICAS,Avenida CIENCIAS MEDICAS entre Calle CIENCIAS MEDICAS y Calle CIENCIAS MEDICAS,250,Ciencias Medicas
+Avenida,HOSPITAL,Calle,HOSPITAL,Calle,HOSPITAL,Avenida HOSPITAL entre Calle HOSPITAL y Calle HOSPITAL,100,Hospital
+Avenida,PUNTA LA CUEVA,Calle,PUNTA LA CUEVA,Calle,PUNTA LA CUEVA,Avenida PUNTA LA CUEVA entre Calle PUNTA LA CUEVA y Calle PUNTA LA CUEVA,550,Punta la Cueva

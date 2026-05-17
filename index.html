@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cienfuegos Express - Tarifas y Reparto</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; }
+    </style>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen antialiased flex flex-col justify-between">
+
+    <div class="max-w-md mx-auto bg-slate-800 min-h-screen w-full flex flex-col justify-between shadow-2xl border-x border-slate-700">
+        
+        <header class="bg-blue-700 p-4 sticky top-0 z-50 flex items-center gap-4 border-b border-blue-600 shadow-lg">
+            <div class="w-14 h-14 bg-white rounded-full flex items-center justify-center overflow-hidden border-2 border-blue-950 shadow-md">
+                <span class="text-2xl">🛵</span> 
+            </div>
+            <div>
+                <h1 class="text-xl font-bold tracking-wide text-white uppercase">Cienfuegos Express</h1>
+                <p class="text-xs text-blue-100 font-medium">Logística de reparto local</p>
+            </div>
+        </header>
+
+        <main class="p-5 flex-1 space-y-6 overflow-y-auto">
+
+            <section class="bg-slate-700/50 p-4 rounded-2xl border border-slate-600 space-y-4 shadow-xl">
+                <div class="flex items-center gap-2">
+                    <span class="text-xl">📍</span>
+                    <h2 class="font-bold text-base text-white">Consulta la tarifa de tu dirección</h2>
+                </div>
+
+                <div class="space-y-2">
+                    <label class="block text-xs font-semibold text-slate-300 uppercase tracking-wider">Escribe tu calle o dirección:</label>
+                    <input type="text" id="buscarDireccion" placeholder="Ej: Calle 37 o Tulipán..." 
+                           class="w-full p-3 bg-slate-800 border border-slate-600 rounded-xl text-white placeholder-slate-400 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all text-sm shadow-inner">
+                </div>
+
+                <div id="listaSugerencias" class="hidden max-h-48 overflow-y-auto bg-slate-800 border border-slate-600 rounded-xl divide-y divide-slate-700 text-sm"></div>
+
+                <div id="resultadoTarifa" class="hidden bg-gradient-to-br from-blue-900/40 to-blue-800/20 border border-blue-500/30 p-4 rounded-xl space-y-2">
+                    <div class="flex justify-between items-baseline">
+                        <span class="text-xs font-medium text-blue-300 uppercase">Costo del Domicilio:</span>
+                        <span id="precioTexto" class="font-black text-2xl text-blue-400"></span>
+                    </div>
+                    <div class="text-xs text-slate-300 space-y-1 pt-1 border-t border-slate-600/50">
+                        <p class="font-semibold text-white">📌 Dirección exacta detectada:</p>
+                        <p id="detallesDireccion" class="italic text-slate-400"></p>
+                        <p class="pt-1">📍 <span class="font-semibold text-slate-200">Zona:</span> <span id="zonaTexto" class="text-blue-300 font-medium"></span></p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg-slate-900/60 p-4 rounded-2xl border border-slate-700/60 space-y-4 shadow-md">
+                <div class="flex justify-between items-center">
+                    <h3 class="font-bold text-xs text-slate-400 uppercase tracking-widest">Rastreo de Motorina</h3>
+                    <span class="text-[10px] bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded-full font-bold uppercase tracking-wider animate-pulse">Señal Activa</span>
+                </div>
+                
+                <div class="space-y-5 relative before:absolute before:left-[15px] before:top-2 before:bottom-2 before:w-0.5 before:bg-slate-700">
+                    <div class="flex items-start gap-4 relative" id="est-1">
+                        <div class="w-8 h-8 rounded-full bg-blue-600 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold shadow-md">📋</div>
+                        <div>
+                            <p class="font-bold text-sm text-white">Pedido Confirmado</p>
+                            <p class="text-xs text-slate-400">La orden está lista en base</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-4 relative opacity-30 transition-opacity duration-300" id="est-2">
+                        <div class="w-8 h-8 rounded-full bg-amber-500 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold shadow-md">🛵</div>
+                        <div>
+                            <p class="font-bold text-sm text-white">En Reparto (Motorina)</p>
+                            <p class="text-xs text-slate-400">El repartidor va camino a tu ubicación</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-4 relative opacity-30 transition-opacity duration-300" id="est-3">
+                        <div class="w-8 h-8 rounded-full bg-emerald-500 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold shadow-md">✅</div>
+                        <div>
+                            <p class="font-bold text-sm text-white">¡Entregado con éxito!</p>
+                            <p class="text-xs text-slate-400">Repartidor llegó a destino</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg-amber-950/20 border border-amber-500/20 p-3 rounded-xl space-y-2">
+                <h4 class="font-bold text-amber-400 text-[10px] uppercase tracking-widest">🔒 Panel de Control del Motorista</h4>
+                <div class="grid grid-cols-2 gap-2">
+                    <button onclick="actualizarMotorina(2)" class="bg-amber-600 hover:bg-amber-700 text-white text-xs font-semibold py-2 px-3 rounded-lg shadow active:scale-95 transition-all">🛵 Iniciar Viaje</button>
+                    <button onclick="actualizarMotorina(3)" class="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-semibold py-2 px-3 rounded-lg shadow active:scale-95 transition-all">✅ Finalizar Entrega</button>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="p-3 text-center text-[10px] text-slate-500 border-t border-slate-700/50 bg-slate-900/40">
+            &copy; 2026 Cienfuegos Express. Optimizada para el ahorro de datos móviles.
+        </footer>
+
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script>
+        let baseDatosDirecciones = [];
+
+        // Leer automáticamente tu archivo de Excel (.csv) desde la carpeta
+        Papa.parse("direcciones.csv", {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: function(resultados) {
+                baseDatosDirecciones = resultados.data;
+                console.log("Base de datos cargada correctamente:", baseDatosDirecciones.length, "direcciones.");
+            }
+        });
+
+        const inputBuscar = document.getElementById('buscarDireccion');
+        const listaSugerencias = document.getElementById('listaSugerencias');
+        const resultadoTarifa = document.getElementById('resultadoTarifa');
+        const precioTexto = document.getElementById('precioTexto');
+        const detallesDireccion = document.getElementById('detallesDireccion');
+        const zonaTexto = document.getElementById('zonaTexto');
+
+        // Buscador interactivo en tiempo real
+        inputBuscar.addEventListener('input', (e) => {
+            const texto = e.target.value.toLowerCase().trim();
+            listaSugerencias.innerHTML = "";
+            
+            if (texto.length < 2) {
+                listaSugerencias.classList.add('hidden');
+                return;
+            }
+
+            // Filtrar las filas del Excel que coincidan con lo que escribe el usuario
+            const coincidencias = baseDatosDirecciones.filter(fila => {
+                const completa = (fila.direccion_completa || "").toLowerCase();
+                const zona = (fila.zona || "").toLowerCase();
+                return completa.includes(texto) || zona.includes(texto);
+            }).slice(0, 5); // Mostrar solo las 5 mejores opciones para ahorrar espacio
+
+            if (coincidencias.length > 0) {
+                listaSugerencias.classList.remove('hidden');
+                coincidencias.forEach(fila => {
+                    const item = document.createElement('div');
+                    item.className = "p-3 hover:bg-slate-700 cursor-pointer transition-colors text-slate-200 border-b border-slate-700/50 last:border-0";
+                    item.innerText = fila.direccion_completa;
+                    item.addEventListener('click', () => {
+                        // Al hacer clic, mostrar el precio de ese registro del Excel
+                        precioTexto.innerText = `${fila.precio} CUP`;
+                        detallesDireccion.innerText = fila.direccion_completa;
+                        zonaTexto.innerText = fila.zona || "General";
+                        resultadoTarifa.classList.remove('hidden');
+                        listaSugerencias.classList.add('hidden');
+                        inputBuscar.value = fila.direccion_completa;
+                    });
+                    listaSugerencias.appendChild(item);
+                });
+            } else {
+                listaSugerencias.classList.add('hidden');
+            }
+        });
+
+        // Función para cambiar los estados de la moto
+        function actualizarMotorina(paso) {
+            document.getElementById('est-2').classList.add('opacity-30');
+            document.getElementById('est-3').classList.add('opacity-30');
+            
+            if (paso >= 2) document.getElementById('est-2').classList.remove('opacity-30');
+            if (paso >= 3) document.getElementById('est-3').classList.remove('opacity-30');
+        }
+    </script>
+</body>
+</html>
