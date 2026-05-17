@@ -3,108 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cienfuegos Express - Tarifas y Reparto</title>
+    <title>Cienfuegos Express - Tarifas y Pedidos</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
         body { font-family: system-ui, -apple-system, sans-serif; }
-        .fondo-logo {
-            background-image: linear-gradient(to bottom, rgba(30, 41, 59, 0.94), rgba(30, 41, 59, 0.94)), url('logo.png');
-            background-position: center 35%;
-            background-repeat: no-repeat;
-            background-size: 110% auto;
-        }
     </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen antialiased flex flex-col justify-between">
+<body class="bg-slate-950 text-slate-100 min-h-screen antialiased flex items-center justify-center p-0 sm:p-4">
 
-    <div class="max-w-md mx-auto bg-slate-800 min-h-screen w-full flex flex-col justify-between shadow-2xl border-x border-slate-700 fondo-logo">
+    <div class="max-w-md w-full bg-slate-900 min-h-screen sm:min-h-0 sm:rounded-3xl shadow-2xl border border-slate-800 flex flex-col overflow-hidden">
         
-        <header class="bg-blue-700/95 backdrop-blur-sm p-4 sticky top-0 z-50 flex items-center gap-4 border-b border-blue-600 shadow-lg">
-            <div class="w-14 h-14 bg-white rounded-full flex items-center justify-center overflow-hidden border-2 border-blue-950 shadow-md">
-                <img src="logo.png" alt="Logo" class="w-full h-full object-cover" onerror="this.style.display='none'">
+        <header class="bg-gradient-to-b from-blue-700 to-blue-800 p-6 flex flex-col items-center text-center border-b border-blue-600 shadow-lg relative">
+            <div class="w-20 h-20 bg-white rounded-full flex items-center justify-center overflow-hidden border-4 border-slate-950 shadow-xl mb-3">
+                <img src="logo.png" alt="Cienfuegos Express" class="w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=150';">
             </div>
-            <div>
-                <h1 class="text-xl font-bold tracking-wide text-white uppercase">Cienfuegos Express</h1>
-                <p class="text-xs text-blue-100 font-medium">Logística de reparto local</p>
-            </div>
+            <h1 class="text-2xl font-black tracking-wide text-white uppercase">Cienfuegos Express</h1>
+            <p class="text-xs text-blue-200 font-medium mt-1">Logística de reparto local rápido</p>
         </header>
 
-        <main class="p-5 flex-1 space-y-6 overflow-y-auto">
+        <main class="p-5 flex-1 space-y-6">
 
-            <div id="alertaEstado" class="hidden p-4 rounded-xl text-sm font-bold text-center border transition-all duration-300 animate-pulse shadow-lg">
-                <span id="alertaTexto"></span>
-            </div>
-
-            <section class="bg-slate-800/80 backdrop-blur-md p-4 rounded-2xl border border-slate-600/80 space-y-4 shadow-xl">
+            <section class="bg-slate-800/90 p-5 rounded-2xl border border-slate-700 space-y-4 shadow-xl">
                 <div class="flex items-center gap-2">
                     <span class="text-xl">📍</span>
-                    <h2 class="font-bold text-base text-white">Consulta la tarifa de tu dirección</h2>
+                    <h2 class="font-bold text-base text-white">Consulta tu dirección</h2>
                 </div>
 
                 <div class="space-y-2">
-                    <label class="block text-xs font-semibold text-slate-300 uppercase tracking-wider">Escribe tu calle o dirección:</label>
-                    <input type="text" id="buscarDireccion" placeholder="Ej: Avenida 36, Calle 37..." 
-                           class="w-full p-3 bg-slate-900/90 border border-slate-600 rounded-xl text-white placeholder-slate-400 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all text-sm shadow-inner">
+                    <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wider">Escribe tu calle o avenida:</label>
+                    <input type="text" id="buscarDireccion" placeholder="Ej: Avenida 2, Calle 35..." 
+                           class="w-full p-3 bg-slate-950 border border-slate-700 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all text-sm shadow-inner">
                 </div>
 
-                <div id="listaSugerencias" class="hidden max-h-56 overflow-y-auto bg-slate-900 border border-slate-600 rounded-xl divide-y divide-slate-700 text-sm shadow-2xl relative z-50"></div>
+                <div id="listaSugerencias" class="hidden max-h-56 overflow-y-auto bg-slate-950 border border-slate-700 rounded-xl divide-y divide-slate-800 text-sm shadow-2xl"></div>
 
-                <div id="resultadoTarifa" class="hidden bg-gradient-to-br from-blue-900/60 to-blue-800/40 border border-blue-500/40 p-4 rounded-xl space-y-2">
+                <div id="resultadoTarifa" class="hidden bg-gradient-to-br from-blue-950/50 to-slate-900/50 border border-blue-500/30 p-4 rounded-xl space-y-4">
                     <div class="flex justify-between items-baseline">
-                        <span class="text-xs font-medium text-blue-300 uppercase">Costo del Domicilio:</span>
+                        <span class="text-xs font-semibold text-blue-400 uppercase">Costo del Domicilio:</span>
                         <span id="precioTexto" class="font-black text-2xl text-blue-400"></span>
                     </div>
-                    <div class="text-xs text-slate-300 space-y-1 pt-1 border-t border-slate-600/50">
-                        <p class="font-semibold text-white">📌 Dirección oficial:</p>
-                        <p id="detallesDireccion" class="italic text-slate-300 bg-slate-900/40 p-2 rounded mt-1 border border-slate-700/30"></p>
-                        <p class="pt-2">📍 <span class="font-semibold text-slate-200">Zona:</span> <span id="zonaTexto" class="text-blue-300 font-bold"></span></p>
+                    
+                    <div class="text-xs text-slate-300 space-y-2 pt-2 border-t border-slate-800">
+                        <p class="font-bold text-slate-200">📌 Dirección de Entrega:</p>
+                        <p id="detallesDireccion" class="italic text-slate-300 bg-slate-950/60 p-2 rounded border border-slate-800"></p>
+                        <p class="pt-1">📍 <span class="font-semibold text-slate-400">Zona de Cienfuegos:</span> <span id="zonaTexto" class="text-blue-400 font-bold"></span></p>
                     </div>
+
+                    <button onclick="enviarPedidoWhatsApp()" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3.5 px-4 rounded-xl shadow-lg transition-all transform active:scale-95 flex items-center justify-center gap-2 cursor-pointer text-sm tracking-wide uppercase mt-2">
+                        <span>💬</span> Solicitar Domicilio Ahora
+                    </button>
                 </div>
             </section>
 
-            <section class="bg-slate-900/80 backdrop-blur-md p-4 rounded-2xl border border-slate-700/80 space-y-4 shadow-md">
-                <div class="flex justify-between items-center">
-                    <h3 class="font-bold text-xs text-slate-400 uppercase tracking-widest">Rastreo de Motorina</h3>
-                    <span id="senalBadge" class="text-[10px] bg-blue-500/10 text-blue-400 border border-blue-500/20 px-2 py-0.5 rounded-full font-bold uppercase tracking-wider">En Base</span>
-                </div>
-                
-                <div class="space-y-5 relative before:absolute before:left-[15px] before:top-2 before:bottom-2 before:w-0.5 before:bg-slate-700">
-                    <div class="flex items-start gap-4 relative transition-all duration-300" id="est-1">
-                        <div id="circulo-1" class="w-8 h-8 rounded-full bg-blue-600 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold shadow-md">📋</div>
-                        <div>
-                            <p class="font-bold text-sm text-white">Pedido Confirmado</p>
-                            <p class="text-xs text-slate-400">La orden está lista en la base</p>
-                        </div>
-                    </div>
-                    <div class="flex items-start gap-4 relative opacity-30 transition-all duration-300" id="est-2">
-                        <div id="circulo-2" class="w-8 h-8 rounded-full bg-slate-700 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold shadow-md">🛵</div>
-                        <div>
-                            <p class="font-bold text-sm text-white">En Reparto (Motorina)</p>
-                            <p class="text-xs text-slate-400">El repartidor va camino a tu ubicación</p>
-                        </div>
-                    </div>
-                    <div class="flex items-start gap-4 relative opacity-30 transition-all duration-300" id="est-3">
-                        <div id="circulo-3" class="w-8 h-8 rounded-full bg-slate-700 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold shadow-md">✅</div>
-                        <div>
-                            <p class="font-bold text-sm text-white">¡Entregado con éxito!</p>
-                            <p class="text-xs text-slate-400">Repartidor llegó a destino</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="bg-amber-950/40 backdrop-blur-sm border border-amber-500/20 p-3 rounded-xl space-y-2">
-                <h4 class="font-bold text-amber-400 text-[10px] uppercase tracking-widest">🔒 Panel de Control del Motorista</h4>
-                <div class="grid grid-cols-2 gap-2">
-                    <button onclick="actualizarMotorina(2)" class="bg-amber-600 hover:bg-amber-700 text-white text-xs font-semibold py-2 px-3 rounded-lg shadow active:scale-95 transition-all cursor-pointer">🛵 Iniciar Viaje</button>
-                    <button onclick="actualizarMotorina(3)" class="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-semibold py-2 px-3 rounded-lg shadow active:scale-95 transition-all cursor-pointer">✅ Finalizar Entrega</button>
-                </div>
+            <section class="bg-slate-900/40 p-4 rounded-xl border border-slate-800 text-xs text-slate-500 text-center">
+                Busca tu dirección, confirma la tarifa de la zona y solicita el envío directamente al repartidor por WhatsApp de forma instantánea.
             </section>
 
         </main>
 
-        <footer class="p-3 text-center text-[10px] text-slate-500 border-t border-slate-700/50 bg-slate-900/80">
-            &copy; 2026 Cienfuegos Express. Optimizada para el ahorro de datos móviles.
+        <footer class="p-4 text-center text-[10px] text-slate-600 border-t border-slate-800 bg-slate-950/50">
+            &copy; 2026 Cienfuegos Express. Optimizado para el ahorro de datos móviles.
         </footer>
 
     </div>
@@ -112,6 +70,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
     <script>
         let baseDatosDirecciones = [];
+        let direccionSeleccionada = "";
+        let precioSeleccionado = "";
+
+        // NÚMERO ACTUALIZADO CON EL +53 DEL REPARTIDOR JOTA JOTA
+        const TELEFONO_REPARTIDOR = "5354671767"; 
 
         Papa.parse("direcciones.csv", {
             download: true,
@@ -140,7 +103,6 @@
         const detallesDireccion = document.getElementById('detallesDireccion');
         const zonaTexto = document.getElementById('zonaTexto');
 
-        // BUSCADOR MEJORADO PARA DAR PRIORIDAD A AVENIDAS
         inputBuscar.addEventListener('input', (e) => {
             const textoBusqueda = nombreSinAcentos(e.target.value);
             listaSugerencias.innerHTML = "";
@@ -156,11 +118,9 @@
                 return dirCompleta.includes(textoBusqueda) || via.includes(textoBusqueda);
             });
 
-            // Si escribes "avenida", empuja arriba los registros cuya vía principal empiece por avenida
             coincidencias.sort((a, b) => {
                 const viaA = nombreSinAcentos(obtenerValorColumna(a, ['via', 'vía']));
                 const viaB = nombreSinAcentos(obtenerValorColumna(b, ['via', 'vía']));
-                
                 if (viaA.includes(textoBusqueda) && viaA.startsWith('av') && !viaB.startsWith('av')) return -1;
                 if (!viaA.startsWith('av') && viaB.includes(textoBusqueda) && viaB.startsWith('av')) return 1;
                 return 0;
@@ -180,9 +140,13 @@
                     item.innerText = dirCompletaOriginal;
                     
                     item.addEventListener('click', () => {
-                        precioTexto.innerText = `${precioOriginal} CUP`;
-                        detallesDireccion.innerText = dirCompletaOriginal;
+                        direccionSeleccionada = dirCompletaOriginal;
+                        precioSeleccionado = `${precioOriginal} CUP`;
+                        
+                        precioTexto.innerText = precioSeleccionado;
+                        detallesDireccion.innerText = direccionSeleccionada;
                         zonaTexto.innerText = zonaOriginal;
+                        
                         resultadoTarifa.classList.remove('hidden');
                         listaSugerencias.classList.add('hidden');
                         inputBuscar.value = dirCompletaOriginal;
@@ -194,45 +158,11 @@
             }
         });
 
-        // FUNCIÓN ACCIÓN DE BOTONES REALES
-        function actualizarMotorina(paso) {
-            const alerta = document.getElementById('alertaEstado');
-            const texto = document.getElementById('alertaTexto');
-            const badge = document.getElementById('senalBadge');
-
-            // Resetear
-            document.getElementById('est-2').classList.add('opacity-30');
-            document.getElementById('circulo-2').className = "w-8 h-8 rounded-full bg-slate-700 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold";
-            document.getElementById('est-3').classList.add('opacity-30');
-            document.getElementById('circulo-3').className = "w-8 h-8 rounded-full bg-slate-700 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold";
-
-            alerta.classList.remove('hidden');
-
-            if (paso === 2) {
-                // Encender En reparto
-                document.getElementById('est-2').classList.remove('opacity-30');
-                document.getElementById('circulo-2').className = "w-8 h-8 rounded-full bg-amber-500 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold text-white animate-bounce shadow-lg shadow-amber-500/50";
-                
-                badge.innerText = "En Viaje";
-                badge.className = "text-[10px] bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded-full font-bold uppercase tracking-wider animate-pulse";
-                
-                alerta.className = "p-4 rounded-xl text-sm font-bold text-center bg-amber-950/50 text-amber-400 border border-amber-500/30 shadow-lg block";
-                texto.innerText = "🛵 ¡Tu pedido va en camino en la motorina! Mantente atento.";
-            }
-            if (paso === 3) {
-                // Encender Completado
-                document.getElementById('est-2').classList.remove('opacity-30');
-                document.getElementById('circulo-2').className = "w-8 h-8 rounded-full bg-amber-500 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold text-white";
-                
-                document.getElementById('est-3').classList.remove('opacity-30');
-                document.getElementById('circulo-3').className = "w-8 h-8 rounded-full bg-emerald-500 border-2 border-slate-900 flex items-center justify-center text-xs z-10 font-bold text-white shadow-lg shadow-emerald-500/50";
-                
-                badge.innerText = "Entregado";
-                badge.className = "text-[10px] bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded-full font-bold uppercase tracking-wider";
-                
-                alerta.className = "p-4 rounded-xl text-sm font-bold text-center bg-emerald-950/50 text-emerald-400 border border-emerald-500/30 shadow-lg block";
-                texto.innerText = "✅ ¡Pedido entregado con éxito! Gracias por usar Cienfuegos Express.";
-            }
+        function enviarPedidoWhatsApp() {
+            if (!direccionSeleccionada) return;
+            const mensaje = `¡Hola! 🛵\n\nQuiero solicitar un servicio de domicilio a la siguiente dirección:\n📍 *${direccionSeleccionada}*\n\nTarifa calculada: *${precioSeleccionado}*`;
+            const mensajeEncriptado = encodeURIComponent(mensaje);
+            window.open(`https://wa.me/${TELEFONO_REPARTIDOR}?text=${mensajeEncriptado}`, '_blank');
         }
     </script>
 </body>
